@@ -1,12 +1,12 @@
 ---
-title: "Rijke tomatennpuree"
+title: "Rijke tomatenpuree"
 date: 2023-01-23T12:48:00+01:00
 draft: false
 
 tags:
 - sherry
 - tomaat
-- zater
+- zatar
 - balsamico azijn
 - 
 categories:
