@@ -1,32 +1,32 @@
 ---
-title: "Balsamico cream sauce for red meat"
+title: "Balsamico roomsaus voor rood vlees"
 date: 2023-01-26T11:08:00+01:00
 draft: false
 
 tags:
-- balsamic Vinegar
-- wild stock
+- balsamico azijn
+- fond
 
 categories:
-- cooking
-- sauce
+- koken
+- saus
 
 cover:
   absolute: false
   image: cover.jpg
 ---
-This sauce is one of my personal all-time favorites and a true secret treasure in our family's recipe collection .If you would give me a plate with only this sauce, I will be a happy man. Seriously, I can drink liters of this stuff. This sauce is the perfect balance of sweet and savory, with the balsamic vinegar and sugar providing a touch of sweetness, and the wild stock giving it a rich, deep flavor. The heavy cream adds a creaminess and gives the sauce the darkbrown chocolate color and that brings it all together.
+Deze saus is een van mijn persoonlijke favorieten aller tijden en een echte geheime schat in de receptencollectie van onze familie. Als je me een bord zou geven met alleen deze saus, zal ik een gelukkig man zijn. Serieus, ik kan liters van dit spul drinken. Deze saus is de perfecte balans tussen zoet en hartig, waarbij de balsamicoazijn en suiker voor een vleugje zoetheid zorgen en de wilde bouillon voor een rijke, diepe smaak. De zware room voegt een romigheid toe en geeft de saus de donkerbruine chocoladekleur en dat brengt alles samen.
 ### Ingredients:
 
--   100 ml red balsamic vinegar
--   2 tablespoons crystal sugar
--   500 ml wild stock
--   250 ml heavy cream
+- 100 ml rode balsamicoazijn
+- 2 eetlepels kristalsuiker
+- 500 ml wildfond
+- 250 ml slagroom
 
 ### Instructions:
 
-1.  In a steel pan, combine the balsamic vinegar and sugar. Cook over medium heat until the mixture thickens and becomes syrupy. Stir constantly to prevent burning.
-2.  Remove from heat and add the wild stock, stirring until well combined.
-3.  Return the pan to the heat and reduce the mixture by 1/3. The sauce will continue to thicken.
-4.  Add the heavy cream and reduce again by 1/2.
-5.  Serve the sauce with your favorite red meat dish and enjoy!
+1. Combineer de balsamicoazijn en suiker in een stalen pan. Kook op middelhoog vuur tot het mengsel dikker wordt en stroperig wordt. Roer constant om aanbranden te voorkomen.
+2. Haal van het vuur en voeg de wildfond toe, roer tot alles goed gemengd is.
+3. Zet de pan terug op het vuur en verminder het mengsel met 1/3. De saus zal verder indikken.
+4. Voeg de slagroom toe en laat opnieuw met 1/2 inkoken.
+5. Serveer de saus bij je favoriete roodvleesgerecht en eet smakelijk!

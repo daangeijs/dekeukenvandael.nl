@@ -1,6 +1,6 @@
 ---
 
-title: "Seaweed Butter"
+title: "Zeewierboter"
 date: 2023-01-25T12:48:00+01:00
 draft: false
 
@@ -9,33 +9,32 @@ author:
   - Elleke Munk
 
 tags:
-- butter
-- seaweed
+- boter
+- zeewier
 - furikake
 
 categories:
-- cooking
-- dip
-- vegetarian
+- koken
+- borrel
+- vegetarisch
 
 
 cover:
   absolute: false
   image: cover.jpg
 ---
-Seaweed butter, or in this case "nori butter",   is a simple and easy spread that I love to eat on a freshly baked sour-dough bread, but you can also use it as a cooking ingredient. Made with a few simple ingredients, this recipe is easy to make and can be stored in the refrigerator for up to 2 weeks or in the freezer for up to 3 months. I recommend making a large batch of finely chopped dried nori, as it's great to have on hand for other dishes such as ramen. When I say finely chopped, I mean that you want to get it as fine as possible, ideally a powder. However, I was not able to achieve this. I chopped it first with a knife as finely as possible and then put it in my kitchen machine at full speed.
+Zeewierboter, of in dit geval "noriboter", is een simpele en makkelijke spread die ik graag eet op een versgebakken zuurdesembrood, maar je kunt het ook gebruiken als kookingrediënt. Dit recept, gemaakt met een paar eenvoudige ingrediënten, is gemakkelijk te maken en kan tot 2 weken in de koelkast of tot 3 maanden in de vriezer worden bewaard. Ik raad aan om een grote hoeveelheid fijngehakte gedroogde nori te maken, want het is geweldig om bij de hand te hebben voor andere gerechten, zoals ramen. Als ik fijngehakt zeg, bedoel ik dat je het zo fijn mogelijk wilt krijgen, idealiter een poeder. Dit heb ik echter niet kunnen realiseren. Ik hakte het eerst met een mes zo fijn mogelijk en deed het daarna op volle toeren in mijn keukenmachine.
 ### Ingredients
 
--   100 grams of unsalted butter
--   2 tablespoons of finely chopped dried nori seaweed sheets
--   1 tablespoon of furikake
--   1 teaspoon (2 grams) of Maldon sea salt
+- 100 gram ongezouten roomboter
+- 2 eetlepels fijngehakte gedroogde nori-zeewiervellen
+- 1 eetlepel furikake
+- 1 theelepel (2 gram) Maldon zeezout
 
 ### Instructions
 
-1.  Soften the butter by leaving it out at room temperature for a few minutes or by microwaving it in short increments.
-2.  In a mixing bowl, combine the butter, chopped nori seaweed, furikake, and Maldon sea salt. I use my KitchenAid for this, but you could do it even by hand if you prefer getting your hands dirty. Just make sure all the ingredients are evenly mixed through the butter mass. 
-4.  Transfer the butter mixture to a sheet of plastic wrap or parchment paper and shape it into a log.
-5.  Refrigerate the butter log for at least 1 hour, or until firm.
-6.  Once firm, slice the butter log into rounds and serve as desired.
-
+1. Maak de boter zacht door hem een paar minuten op kamertemperatuur te laten staan of door hem in korte stappen in de magnetron te zetten.
+2. Meng in een mengkom de boter, fijngehakt nori-zeewier, furikake en Maldon-zeezout. Ik gebruik hiervoor mijn KitchenAid, maar je kunt het zelfs met de hand doen als je liever je handen vuil maakt. Zorg ervoor dat alle ingrediënten gelijkmatig door de botermassa zijn gemengd.
+4. Breng het botermengsel over op een vel plasticfolie of perkamentpapier en vorm er een blok van.
+5. Zet het boterblok minstens 1 uur in de koelkast, of tot het stevig is.
+6. Snijd het boterblok, eenmaal stevig, in rondjes en serveer zoals gewenst.
