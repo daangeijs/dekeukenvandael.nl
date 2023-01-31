@@ -1,4 +1,4 @@
-baseURL: https://www.daangeijs.nl
+baseURL: https://www.dekeukenvandael.nl
 languageCode: en-us
 title: De Keuken van Dael
 theme: "PaperModX"
@@ -20,9 +20,9 @@ pluralizelisttitles: "false"
 
 
 params:
-  title: Keuken Dael
-  description: "Daan Geijs' personal website"
-  author: "Daan Geijs"
+  title: Keuken van Dael
+  description: "Een kijkje in de keuken van Dael"
+  author: "Daan Geijs en Elleke Munk"
   DateFormat: " 2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
