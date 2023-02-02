@@ -28,14 +28,17 @@
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
-<article class="post-entry">
+<article class="recipe-block">
+      <header class="entry-header">
     <h2>Laatste berichten:</h2>
-    {{ range first 10 ( where .Site.Pages.ByDate "Type" "recipes" ) }}
-    <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-        {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-        {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
-    </a>
-
-    {{ end }}
+    </header>
+    <div class="recipe-entry">
+        {{ range first 10 ( where .Site.Pages.ByDate "Type" "recipes" ) }}
+        <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+            {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+            {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+        </a>
+        {{ end }}
+    </div>
 </article>
 {{ end }}
