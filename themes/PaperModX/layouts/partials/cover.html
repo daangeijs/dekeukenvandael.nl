@@ -36,9 +36,6 @@
     {{- if not $.IsHome }}
     {{ with .Params.cover.caption }}<p>{{ . | markdownify }}</p>{{- end }}
     {{- end }}
-    <div class="cover-text">
-        <h2>{{- .Title }}</h2>
-    </div>
 </figure>
 {{- end }}{{/* End image */}}
 {{- end -}}{{/* End context */ -}}

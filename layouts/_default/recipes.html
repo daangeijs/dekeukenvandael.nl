@@ -62,10 +62,13 @@
 {{- end }}
 
 
-{{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-{{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
 
-{{- end }}
+<a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+    {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+    {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    {{- end }}
+</a>
+
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
