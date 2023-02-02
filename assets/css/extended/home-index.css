@@ -32,3 +32,16 @@
 .home-info .entry-content {
     -webkit-line-clamp: unset;
 }
+
+.recipe-block {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border-radius: var(--radius);
+}
+
+.recipe-entry {
+    background-color: white;
+}
