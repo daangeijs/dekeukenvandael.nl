@@ -1,0 +1,41 @@
+{{- define "main" }}
+<h2>Uitgelicht:</h2>
+{{ range first 1 ( where .Site.Pages "Type" "recipes" ) }}
+<article class="first-entry">
+    {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+    {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    <header class="entry-header">
+        <h2>
+            {{- .Title }}
+            {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[Draft]</span></sup>{{- end }}
+            {{- if .Weight }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[Pinned]</span></sup>{{- end }}
+        </h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <section class="entry-content">
+        {{ if .Description }}
+        <p>{{ .Description | plainify | htmlUnescape }}</p>
+        {{ else }}
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        {{ end }}
+    </section>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+        {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+<article class="post-entry">
+    <h2>Laatste berichten:</h2>
+    {{ range first 10 ( where .Site.Pages.ByDate "Type" "recipes" ) }}
+    <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+        {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+        {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    </a>
+
+    {{ end }}
+</article>
+{{ end }}

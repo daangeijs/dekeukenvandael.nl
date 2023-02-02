@@ -1,6 +1,6 @@
 ---
-title: "Search"
+title: "Zoeken"
 layout: "search"
-summary: "search"
-placeholder: "Search for fantastic recipes"
+summary: "zoeken"
+placeholder: "Zoek hier op ingredienten, gerechten, kooktechnieken, etc."
 ---

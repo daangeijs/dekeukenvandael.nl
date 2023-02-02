@@ -1,7 +1,7 @@
 {{- with .cxt}} {{/* Apply proper context from dict */}}
 {{- if (and .Params.cover.image (not $.isHidden)) }}
 {{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}
-<figure class="entry-cover">
+<figure class="recipe-cover">
     {{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default
     true }}
     {{- $addLink := (and site.Params.cover.linkFullImages (not $.IsHome)) }}
@@ -36,7 +36,7 @@
     {{- if not $.IsHome }}
     {{ with .Params.cover.caption }}<p>{{ . | markdownify }}</p>{{- end }}
     {{- end }}
-    <div class="cover-text">
+    <div class="recipe-cover-text">
         {{- .Title }}
     </div>
 

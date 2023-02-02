@@ -25,7 +25,7 @@
     <ul id="searchResults" aria-label="search results"></ul>
 </div>
 
-<h1>Categories</h1>
+<h1>Categorieën</h1>
 <ul class="terms-tags">
     {{- $type := "categories" -}}
     {{- range $key, $value := .Site.Taxonomies.categories.ByCount }}
@@ -39,7 +39,7 @@
     {{- end }}
 </ul>
 
-<h1>Ingredients</h1>
+<h1>Ingrediënten</h1>
 <ul class="terms-tags">
     {{- $type := "tags" -}}
     {{- range first 20 .Site.Taxonomies.tags.ByCount }}
