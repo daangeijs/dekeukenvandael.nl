@@ -1,7 +1,7 @@
 .recipe-cover {
     position: relative;
     width: 24%;
-    height: 21rem;
+    height: 15rem;
     float: left;
     margin-right: 1%;
 }
@@ -15,12 +15,14 @@
 @media (max-width: 1200px) {
     .recipe-cover {
         width: 32%;
+        height: 20rem;
     }
 }
 
 @media (max-width: 992px) {
     .recipe-cover {
         width: 49%;
+        height: 20rem;
     }
 }
 
