@@ -1,5 +1,5 @@
 baseURL: https://www.dekeukenvandael.nl
-languageCode: en-us
+languageCode: nl-nl
 title: De Keuken van Dael
 theme: "PaperModX"
 
@@ -22,7 +22,7 @@ pluralizelisttitles: "false"
 params:
   title: Keuken van Dael
   description: "Een kijkje in de keuken van Dael"
-  author: "Daan Geijs en Elleke Munk"
+  author: "Daan Geijs"
   DateFormat: " 2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -64,12 +64,12 @@ params:
 paginate: 5
 menu:
   main:
-  - name: Recipes
+  - name: Recepten
     url: /recipes/
     weight: -120
-  - name: Search
+  - name: Zoeken
     url: /search/
-    weight: -110
-  - name: Archive
+    weight: -115
+  - name: Archief
     url: /archives/
     weight: -110
