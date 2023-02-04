@@ -28,12 +28,10 @@
 
 @media (max-width: 768px) {
     .recipe-cover {
-        width: 100%;
+        width: 96%;
         height: 100%;
-        top: 88%;
-        left: 3%;
         float: none;
-        margin: 0;
+        margin: 2%;
     }
 }
 
