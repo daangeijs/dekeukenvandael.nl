@@ -1,10 +1,9 @@
 .recipe-cover {
     position: relative;
-    width: 24%;
+    width: 23%;
     height: 15rem;
     float: left;
-    margin-right: 1%;
-    margin-bottom: 1%;
+    margin: 1%;
 }
 
 .recipe-cover img {
@@ -15,26 +14,24 @@
 
 @media (max-width: 1200px) {
     .recipe-cover {
-        width: 32%;
+        width: 31%;
         height: 20rem;
     }
 }
 
 @media (max-width: 992px) {
     .recipe-cover {
-        width: 49%;
+        width: 48%;
         height: 20rem;
     }
 }
 
 @media (max-width: 768px) {
     .recipe-cover {
-        width: 100%;
+        width: 96%;
         height: 100%;
-        top: 88%;
-        left: 3%;
         float: none;
-        margin-right: 0;
+        margin: 2%;
     }
 }
 
