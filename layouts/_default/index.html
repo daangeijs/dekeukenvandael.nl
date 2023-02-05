@@ -1,7 +1,11 @@
 {{- define "main" }}
-<h2>Uitgelicht:</h2>
+
 {{ range first 1 ( where .Site.Pages "Type" "recipes" ) }}
 <article class="first-entry">
+    <header class="page-header">
+        <h1>Uitgelicht:</h1>
+    </header>
+
     {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
     {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
     <header class="entry-header">
@@ -29,8 +33,8 @@
 </article>
 {{- end }}
 <article class="recipe-block">
-      <header class="entry-header">
-    <h2>Laatste berichten:</h2>
+      <header class="page-header">
+    <h1>Laatste berichten:</h1>
     </header>
     <div class="recipe-entry">
         {{ range first 9 ( where .Site.Pages.ByDate "Type" "recipes" ) }}
