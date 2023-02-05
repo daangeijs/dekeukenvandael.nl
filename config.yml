@@ -68,7 +68,7 @@ params:
     appleTouchIcon: "favicon-114.png"
 
   logo:
-    icon: "images/static/logo.png"
+    icon: "images/static/logo.svg"
     iconHeight: 150px
     iconWidth: 400px
 
