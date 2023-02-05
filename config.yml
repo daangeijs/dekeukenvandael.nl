@@ -65,7 +65,7 @@ params:
     disableHLJS: false # to disable highlight.js
     disableFingerprinting: true
     favicon: "favicon.ico"
-#     appleTouchIcon: "favicon-114.png"
+    appleTouchIcon: "favicon-114.png"
 
   logo:
     icon: "images/static/logo.png"
