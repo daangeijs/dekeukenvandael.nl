@@ -1,6 +1,6 @@
 baseURL: https://www.dekeukenvandael.nl
 languageCode: nl-nl
-title: De Keuken van Dael
+title: 'De Keuken van Dael'
 theme: "PaperModX"
 
 outputs:
@@ -65,9 +65,15 @@ params:
     disableHLJS: false # to disable highlight.js
     disableFingerprinting: true
     favicon: "favicon.ico"
-    appleTouchIcon: "favicon-152.png"
+    appleTouchIcon: "favicon-114.png"
 
-paginate: 10
+  logo:
+    icon: "images/static/logo.png"
+    iconHeight: 76px
+    iconWidth: 328px
+
+paginate: 8
+
 menu:
   main:
   - name: Recepten

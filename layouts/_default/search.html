@@ -24,9 +24,9 @@
         aria-label="search" type="search" autocomplete="off">
     <ul id="searchResults" aria-label="search results"></ul>
 </div>
-
-<h1>Categorieën</h1>
-<ul class="terms-tags">
+<div class="categories">
+    <h1>Categorieën</h1>
+  <ul class="terms-tags">
     {{- $type := "categories" -}}
     {{- range $key, $value := .Site.Taxonomies.categories.ByCount }}
     {{- $name := .Name }}
@@ -38,7 +38,9 @@
     {{- end }}
     {{- end }}
 </ul>
+</div>
 
+<div class="ingredients">
 <h1>Ingrediënten</h1>
 <ul class="terms-tags">
     {{- $type := "tags" -}}
@@ -52,5 +54,5 @@
     {{- end }}
     {{- end }}
 </ul>
-
+</div>
 {{- end }}{{/* end main */}}

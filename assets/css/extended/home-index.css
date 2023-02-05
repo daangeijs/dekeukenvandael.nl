@@ -5,6 +5,12 @@
     justify-content: center;
     min-height: 320px;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+
+}
+
+.first-entry h2 {
+    font-size: 32px;
+    color: #3c663c;
 }
 
 .first-entry .entry-header {
@@ -12,6 +18,9 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
+    margin-top: -60px;
+    margin-bottom: auto;
+    padding: 10px;
 }
 
 .first-entry .entry-header h1 {
@@ -23,10 +32,17 @@
     margin: 14px 0;
     font-size: 16px;
     -webkit-line-clamp: 3;
+    padding: 10px;
+}
+
+.first-entry img {
+    height: 450px;
+    object-fit: cover;
 }
 
 .first-entry .entry-footer {
     font-size: 14px;
+    padding: 10px;
 }
 
 .home-info .entry-content {

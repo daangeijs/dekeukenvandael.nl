@@ -72,6 +72,13 @@
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(245, 245, 245, 1));
 }
 
+.entry-cover {
+    text-align: center;
+    position: relative;
+    z-index: -1;
+
+}
+
 .entry-cover img {
     border-radius: var(--radius);
     width: 100%;
@@ -82,4 +89,7 @@
 .entry-cover a {
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
+}
+.post-content {
+    margin-top: 30px;
 }

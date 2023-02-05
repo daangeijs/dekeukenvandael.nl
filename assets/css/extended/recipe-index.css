@@ -29,7 +29,7 @@
 @media (max-width: 768px) {
     .recipe-cover {
         width: 96%;
-        height: 100%;
+        height: 100%; /* change this when pictures are tested to have standard ratio 25rem; */
         float: none;
         margin: 2%;
     }
