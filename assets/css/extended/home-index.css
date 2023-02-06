@@ -39,6 +39,11 @@
     height: 450px;
     object-fit: cover;
 }
+@media (max-width: 750px) {
+    .first-entry img {
+        height: 300px;
+    }
+}
 
 .first-entry .entry-footer {
     font-size: 14px;
