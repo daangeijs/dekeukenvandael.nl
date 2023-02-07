@@ -1,7 +1,7 @@
 ---
 title: Gnocchi met romige spruiten, gepofte knoflook en fenegriek
 date: 2023-02-07T10:45:14.143Z
-draft: true
+draft: false
 author:
   - Elleke Munk
 cover:
