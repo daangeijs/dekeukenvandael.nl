@@ -6,7 +6,7 @@ author:
   - Elleke Munk
 tags: []
 ---
-**Ingrediënten**
+**Ingrediënten** (voor 4 personen)
 ***Lamsköfte***
 500 gram lamsgehakt
 1 kleine ui, zeer fijngesneden
@@ -36,8 +36,9 @@ Sap van ½ citroen
 
 ***Voor erbij***
 Platbrood
-Koriander en peterselie ter garnering
-Griekse yoghurt met
+Koriander en peterselie ter garnering\
+4 dunne aubergines
+100 ml Griekse yoghurt met
 
 * 2 el fijngesneden koriander
 * 1 el fijngesneden peterselie
@@ -49,11 +50,10 @@ Griekse yoghurt met
 * snufje zout
 * mespuntje gerookte paprikapoeder
 
-
-
 **Bereiding**
 
 1. Meng alle ingrediënten voor de lamsköfte in een grote kom. Draai met vochtige handen gehaktballetjes van 2 tl gehakt en leg ze op een bord.
 2. Smelt de boter in een grote pan op matig tot hoog vuur. Bak de ui en knoflook goudbruin in 5-6 minuten. Voeg de specerijen toe en schep om tot de aroma’s vrijkomen. Voeg de bouillon en fijngesneden verse kruiden toe. Breng aan de kook. Draai daarna het vuur laag en laat 10 minuten trekken.
 3. Voeg het citroensap en de gepekelde citroen toe. Laat 5 minuten trekken. Schep de gehaktballetjes in de saus en laat ze afgedekt in 5-6 minuten net gaar worden.
-4. Serveer de gehaktballetjes direct met garnering, yoghurt en platbrood.
+4. Gril ondertussen de aubergines op een wondergrill tot ze zacht zijn en licht geblakerd. Verwijder de geblakerde huid. Snijd in ringen.
+5. Serveer de gehaktballetjes direct met garnering, yoghurt en platbrood.
