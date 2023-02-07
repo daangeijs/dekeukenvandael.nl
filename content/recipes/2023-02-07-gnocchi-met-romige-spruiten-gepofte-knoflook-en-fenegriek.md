@@ -5,7 +5,7 @@ draft: false
 author:
   - Elleke Munk
 cover:
-  image: /img/raisin-nut-spice-cake-cover.jpg
+  image: https://groentegroente.nl/wp-content/uploads/Spruitjes-14-S-D-v-som42-698-2.jpg
 ---
 # Ingrediënten
 
