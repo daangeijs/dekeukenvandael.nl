@@ -4,7 +4,13 @@ date: 2023-02-07T13:05:33.052Z
 author:
   - Daan Geijs
   - Elleke Munk
-tags: []
+tags:
+  - lam
+  - aubergine
+  - citroen
+categories:
+  - koken
+  - ""
 ---
 P﻿erfect comfortfood om lekker met je handen te eten. Je kan ervoor kiezen om enkel de lamskofte tajine te maken, maar het de gegrilde aubergine met de yoghurt saus is er erg lekker bij. Serveer het geheel met platbrood om alles mee op te kunnen scheppen. 
 
