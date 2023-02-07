@@ -1,16 +1,15 @@
 ---
-title: "Balsamico roomsaus voor rood vlees"
+title: Balsamico roomsaus voor rood vlees
 date: 2023-01-26T11:08:00+01:00
 draft: false
-
+author:
+  - Daan Geijs
 tags:
-- balsamico azijn
-- fond
-
+  - balsamico azijn
+  - fond
 categories:
-- koken
-- saus
-
+  - koken
+  - saus
 cover:
   absolute: false
   image: cover.jpg
