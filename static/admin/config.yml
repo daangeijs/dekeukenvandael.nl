@@ -1,6 +1,6 @@
 backend:
-  name: dekeukenvandael
-  branch: main # Branch to update (optional; defaults to master)
+  name: git-gateway
+  branch: development # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
 collections:
@@ -19,7 +19,6 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, items: [{ type: 'string' }] }
       - { label: 'Categories', name: 'categories', widget: 'list', required: false, items: [{ type: 'string' }] }
       - { label: 'Cover Image', name: 'cover', widget: 'object', fields: [
-          { label: 'Absolute URL', name: 'absolute', widget: 'boolean' },
           { label: 'Image', name: 'image', widget: 'image' }
         ]
       }
