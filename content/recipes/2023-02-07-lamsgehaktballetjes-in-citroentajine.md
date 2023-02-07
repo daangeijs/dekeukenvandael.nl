@@ -9,8 +9,8 @@ tags: []
 **Ingrediënten** (voor 4 personen)
 
 
-
 ***Lamsköfte***
+
 500 gram lamsgehakt
 1 kleine ui, zeer fijngesneden
 2 tenen knoflook, fijngesneden
@@ -23,7 +23,8 @@ tags: []
 ½ tl cayennepeper
 ½ tl zout
 
-***Tajine*** 
+***Tajine***
+
 40 gram boter
 1 ui, fijngesneden
 2 tenen knoflook, fijngesneden
@@ -38,6 +39,7 @@ Sap van ½ citroen
 ¼ gepekelde citroen, schil fijngesneden
 
 ***Voor erbij***
+
 Platbrood
 Koriander en peterselie ter garnering\
 4 dunne aubergines
