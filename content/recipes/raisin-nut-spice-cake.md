@@ -1,22 +1,23 @@
 ---
-title: "Kruidenkoek met rozijnen en noten"
-date: 2023-01-24T12:48:00+01:00
+title: Kruidenkoek met rozijnen en noten
+date: 2023-02-01T10:29:45.509Z
 draft: false
-
+author:
+  - Daan Geijs
+  - Elleke Munk
 tags:
-- noten
-- pumpkin spice
-- rozijnen
-- 
+  - noten
+  - pumpkin spice
+  - rozijnen
+  - null
 categories:
-- bakken
-- taart
-- vegetarisch
-- veganistisch
-
+  - bakken
+  - taart
+  - vegetarisch
+  - veganistisch
 cover:
   absolute: false
-  image: cover.jpg
+  image: /img/raisin-nut-spice-cake-cover.jpg
 ---
 Warme kruiden, dikke rozijnen en knapperige noten maken deze kruidenkoek de perfecte traktatie voor een kille herfstdag. Of je er nu van geniet met een kopje koffie of thee, of het deelt met vrienden en familie, deze kruidenkoek maakt mensen blij!
 ## Ingrediënten

@@ -1,19 +1,18 @@
 ---
-title: "Balsamico roomsaus voor rood vlees"
+title: Balsamico roomsaus voor rood vlees
 date: 2023-01-26T11:08:00+01:00
 draft: false
-
+author:
+  - Daan Geijs
 tags:
-- balsamico azijn
-- fond
-
+  - balsamico azijn
+  - fond
 categories:
-- koken
-- saus
-
+  - koken
+  - saus
 cover:
   absolute: false
-  image: cover.jpg
+  image: /img/wild-sauce-balsamico-cover.jpg
 ---
 Deze saus is een van mijn persoonlijke favorieten aller tijden en een echte geheime schat in de receptencollectie van onze familie. Als je me een bord zou geven met alleen deze saus, zal ik een gelukkig man zijn. Serieus, ik kan liters van dit spul drinken. Deze saus is de perfecte balans tussen zoet en hartig, waarbij de balsamicoazijn en suiker voor een vleugje zoetheid zorgen en de wilde bouillon voor een rijke, diepe smaak. De zware room voegt een romigheid toe en geeft de saus de donkerbruine chocoladekleur en dat brengt alles samen.
 ### Ingredients:

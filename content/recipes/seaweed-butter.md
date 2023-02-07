@@ -1,27 +1,21 @@
 ---
-
-title: "Zeewierboter"
+title: Zeewierboter
 date: 2023-01-25T12:48:00+01:00
 draft: false
-
-author: 
+author:
   - Daan Geijs
   - Elleke Munk
-
 tags:
-- boter
-- zeewier
-- furikake
-
+  - boter
+  - zeewier
+  - furikake
 categories:
-- koken
-- borrel
-- vegetarisch
-
-
+  - koken
+  - borrel
+  - vegetarisch
 cover:
   absolute: false
-  image: cover.jpg
+  image: /img/seaweed-butter-cover.jpg
 ---
 Zeewierboter, of in dit geval "noriboter", is een simpele en makkelijke spread die ik graag eet op een versgebakken zuurdesembrood, maar je kunt het ook gebruiken als kookingrediënt. Dit recept, gemaakt met een paar eenvoudige ingrediënten, is gemakkelijk te maken en kan tot 2 weken in de koelkast of tot 3 maanden in de vriezer worden bewaard. Ik raad aan om een grote hoeveelheid fijngehakte gedroogde nori te maken, want het is geweldig om bij de hand te hebben voor andere gerechten, zoals ramen. Als ik fijngehakt zeg, bedoel ik dat je het zo fijn mogelijk wilt krijgen, idealiter een poeder. Dit heb ik echter niet kunnen realiseren. Ik hakte het eerst met een mes zo fijn mogelijk en deed het daarna op volle toeren in mijn keukenmachine.
 ### Ingredients
