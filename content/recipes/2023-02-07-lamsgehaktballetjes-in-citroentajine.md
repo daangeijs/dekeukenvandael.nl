@@ -9,40 +9,41 @@ tags: []
 **Ingrediënten** (voor 4 personen)
 
 
+
 ***Lamsköfte***
 
-500 gram lamsgehakt
-1 kleine ui, zeer fijngesneden
-2 tenen knoflook, fijngesneden
-15 gram bladpeterselie, zeer fijngesneden
-15 gram koriander, zeer fijngesneden
-2 tl gemalen komijn
-1 tl gemalen korianderzaad
-1 tl paprikapoeder
-½ tl kaneel
-½ tl cayennepeper
+500 gram lamsgehakt\
+1 kleine ui, zeer fijngesneden\
+2 tenen knoflook, fijngesneden\
+15 gram bladpeterselie, zeer fijngesneden\
+15 gram koriander, zeer fijngesneden\
+2 tl gemalen komijn\
+1 tl gemalen korianderzaad\
+1 tl paprikapoeder\
+½ tl kaneel\
+½ tl cayennepeper\
 ½ tl zout
 
-***Tajine***
+***Tajine*** 
 
-40 gram boter
-1 ui, fijngesneden
-2 tenen knoflook, fijngesneden
-1 tl gemalen komijnzaad,
-1 tl gemberpoeder
-½ tl paprikapoeder
-1 kaneelstokje
-350 ml kippenbouillon
-15 gram bladpeterselie, fijngesneden
-15 gram koriander, fijngesneden
-Sap van ½ citroen
-¼ gepekelde citroen, schil fijngesneden
+40 gram boter\
+1 ui, fijngesneden\
+2 tenen knoflook, fijngesneden\
+1 tl gemalen komijnzaad\
+1 tl gemberpoeder\
+½ tl paprikapoeder\
+1 kaneelstokje\
+350 ml kippenbouillon\
+15 gram bladpeterselie, fijngesneden\
+15 gram koriander, fijngesneden\
+Sap van ½ citroen\
+¼ gepekelde citroen, schil fijngesneden\
 
 ***Voor erbij***
 
-Platbrood
+Platbrood\
 Koriander en peterselie ter garnering\
-4 dunne aubergines
+4 dunne aubergines\
 100 ml Griekse yoghurt met
 
 * 2 el fijngesneden koriander
