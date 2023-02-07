@@ -4,9 +4,6 @@ date: 2023-02-07T10:45:14.143Z
 draft: false
 author:
   - Elleke Munk
-authors:
-  - Elleke Munk
-  - Daan Geijs
 cover:
   image: https://groentegroente.nl/wp-content/uploads/Spruitjes-14-S-D-v-som42-698-2.jpg
 ---
