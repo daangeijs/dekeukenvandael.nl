@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: static/img
+site_url: https://dekeukenvandael.nl
+logo_url: https://www.dekeukenvandael.nl/images/static/logo.svg
 public_folder: /img
 publish_mode: editorial_workflow
 collections:
@@ -10,8 +12,10 @@ collections:
     folder: 'content/recipes'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path: 'recipes/{{slug}}'
+    preview_path_date_field: date
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
