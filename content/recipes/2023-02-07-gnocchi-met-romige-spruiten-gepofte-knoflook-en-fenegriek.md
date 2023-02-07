@@ -1,11 +1,18 @@
 ---
+draft: false
 title: Gnocchi met romige spruiten, gepofte knoflook en fenegriek
 date: 2023-02-07T10:45:14.143Z
-draft: false
 author:
   - Elleke Munk
+tags:
+  - fenegriek
+  - spruiten
+  - gnochi
+categories:
+  - koken
 cover:
   image: https://groentegroente.nl/wp-content/uploads/Spruitjes-14-S-D-v-som42-698-2.jpg
+description: Comfortfood dat je snel gemaakt hebt
 ---
 # Ingrediënten
 
