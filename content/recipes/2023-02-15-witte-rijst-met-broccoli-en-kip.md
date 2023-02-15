@@ -12,32 +12,36 @@ tags:
 categories:
   - koken
 ---
-# I﻿ngredienten
+# Ingrediënten:
 
-* 1﻿00 gram kip
-* 6﻿ oesterzwammen
-* 1﻿tl 5 spice
-* 1﻿tl gemberpoeder
-* 1﻿ duim gember
-* 1﻿ eetlepel basterd suiker
-* 1﻿ theelepel roomboter
-* 2﻿ eetlepels sojasaus
-* 1﻿ theelepel sesamolie
-* 1﻿/4 tl gerookte paprika poeder
-* 1﻿ lente ui
-* 1﻿/2 knoflook poeder
-* 2﻿ kleine rode pepertjes
-* 1﻿ teen knoflook
-* 1﻿ eetlepel witte wijn azijn
-* 2﻿ eetlepels mirin
+* 100g kip
+* 6 oesterzwammen
+* 1 stukje gember van duimgrootte
+* 1 el bruine suiker
+* 1 el 5-kruidenpoeder
+* 1 tl gemberpoeder
+* 1 tl sesamolie
+* 1/4 tl gerookt paprikapoeder
+* 2 el sojasaus
+* 1 el boter
+* 1/2 tl knoflookpoeder
+* 1 bosje lente-ui, in plakjes
+* 2 kleine rode pepertjes, fijngesneden
+* 1 teentje knoflook, fijngesneden
+* 1 el witte wijnazijn
+* 2 el mirin
+* 1 broccoli, in roosjes gesneden
+* 1 kop rijst
+* Cashewnoten en korianderblaadjes, ter garnering
 
-# I﻿nstructies
+# Instructies:
 
-* k﻿ook de rijst volgens de instructies
-* b﻿ak de paddestoelen op hoog vuur, op het einde doe de boter erbij en zet het vuur lager en voeg hjet knoflook poeder toe. Haal na 1 minuut uit de pan en doe dan de kip in de pan. Bak de kip aan op hoog vuur toe die bruin is en haal dan ook uit de pan.
-* b﻿lend de duim gember met 40ml water en de eetlepel basterd suiker.
-* v﻿erhit een stalen pan en op laag vuur bak de knoflook, gehakte rode pepertjes, lente ui en broccoli roosjes. Verder deel broccoli over de twee pannen, dus ook de ander pan die je net gebruikt hebt. Op deze manier zorg je ervoor dat alle broccoli goed en snel aanbakt. Bak de broccoli kort voor ongeveer 4 minuten en voeg dan alle broccoli toe aan de stalen pan.
-* S﻿nijdt de kip in stukjes en snijd de stelen van de koriander en snijdt de stelen fijn. 
-* V﻿oeg nu de geblende gember, sojasaus, azijn, 5 spice, fijngesneden koriandersteeltjes, gesneden kip en gember poeder toe. Laat het geheel inkoken tot de saus goed begint te plakken en er vrijwel geen vocht meer is in de pan. Voeg dan ook de paddestoelen nog even toe.
-* A﻿ls het goed is moet de rijst nu ongeveer klaar zijn, dit is een mooi moment om de mirin toe te voegen en de rijst nog even te fluffen.
-* S﻿erveer de rijst met de gebakken broccoli, paddestoelen en kip. Maak af met koriander blaadjes en wat cashew noten als garnering.
+1. Kook de rijst volgens de aanwijzingen op de verpakking.
+2. Verhit een beetje olie in een pan op hoog vuur en voeg de oesterzwammen toe. Bak tot ze bruin zijn, voeg dan de boter en knoflookpoeder toe. Na 1 minuut haal je de paddenstoelen uit de pan en zet je ze opzij.
+3. Bak in dezelfde pan de kip tot deze bruin is. Haal de kip uit de pan en zet deze opzij.
+4. Mix in een blender de gember, bruine suiker en 40 ml water tot een gladde pasta.
+5. Verhit in een aparte stalen pan een beetje olie op laag vuur en voeg de knoflook, fijngesneden pepertjes, gesneden lente-ui en broccoli-roosjes toe. Verdeel de broccoli tussen de twee pannen voor een gelijkmatige garing. Bak de broccoli ongeveer 4 minuten en voeg dan alle broccoli toe aan de stalen pan.
+6. Snijd de kip in kleine stukjes en hak de stelen van de koriander fijn.
+7. Voeg de gemixte gember, sojasaus, witte wijnazijn, 5-kruidenpoeder, gemberpoeder, sesamolie en fijngesneden korianderstelen toe aan de pan met de gekookte broccoli. Laat de saus inkoken tot deze dikker wordt en er bijna geen vloeistof meer in de pan zit. Voeg dan de gebakken kip en paddenstoelen toe aan de pan en roer alles door elkaar.
+8. Voeg de mirin toe aan de rijst en roer goed.
+9. Serveer de rijst met het kip- en broccolimengsel, gegarneerd met cashewnoten en korianderblaadjes.
