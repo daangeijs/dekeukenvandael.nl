@@ -12,6 +12,8 @@ tags:
 categories:
   - koken
 ---
+W﻿itte rijst met broccoli en kip. Een gerecht met een cult-status. Als je dit eet dan wil je graag laten zien dat je bewust met je lichaam bezig bent, dat jij je mentaal kan uitdagen en elke dag in de sportschool staat. 100% discipline en 0% smaak. Wij voegden wat meer smaak en passie toe aan dit gerecht om het wat meer body te geven, zonder dat het je eigen body heel erg aantast. En tjah die eetlepel boter kun je best hebben!
+
 # Ingrediënten:
 
 * 100g kip
