@@ -11,7 +11,7 @@ Wij houden ontzettend van pindakaas en maken deze het liefst zelf. Eigenlijk kwa
 # Ingredienten:
 
 * 350 gram pindas
-* 50 ml arachide olie
+* 10 ml arachide olie
 
 # Instructies
 
