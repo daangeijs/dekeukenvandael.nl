@@ -18,6 +18,7 @@ categories:
 cover:
   absolute: false
   image: /img/raisin-nut-spice-cake-cover.jpg
+summary: Warme kruiden, dikke rozijnen en knapperige noten maken deze kruidenkoek de perfecte traktatie voor een kille herfstdag. Of je er nu van geniet met een kopje koffie of thee, of het deelt met vrienden en familie, deze kruidenkoek maakt mensen blij!
 ---
 Warme kruiden, dikke rozijnen en knapperige noten maken deze kruidenkoek de perfecte traktatie voor een kille herfstdag. Of je er nu van geniet met een kopje koffie of thee, of het deelt met vrienden en familie, deze kruidenkoek maakt mensen blij!
 ## Ingrediënten
