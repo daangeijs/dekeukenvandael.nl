@@ -44,10 +44,6 @@
     border: 2px solid var(--tertiary-bg);
 }
 
-.categories {
-    margin-top: 180px
-}
-
 .ingredients {
     margin: 10px 0;
 }
