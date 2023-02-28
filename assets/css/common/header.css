@@ -6,6 +6,7 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
+
 }
 
 .nav ul {
@@ -131,7 +132,7 @@ body:not(.dark) #sun {
     left: 0;
     display: block;
     width: 100%;
-    height: 25rem;
+    height: 10rem;
     background-color: #a1c34d38;
     z-index: -1;
 }
