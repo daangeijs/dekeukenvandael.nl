@@ -45,6 +45,12 @@
     }
 }
 
+.first-entry img {
+    height: 450px;
+    object-fit: cover;
+}
+
+
 @media (max-width: 850px) {
     .first-entry .entry-cover {
         width: 100%;
@@ -53,6 +59,12 @@
 
     .first-entry #front-post {
         width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .first-entry img {
+        height: 350px;
     }
 }
 
@@ -77,10 +89,7 @@
     padding: 10px;
 }
 
-.first-entry img {
-    height: 450px;
-    object-fit: cover;
-}
+
 .first-entry .entry-footer {
     font-size: 14px;
     padding: 10px;
