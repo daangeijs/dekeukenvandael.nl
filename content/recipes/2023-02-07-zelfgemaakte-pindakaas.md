@@ -3,6 +3,7 @@ title: Zelfgemaakte pindakaas
 date: 2023-02-07T20:39:32.050Z
 author:
   - Daan Geijs
+  - Elleke Munk
 tags:
   - pindakaas
 cover:
