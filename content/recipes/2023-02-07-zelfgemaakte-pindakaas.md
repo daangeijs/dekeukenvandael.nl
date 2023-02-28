@@ -5,6 +5,8 @@ author:
   - Daan Geijs
 tags:
   - pindakaas
+cover:
+  image: https://www.eefkooktzo.nl/wp-content/uploads/2021/05/Pindakaas.jpg
 ---
 Wij houden ontzettend van pindakaas en maken deze het liefst zelf. Eigenlijk kwam dit doordat het ons opviel dat pindakaas in de supermarkt eigenlijk vrij duur is vergeleken met die van de kiloprijs van pindas. Het is namelijk vrij makkelijk vergelijken, aangezien goede pindakazen vooral uit pindas bestaan. In dit recept leggen we je de basis uit van een goede pindakaas.
 
