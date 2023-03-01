@@ -1,13 +1,10 @@
 {{- define "main" }}
 
-{{ range first 1 ( where .Site.Pages "Type" "recipes" ) }}
+{{ range ( last 1 ( where .Site.RegularPages "Type" "recipes" ).ByDate ) }}
 <article class="first-entry">
     {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
     {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
     <div id="front-post">
-    <header class="block-header">
-        <h1>Uitgelicht:</h1>
-    </header>
     <header class="entry-header">
         <h2>
             {{- .Title }}
@@ -22,6 +19,7 @@
         {{ else }}
         <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
         {{ end }}
+        <button class="button-23" role="button">naar het recept!</button>
     </section>
     {{- end }}
      {{- if not (.Param "hideMeta") }}
@@ -34,18 +32,6 @@
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
-
-<article class="recipe-block">
-      <header class="block-header">
-    <h1>Laatste berichten:</h1>
-    </header>
-    <div class="recipe-entry">
-        {{ range first 9 ( where .Site.Pages.ByDate "Type" "recipes" ) }}
-        <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-            {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-            {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
-        </a>
-        {{ end }}
-    </div>
-</article>
+{{ .Scratch.Set "recipe-count" 9 }}
+{{ partial "recipe-block.html" . }}
 {{ end }}

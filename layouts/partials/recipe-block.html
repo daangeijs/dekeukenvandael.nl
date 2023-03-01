@@ -1,0 +1,14 @@
+<article class="recipe-block">
+      <header class="block-header">
+    <h1>Recepten</h1>
+    </header>
+    <div class="recipe-entry">
+        {{ $numRecipes := .Scratch.Get "recipe-count" | default 9 }}
+        {{ range after 2 (where .Site.Pages.ByDate "Type" "recipes").ByDate.Reverse | first 9 }}
+        <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+            {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+            {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+        </a>
+        {{ end }}
+    </div>
+</article>

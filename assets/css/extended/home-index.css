@@ -1,7 +1,9 @@
 .block-header {
     font-size: 24px;
+    padding: 10px;
     text-transform: capitalize;
-    background-color: #faf03b;
+    color: var(--first-post-title);
+    background-color: var(--block-header-background);
     width: 100%;
 }
 
@@ -13,10 +15,11 @@
     min-height: 320px;
     flex-wrap: wrap;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
-    background-color: white;
+    background-color: var(--block-background);
     border-radius: var(--radius);
 
 }
+
 
 .first-entry #front-post {
     width: 33%;
@@ -32,7 +35,7 @@
 
 .first-entry h2 {
     font-size: 32px;
-    color: #3c663c;
+    color: var(--block-header);
 }
 
 .first-entry img {
@@ -91,7 +94,7 @@
 
 @media (max-width: 850px) {
     .first-entry {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .first-entry .entry-cover {
         width: 100%;
@@ -103,6 +106,6 @@
 
 @media (max-width: 600px) {
     .first-entry img {
-        height: 350px;
+        height: 200px;
     }
 }
