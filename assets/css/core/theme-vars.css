@@ -10,7 +10,7 @@
     --monospace: "Lucida Console", Monaco, "Consolas", monospace;
 
     --first-post-title: #3c663c;
-    --block-background: #ffffff;
+    --block-background: rgb(245, 245, 245);
     --block-header: #000000;
     --block-header-background: #faf03b;
 
@@ -22,7 +22,7 @@
     --tertiary: rgb(158, 158, 158);
     --tertiary-bg: rgb(214, 214, 214);
     --content: rgb(31, 31, 31);
-    --code-bg: rgb(245, 245, 245);
+    --code-bg: white;
     --border: rgb(238, 238, 238);
     --link-background-color: #e8e3f7;
     --link-color: var(--primary);

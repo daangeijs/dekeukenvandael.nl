@@ -2,7 +2,7 @@
     font-size: 24px;
     padding: 10px;
     text-transform: capitalize;
-    color: var(--block-header);
+    color: var(--first-post-title);
     background-color: var(--block-header-background);
     width: 100%;
 }
@@ -20,6 +20,7 @@
 
 }
 
+
 .first-entry #front-post {
     width: 33%;
     display: flex;
@@ -34,7 +35,7 @@
 
 .first-entry h2 {
     font-size: 32px;
-    color: var(--first-post-title);
+    color: var(--block-header);
 }
 
 .first-entry img {
@@ -93,7 +94,7 @@
 
 @media (max-width: 850px) {
     .first-entry {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .first-entry .entry-cover {
         width: 100%;
@@ -105,6 +106,6 @@
 
 @media (max-width: 600px) {
     .first-entry img {
-        height: 350px;
+        height: 200px;
     }
 }
