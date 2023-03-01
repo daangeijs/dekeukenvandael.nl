@@ -13,10 +13,7 @@ categories:
   - soep
 cover:
   image: https://makkelijkafvallen.nl/wp-content/uploads/knolselderij-soep.jpg
-summary: "Soms maak je de lekkerste dingen van overgebleven ingredienten van
-  maaltijden de dag ervoor. Zo hadden wij een half geroosterde knolselderij en
-  wat chimichuri met dragon. Binnen 10 minuten stond deze heerlijke soep op
-  tafel. "
+summary: ""
 ---
 Soms maak je de lekkerste dingen van overgebleven ingredienten van maaltijden de dag ervoor. Zo hadden wij een half geroosterde knolselderij en wat chimichuri met dragon. Binnen 10 minuten stond deze heerlijke soep op tafel. Als je geen tijd hebt om de knolselderij 4 uur te roosteren in de oven, dan adviseren wij om de knolselderij in blokjes te snijden en van te voren aan te bakken. Ook gebruiken wij in dit recept gerookte parmezaanse kaas. Die hebben wij zelf gerookt, maar je kan natuurlijk ook normale parmezaanse kaas gebruiken. De reden dat wij dit gedaan hebben is om de mostersoep die typische rokerige smaak van het spek te geven. Als je niet vegatarisch bent dan is gerookte spek een perfect manier om dit alsnog toe te voegen.
 
