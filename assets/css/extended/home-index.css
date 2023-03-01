@@ -1,7 +1,9 @@
 .block-header {
     font-size: 24px;
+    padding: 10px;
     text-transform: capitalize;
-    background-color: #faf03b;
+    color: var(--block-header);
+    background-color: var(--block-header-background);
     width: 100%;
 }
 
@@ -13,7 +15,7 @@
     min-height: 320px;
     flex-wrap: wrap;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
-    background-color: white;
+    background-color: var(--block-background);
     border-radius: var(--radius);
 
 }
@@ -32,7 +34,7 @@
 
 .first-entry h2 {
     font-size: 32px;
-    color: #3c663c;
+    color: var(--first-post-title);
 }
 
 .first-entry img {

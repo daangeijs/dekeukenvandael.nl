@@ -9,6 +9,11 @@
     --radius: 8px;
     --monospace: "Lucida Console", Monaco, "Consolas", monospace;
 
+    --first-post-title: #3c663c;
+    --block-background: #ffffff;
+    --block-header: #000000;
+    --block-header-background: #faf03b;
+
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -47,6 +52,13 @@
     --secondary: rgb(155, 156, 157);
     --tertiary: rgb(123, 124, 124);
     --tertiary-bg: rgb(65, 66, 68);
+
+
+    --first-post-title: #d9dd40;
+    --block-background: #3d412c;
+    --block-header: #d9dd40;
+    --block-header-background: #3b663b;
+
     --content: rgb(196, 196, 197);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
