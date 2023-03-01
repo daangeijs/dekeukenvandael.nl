@@ -11,6 +11,8 @@ categories:
   - koken
   - vegatarisch
   - soep
+cover:
+  image: https://makkelijkafvallen.nl/wp-content/uploads/knolselderij-soep.jpg
 summary: "Soms maak je de lekkerste dingen van overgebleven ingredienten van
   maaltijden de dag ervoor. Zo hadden wij een half geroosterde knolselderij en
   wat chimichuri met dragon. Binnen 10 minuten stond deze heerlijke soep op
