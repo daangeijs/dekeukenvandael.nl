@@ -1,7 +1,7 @@
 ---
+draft: false
 title: Rijke tomatenpuree
 date: 2023-01-23T12:48:00+01:00
-draft: false
 tags:
   - sherry
   - tomaat
@@ -15,10 +15,14 @@ categories:
 cover:
   absolute: false
   image: /img/tomaat.jpg
+summary: >
+  Soms wil je dat je gerecht niet direct naar tomatensaus proeft, daarvoor
+  hebben we deze tomatenpuree iets aangedacht zodat hij meer hartig wordt en
+  zodat je wat meer umami smaken proeft. We doen dit door gebruik te maken van
+  balsamicoazijn en sherry.
 description: Simple description
 ---
-Soms wil je dat je gerecht niet direct naar tomatensaus proeft, daarvoor hebben we deze tomatenpuree iets aangedacht zodat hij meer hartig wordt en zodat je wat meer umami smaken proeft. 
-We doen dit door gebruik te maken van balsamicoazijn en sherry. 
+Soms wil je dat je gerecht niet direct naar tomatensaus proeft, daarvoor hebben we deze tomatenpuree iets aangedacht zodat hij meer hartig wordt en zodat je wat meer umami smaken proeft. We doen dit door gebruik te maken van balsamicoazijn en sherry.
 
 
 ## Ingrediënten
