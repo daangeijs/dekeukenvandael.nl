@@ -4,14 +4,14 @@ date: 2023-03-08T20:09:29.994Z
 author:
   - Elleke Munk
 tags:
-  - Couscous
-  - Bloemkool
-  - Tahin
-  - Vijg
+  - couscous
+  - bloemkool
+  - tahin
+  - vijg
 categories:
-  - Hoofdgerecht
-  - Koken
-  - Veganistisch
+  - hoofdgerecht
+  - koken
+  - veganistisch
 ---
 ## Ingrediënten (voor 2 personen)
 - Halve middelgrote bloemkool
