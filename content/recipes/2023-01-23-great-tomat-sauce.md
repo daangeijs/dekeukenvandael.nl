@@ -5,9 +5,8 @@ date: 2023-01-23T12:48:00+01:00
 tags:
   - sherry
   - tomaat
-  - zatar
+  - za'atar
   - balsamico azijn
-  - null
 categories:
   - koken
   - ingrediënt
