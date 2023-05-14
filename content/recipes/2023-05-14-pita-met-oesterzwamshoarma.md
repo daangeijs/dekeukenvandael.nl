@@ -1,12 +1,15 @@
 ---
 title: Pita met oesterzwamshoarma
 date: 2023-05-14T14:10:43.348Z
+author:
+  - Elleke Munk
 tags:
   - oesterzwam
 cover:
   image: /img/shoarma-van-oesterzwam-1-500x410.jpg
 ---
 ### Ingrediënten (4 personen)
+
 * 500 g oesterzwammen
 * 2 el olie
 * 2 tl gerookte paprikapoeder
