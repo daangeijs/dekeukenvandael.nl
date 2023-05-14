@@ -17,7 +17,7 @@ summary: In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een
 ---
 In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een compote mee te maken of om te gebruiken in gebak! Deze taart maken is arbeidsintensief, maar is de geïnvesteerde tijd meer dan waard. Eventueel kun je het deeg, de custardvulling en de gepocheerde rabarber al een dag vantevoren maken.
 
-### Ingrediënten
+## Ingrediënten
 
 ***Voor de bodem***
 
@@ -47,7 +47,7 @@ In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een compote m
 * Quichevorm van 24 cm doorsnede
 * Keramische bonen
 
-### Bereidingswijze
+## Bereidingswijze
 
 1. Meng alle ingrediënten voor het deeg tot een mooi glad deeg met de hand of een keukenmachine. Voeg de eetlepels water stap voor stap toe en kijk wanneer het van losse droge kruimels naar nattere kruimels gaat. Doe het deeg in huishoudfolie en laat het ongeveer 30 minuten rusten in de koelkast. Als je het overnacht laat rusten, haal het dan 10 minuten voor gebruik uit de koelkast en kneed kort door voor gebruik. 
 2. Maak de custardvulling door een steelpannetje op het vuur te zetten met de slagroom, de helft van de melk en het merg van de vanillepeul. Breng dit aan de kook terwijl je in een andere kom de rest van de melk mengt met de eidooiers, suiker en custardpoeder.
