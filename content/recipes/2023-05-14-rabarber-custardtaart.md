@@ -9,6 +9,11 @@ categories:
   - Taart
 cover:
   image: /img/rabarber-taart.jpeg
+summary: In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een
+  compote mee te maken of om te gebruiken in gebak! Deze taart maken is
+  arbeidsintensief, maar is de geïnvesteerde tijd meer dan waard. Eventueel kun
+  je het deeg, de custardvulling en de gepocheerde rabarber al een dag
+  vantevoren maken.
 ---
 In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een compote mee te maken of om te gebruiken in gebak! Deze taart maken is arbeidsintensief, maar is de geïnvesteerde tijd meer dan waard. Eventueel kun je het deeg, de custardvulling en de gepocheerde rabarber al een dag vantevoren maken.
 
