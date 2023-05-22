@@ -13,12 +13,13 @@ categories:
   - vegatarisch
 cover:
   image: /img/apc_0009.jpg
-summary: "Soms heb ik zin in echt een lekker hartig gerecht. Ik vind
-  bijvoorbeeld mosterdsoep zo'n typisch gerecht wat je echt als hartig kan
-  omschrijven net zoals kaasfondue. Op basis van die twee gerechten heb ik mijn
-  laten inspireren en heb ik iets gemaakt wat daar op lijkt. Om de hartigheid te
-  breken en lekkere ziltige salade van snijbiet gecombineerd met het zure van
-  klaverzuring en witte kaas. "
+summary: "Soms heb ik echt zin in een heerlijk hartig gerecht, zoals mosterdsoep
+  of kaasfondue.  Op basis van die twee gerechten heb ik mijn laten inspireren
+  en heb ik iets gemaakt wat daar op lijkt. De gerookte parmazaanse kaas hielp
+  erg goed om dit te bereiken. Echter, niet iedereen heeft dit natuurlijk, dus
+  dan zou ik spekjes of gerookte mozarella (scamorza) adviseren.   Om de
+  hartigheid te breken en lekkere ziltige salade van snijbiet gecombineerd met
+  het zure van klaverzuring en witte kaas. "
 ---
 Soms heb ik zin in echt een lekker hartig gerecht. Ik vind bijvoorbeeld mosterdsoep zo'n typisch gerecht wat je echt als hartig kan omschrijven net zoals kaasfondue. Op basis van die twee gerechten heb ik mijn laten inspireren en heb ik iets gemaakt wat daar op lijkt.  Om de hartigheid te breken en lekkere ziltige salade van snijbiet gecombineerd met het zure van klaverzuring en witte kaas.
 (V﻿oor drie personen)
@@ -34,7 +35,9 @@ Soms heb ik zin in echt een lekker hartig gerecht. Ik vind bijvoorbeeld mosterds
 * 1 ei (dit moet enkel eigeel worden denk ik, of er helemaal uit)
 * 100 ml volle melk (afhankelijk van gewenste dikte van de saus)
 * Grote handvol geraspte oude kaas (eventueel extra voor meer kaassmaak)
-* Grote handvol geraspte gerookte Parmezaanse kaas
+* Grote handvol geraspte gerookte Parmezaanse kaas \*
+
+ \* Vervang dit door spekjes of als je vegatarisch bent scamorza. De spekjes zou ik eerst uitbakken voordat je de prei toevoegd, haal de spekjes eruit maar laat het vet wel in de pan. Voor de scamorza voeg je deze toe in plakken bovenop het gerecht voordat het de oven in gaat. 
 
 *Snijbietsalade*
 
