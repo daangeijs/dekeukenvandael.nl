@@ -19,8 +19,8 @@
         {{ else }}
         <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
         {{ end }}
-        <button class="button-23" role="button">naar het recept!</button>
     </section>
+        <button class="button-23" role="button">naar het recept!</button>
     {{- end }}
      {{- if not (.Param "hideMeta") }}
     <footer class="entry-footer">
