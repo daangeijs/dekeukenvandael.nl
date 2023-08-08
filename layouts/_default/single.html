@@ -40,19 +40,19 @@
     {{- if .Content }}
     <div class="post-content">
         {{- if not (.Param "disableAnchoredHeadings") }}
-        <div>
-            <label for="serving">Portions :</label>
-            <input type="number" id="servingInput" value="1">
-            <button class="js-decreaseService">-</button>
-            <button class="js-increaseService">+</button>
+<!--        <div>-->
+<!--            <label for="serving">Portions :</label>-->
+<!--            <input type="number" id="servingInput" value="1">-->
+<!--            <button class="js-decreaseService">-</button>-->
+<!--            <button class="js-increaseService">+</button>-->
 
-            <div class="Recipe-IngredientList">
-                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="100">Farine : <span></span>g</div>
-                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="2">Oeuf : <span></span></div>
-                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="150">Lait : <span></span>mL</div>
-                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="50">Lardon : <span></span>g</div>
-            </div>
-        </div>
+<!--            <div class="Recipe-IngredientList">-->
+<!--                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="100">Farine : <span></span>g</div>-->
+<!--                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="2">Oeuf : <span></span></div>-->
+<!--                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="150">Lait : <span></span>mL</div>-->
+<!--                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="50">Lardon : <span></span>g</div>-->
+<!--            </div>-->
+<!--        </div>-->
         {{- partial "anchored_headings.html" .Content -}}
         {{- else }}{{ .Content }}{{ end }}
     </div>
