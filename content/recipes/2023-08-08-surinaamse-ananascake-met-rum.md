@@ -5,6 +5,14 @@ author:
   - Elleke
 tags:
   - zoet
+  - ananas
+  - cake
+categories:
+  - bakken
+  - vegatarisch
+  - taart
+cover:
+  image: /img/apc_0016.jpg
 ---
 **Ingredienten**
 
