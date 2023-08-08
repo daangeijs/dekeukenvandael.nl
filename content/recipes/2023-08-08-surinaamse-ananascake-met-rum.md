@@ -26,7 +26,7 @@ summary: "Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en
 Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en voor je het weet, is het overrijp. Dit overkwam mij laatst met een ananas. Juicy, zoet en op het randje van té rijp, maar wegdoen vond ik zonde. Ik wilde er iets lekkers van maken! Echter, de sappigheid van ananas kan soms een uitdaging vormen in gebak. Teveel vocht kan ervoor zorgen dat de cake of taart zompig wordt. In dit recept komt de ananas volledig tot zijn recht en de cake blijft heerlijk luchtig. De toevoeging van rum en kruidige specerijen geven het geheel een exotisch en zomers tintje. Dus mocht je, net als ik, een ananas hebben liggen die snakt naar een tweede leven, probeer dan deze smaakvolle traktatie! 
 
 
-**Ingredienten**
+## Ingredienten
 
 * 1 verse ananas
 * 150 gram ongezouten (biologische) roomboter - verdelen in 50 en 100 gram
@@ -39,7 +39,7 @@ Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en voor je het
 * 1/4 theelepel vanillepoeder of 1 theelepel vanille extract
 * 3 eetlepels (spiced Bacardi) rum (45 ml)
 
-**Bereidingswijze**
+## Bereidingswijze
 
 1. Snijd de verse ananas in halfronde plakken. 
 2. Smelt 50 gram boter in een RVS pan. Als de boter licht kleurt, doe je er 50 gram suiker bij. Zet het vuur lager en roer de suiker snel om. Laat het niet aanbranden of karamel worden (als dit laatste wel gebeurt, is het niet het einde van de wereld/van de taart). 

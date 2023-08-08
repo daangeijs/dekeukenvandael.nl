@@ -34,7 +34,7 @@ Warme kruiden, dikke rozijnen en knapperige noten maken deze kruidenkoek de perf
 - 200 g rozijnen
 - 200 g grof gehakte walnoten (of een mix van walnoten en amandelen)
 
-## Instructies
+## Bereidingswijze
 
 1. Verwarm je oven voor op 200°C en vet een vierkante bakvorm van 20x20 cm met een hoogte van 5 cm in.
 2. Klop in een grote mengkom de margarine en de suiker romig.

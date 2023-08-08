@@ -31,7 +31,7 @@ Soms wil je dat je gerecht niet direct naar tomatensaus proeft, daarvoor hebben 
 - 1 theelepel zatar
 - 1 volle eetlepel tomatenpuree opgelost in 4 eetlepels water
 
-## Instructies
+## Bereidingswijze
 
 1. Breng in een roestvrijstalen pan de balsamicoazijn en sherry aan de kook op middelhoog vuur.
 2. Kook tot het mengsel bijna gekarameliseerd is, af en toe roerend.
