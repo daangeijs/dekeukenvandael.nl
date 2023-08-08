@@ -22,7 +22,7 @@ Deze saus is een van mijn persoonlijke favorieten aller tijden en een echte gehe
 - 500 ml wildfond
 - 250 ml slagroom
 
-### Instructions:
+### Bereidingswijze:
 
 1. Combineer de balsamicoazijn en suiker in een stalen pan. Kook op middelhoog vuur tot het mengsel dikker wordt en stroperig wordt. Roer constant om aanbranden te voorkomen.
 2. Haal van het vuur en voeg de wildfond toe, roer tot alles goed gemengd is.
