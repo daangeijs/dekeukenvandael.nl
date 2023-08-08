@@ -4,13 +4,12 @@ date: 2023-08-08T11:46:36.800Z
 author:
   - Elleke
 tags:
-  - zoet
   - ananas
-  - cake
+  - rum
 categories:
   - bakken
   - vegatarisch
-  - taart
+  - cake
 cover:
   image: /img/apc_0016.jpg
 ---
