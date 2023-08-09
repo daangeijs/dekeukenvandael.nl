@@ -34,7 +34,7 @@ Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het
 6. Laat nogmaals 3 uur rijzen.
 7. Doe 110 gram zonnebloempitten in een ruime kom of groot bord.
 
-{{< figure src="/img/94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
+{{< figure src="94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
 
 8. Voor je begint vet je een cakevorm in met olie.
 9. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
