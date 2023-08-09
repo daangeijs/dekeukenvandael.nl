@@ -13,11 +13,9 @@ collections:
     folder: 'content/recipes'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}/index'  # Note the /index here
-    media_folder: ''  # Local media folder for the collection. Setting this to an empty string means media will be saved in the same folder as the content
-    public_folder: ''
     # Support Hugo page bundles that puts index.md and images in folders named by slug
-    path: "{{slug}}/index"
-    preview_path: 'recipes/{{slug}}'
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}/index"
+    preview_path: 'recipes/{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path_date_field: date
     editor:
       preview: true
