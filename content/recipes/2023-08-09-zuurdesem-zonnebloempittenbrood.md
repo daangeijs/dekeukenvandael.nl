@@ -5,6 +5,8 @@ tags:
   - bakken
 categories:
   - zuurdesem
+cover:
+  image: /img/94b1737f-49f6-4436-8574-238410b298c6.jpeg
 ---
 Voor mijn verjaardag kreeg ik een zuurdesem workshop cadeau bij [Streekbakker Jorrit](https://www.streekbakkerjorrit.nl/). Een enorm leuke middag waar ik met toch al een jaar aan zuurdesem ervaring ontzettend veel heb geleerd. Het recept voor dit brood is een van de recepten die we tijdens de workshop hebben gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies goed voor de bakvorm die wij gebruiken. 
 
