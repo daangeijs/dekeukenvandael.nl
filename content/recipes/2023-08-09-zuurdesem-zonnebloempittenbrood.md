@@ -1,16 +1,18 @@
 ---
 title: Zuurdesem zonnebloempittenbrood
 date: 2023-06-08T11:20:50.423Z
+author:
+  - Daan Geijs
 tags:
-  - bakken
-categories:
   - zuurdesem
+categories:
+  - bakken
 cover:
   image: /img/IMG_6600.jpeg
 ---
 Voor mijn verjaardag kreeg ik een zuurdesem workshop cadeau bij [Streekbakker Jorrit](https://www.streekbakkerjorrit.nl/). Een enorm leuke middag waar ik met toch al een jaar aan zuurdesem ervaring ontzettend veel heb geleerd. Het recept voor dit brood is een van de recepten die we tijdens de workshop hebben gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies goed voor de bakvorm die wij gebruiken. 
 
-Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en prima van smaakt. Perfect voor tijdens een werkweek. 
+Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en prima blijft smaken. Perfect voor tijdens een werkweek. 
 
 ## Ingrediënten
 
@@ -34,12 +36,12 @@ Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het
 {{< figure src="/img/94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
 
 8. Voor je begint vet je een cakevorm in met olie.
-8. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
-9. Met natte handen probeer het deeg in een bol te vormen. Dit hoeft niet perfect te zijn.
-8. Pak het stuk deeg met je vingertoppen op en leg het snel in de zonnebloempitten. Pak nu weer het deegstuk op met je vingertoppen em draai het snel om. De zonnebloempitten zullen nu aan de bovenkant van het deeg zitten.
-9. Plaats het deeg in een snelle beweging een grote ingevette cakevorm. Doe dit weer door met je vingertoppen het deeg op te tillen. 
-10. Dek de cakevorm af en zet deze in de koelkast. Je kan het deeg hier 8 tot 16 uur laten rijzen. Perfect dus om 's avonds te maken en de volgende ochtend te bakken.
-11. Verwarm de oven, een uur voordat je het deeg in de oven plaatst, voor op 250°C.
-12. Zelf hebben wij een bakvorm met een deksel. Dit is erg handig aangezien je dan geen stoom hoeft te creëren. Heb je geen bakvorm met deksel dan kan je een bakje met water in de oven plaatsen om stoom te creëren.
-12. Plaats het brood in de oven en bak gedurende 40 minuten op 230°C.
-13. Heb je een deksel haal deze er dan nu af en bak nog 20 minuten op 210°C.
+9. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
+10. Met natte handen probeer het deeg in een bol te vormen. Dit hoeft niet perfect te zijn.
+11. Pak het stuk deeg met je vingertoppen op en leg het snel in de zonnebloempitten. Pak nu weer het deegstuk op met je vingertoppen em draai het snel om. De zonnebloempitten zullen nu aan de bovenkant van het deeg zitten.
+12. Plaats het deeg in een snelle beweging een grote ingevette cakevorm. Doe dit weer door met je vingertoppen het deeg op te tillen. 
+13. Dek de cakevorm af en zet deze in de koelkast. Je kan het deeg hier 8 tot 16 uur laten rijzen. Perfect dus om 's avonds te maken en de volgende ochtend te bakken.
+14. Verwarm de oven, een uur voordat je het deeg in de oven plaatst, voor op 250°C.
+15. Zelf hebben wij een bakvorm met een deksel. Dit is erg handig aangezien je dan geen stoom hoeft te creëren. Heb je geen bakvorm met deksel dan kan je een bakje met water in de oven plaatsen om stoom te creëren.
+16. Plaats het brood in de oven en bak gedurende 40 minuten op 230°C.
+17. Heb je een deksel haal deze er dan nu af en bak nog 20 minuten op 210°C.
