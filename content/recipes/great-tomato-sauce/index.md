@@ -13,7 +13,7 @@ categories:
   - vegetarisch
 cover:
   absolute: false
-  image: /img/tomaat.jpg
+  image: tomaat.jpg
 summary: >
   Soms wil je dat je gerecht niet direct naar tomatensaus proeft, daarvoor
   hebben we deze tomatenpuree iets aangedacht zodat hij meer hartig wordt en

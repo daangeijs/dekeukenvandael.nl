@@ -1,17 +1,19 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: static/img
+media_folder: static/img  # Global media folder
+public_folder: /img
 site_url: https://dekeukenvandael.nl
 logo_url: https://www.dekeukenvandael.nl/images/static/logo.svg
-public_folder: /img
 publish_mode: editorial_workflow
+
 collections:
   - name: 'recipes'
     label: 'Recipe'
     folder: 'content/recipes'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}/index'  # Note the /index here
+    media_folder: ''  # Local media folder for the collection. Setting this to an empty string means media will be saved in the same folder as the content
     preview_path: 'recipes/{{slug}}'
     preview_path_date_field: date
     editor:

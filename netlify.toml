@@ -8,22 +8,18 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [build.environment]
-  HUGO_VERSION = "0.92.2"
+  HUGO_ENV = "production"
+  HUGO_VERSION = "0.92.2/extended"
 
 [[headers]]
-  for = "/*"
+  for = "/*.html"
   [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    X-Content-Type-Options = "no-sniff"
+  X-Frame-Options = "DENY"
+  X-XSS-Protection = "1; mode=block"
+  Referrer-Policy = "strict-origin-when-cross-origin"
+  X-Content-Type-Options = "no-sniff"
 
 [[headers]]
-  for = "/favicon-*.png"
-    [headers.values]
-    Cache-Control = "public, max-age=31536000"
-
-[[headers]]
-  for = "/images/*"
-    [headers.values]
-    Cache-Control = "public, max-age=31536000"
+  for = "/*.(jpg|jpeg|png|gif|webp)"
+  [headers.values]
+  Cache-Control = "public, max-age=31536000"
