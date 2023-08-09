@@ -6,11 +6,11 @@ tags:
 categories:
   - zuurdesem
 cover:
-  image: /img/94b1737f-49f6-4436-8574-238410b298c6.jpeg
+  image: /img/IMG_6600.jpeg
 ---
 Voor mijn verjaardag kreeg ik een zuurdesem workshop cadeau bij [Streekbakker Jorrit](https://www.streekbakkerjorrit.nl/). Een enorm leuke middag waar ik met toch al een jaar aan zuurdesem ervaring ontzettend veel heb geleerd. Het recept voor dit brood is een van de recepten die we tijdens de workshop hebben gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies goed voor de bakvorm die wij gebruiken. 
 
-Het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en daarom perfect is tijdens een werkweek. 
+Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en prima van smaakt. Perfect voor tijdens een werkweek. 
 
 ## Ingrediënten
 
@@ -23,13 +23,16 @@ Het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers bl
 
 ## Bereidingswijze
 
-1. Doe het meel, bloem, zout, desem en 44 gram zonnebloempitten in een kom. Zorg dat je het zout en desem van elkaar gescheiden houdt.
+1. Doe het meel, bloem, zout, desem en 66 gram zonnebloempitten in een kom. Zorg dat je het zout en desem van elkaar gescheiden houdt.
 2. Giet 400 ml water erbij en vermeng alles met je handen tot een modderachtige massa, je kan hier ook prima een staande mixer voor gebruiken.
 3. Giet beetje bij beetje 128 ml water erbij terwijl je het door de massa mengt (inwassen).
 4. Dek de kom af en laat het deeg 3 uur rijzen bij kamertemperatuur (20°C).
 5. Vouw het deeg met een vochtige hand, door het te roeren of te vouwen.
 6. Laat nogmaals 3 uur rijzen.
 7. Doe 110 gram zonnebloempitten in een ruime kom of groot bord.
+
+{{< figure src="/img/94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
+
 8. Voor je begint vet je een cakevorm in met olie.
 8. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
 9. Met natte handen probeer het deeg in een bol te vormen. Dit hoeft niet perfect te zijn.
