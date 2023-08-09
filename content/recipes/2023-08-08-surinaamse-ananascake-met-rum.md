@@ -8,7 +8,7 @@ tags:
   - rum
 categories:
   - bakken
-  - vegatarisch
+  - vegetarisch
   - cake
 cover:
   image: /img/apc_0016.jpg
