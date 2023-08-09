@@ -9,10 +9,9 @@ tags:
   - noten
   - pumpkin spice
   - rozijnen
-  - null
 categories:
   - bakken
-  - taart
+  - koek
   - vegetarisch
   - veganistisch
 cover:

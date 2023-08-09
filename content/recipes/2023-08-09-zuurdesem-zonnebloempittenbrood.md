@@ -7,6 +7,7 @@ tags:
   - zuurdesem
 categories:
   - bakken
+  - brood
 cover:
   image: /img/IMG_6600.jpeg
 ---

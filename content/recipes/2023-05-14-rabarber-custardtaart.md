@@ -6,7 +6,9 @@ author:
 tags:
   - rabarber
 categories:
-  - Taart
+  - taart
+  - bakken
+  - vegatarisch
 cover:
   image: /img/rabarber-taart.jpeg
 summary: In de maanden mei en juni is rabarber weer verkrijgbaar. Lekker om een
