@@ -4,9 +4,9 @@ date: 2023-06-08T11:20:50.423Z
 author:
   - Daan Geijs
 tags:
-  - bakken
-categories:
   - zuurdesem
+categories:
+  - bakken
 cover:
   image: /img/IMG_6600.jpeg
 ---
