@@ -11,10 +11,12 @@ tags:
 categories:
   - koken
   - ""
+ignore: false
 ---
-P﻿erfect comfortfood om lekker met je handen te eten. Je kan ervoor kiezen om enkel de lamskofte tajine te maken, maar het de gegrilde aubergine met de yoghurt saus is er erg lekker bij. Serveer het geheel met platbrood om alles mee op te kunnen scheppen. 
+P﻿erfect comfortfood om lekker met je handen te eten. Je kan ervoor kiezen om enkel de lamskofte tajine te maken, maar de gegrilde aubergine met de yoghurt saus is erg lekker erbij. Serveer het geheel met platbrood om alles mee op te kunnen scheppen.  
 
-**Ingrediënten** (voor 4 personen)
+## Ingrediënten 
+**(voor 4 personen)**
 
 ***Lamsköfte***
 
@@ -64,7 +66,7 @@ P﻿erfect comfortfood om lekker met je handen te eten. Je kan ervoor kiezen om 
 * Platbrood
 * Koriander en peterselie ter garnering
 
-**Bereiding**
+## Bereidingswijze
 
 1. Meng alle ingrediënten voor de lamsköfte in een grote kom. Draai met vochtige handen gehaktballetjes van 2 tl gehakt en leg ze op een bord.
 2. Smelt de boter in een grote pan op matig tot hoog vuur. Bak de ui en knoflook goudbruin in 5-6 minuten. Voeg de specerijen toe en schep om tot de aroma’s vrijkomen. Voeg de bouillon en fijngesneden verse kruiden toe. Breng aan de kook. Draai daarna het vuur laag en laat 10 minuten trekken.
