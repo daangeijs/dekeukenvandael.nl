@@ -1,6 +1,7 @@
 ---
 title: Mosterdsoep met knolselderij
 date: 2023-03-01T13:30:34.402Z
+ignore: false
 author:
   - Daan Geijs
 tags:
