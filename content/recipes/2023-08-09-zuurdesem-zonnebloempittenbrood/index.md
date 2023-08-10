@@ -1,7 +1,6 @@
 ---
 title: Zuurdesem zonnebloempittenbrood
 date: 2023-06-08T11:20:50.423Z
-ignore: false
 author:
   - Daan Geijs
 tags:
@@ -11,6 +10,8 @@ categories:
   - brood
 cover:
   image: cover.jpeg
+toc: true
+ignore: false
 ---
 Voor mijn verjaardag kreeg ik een zuurdesem workshop cadeau bij [Streekbakker Jorrit](https://www.streekbakkerjorrit.nl/). Een enorm leuke middag waar ik met toch al een jaar aan zuurdesem ervaring ontzettend veel heb geleerd. Het recept voor dit brood is een van de recepten die we tijdens de workshop hebben gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies goed voor de bakvorm die wij gebruiken. 
 
