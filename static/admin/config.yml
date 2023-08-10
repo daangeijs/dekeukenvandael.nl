@@ -17,6 +17,7 @@ collections:
     path: "{{year}}-{{month}}-{{day}}-{{slug}}/index"
     preview_path: 'recipes/{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path_date_field: date
+    filter: {field: "ignore", value: false}
     editor:
       preview: true
     fields:
