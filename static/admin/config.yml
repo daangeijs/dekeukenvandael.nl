@@ -24,7 +24,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Authors", name: "author", widget: "list", summary: "{{fields.author_name}}", field: { label: "Author name", name: "author_name", widget: "string" }}
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false, items: [{ type: 'string' }] }
+      - { label: 'Ingredients', name: 'tags', widget: 'list', required: false, items: [{ type: 'string' }] }
       - { label: 'Categories', name: 'categories', widget: 'list', required: false, items: [{ type: 'string' }] }
       - { label: 'Cover Image', name: 'cover', widget: 'object', fields: [
           { label: 'Image', name: 'image', required: false, widget: 'image' }
@@ -32,5 +32,4 @@ collections:
       }
       - { label: 'Summary', name: 'summary', widget: 'text', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Show Table of Contents', name: 'toc', widget: 'boolean', default: false }
       - { label: 'ignore', name: 'ignore', widget: 'boolean', default: false }
