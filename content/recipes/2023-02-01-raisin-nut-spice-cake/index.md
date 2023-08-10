@@ -1,7 +1,7 @@
 ---
 title: Kruidenkoek met rozijnen en noten
 date: 2023-02-01T10:29:45.509Z
-draft: false
+ignore: false
 author:
   - Daan Geijs
   - Elleke Munk

@@ -1,7 +1,7 @@
 ---
 title: Zeewierboter
 date: 2023-01-25T12:48:00+01:00
-draft: false
+ignore: false
 author:
   - Daan Geijs
   - Elleke Munk

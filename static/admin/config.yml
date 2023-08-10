@@ -32,3 +32,5 @@ collections:
       }
       - { label: 'Summary', name: 'summary', widget: 'text', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Show Table of Contents', name: 'toc', widget: 'boolean', default: false }
+      - { label: 'ignore', name: 'ignore', widget: 'boolean', default: false }
