@@ -12,7 +12,7 @@ categories:
   - koken
   - vegatarisch
 cover:
-  image: /img/apc_0009.jpg
+  image: ""
 summary: "Soms heb ik echt zin in een heerlijk hartig gerecht, zoals mosterdsoep
   of kaasfondue.  Op basis van die twee gerechten heb ik mijn laten inspireren
   en heb ik iets gemaakt wat daar op lijkt. De gerookte parmazaanse kaas hielp
