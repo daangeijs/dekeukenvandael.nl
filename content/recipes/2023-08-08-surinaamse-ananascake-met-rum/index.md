@@ -1,6 +1,7 @@
 ---
 title: Surinaamse ananascake met rum
 date: 2023-08-08T11:46:36.800Z
+ignore: false
 author:
   - Elleke Munk
 tags:
