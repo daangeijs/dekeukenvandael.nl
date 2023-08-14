@@ -29,8 +29,8 @@ collections:
         ]
       }
       - { label: 'Introductie', name: 'summary', widget: 'markdown', required: true }
-      - { label: 'Tijd', name: 'time', widget: 'string'}
-      - { label: 'Porties', name: 'portions', widget: 'string'}
+      - { label: 'Tijd', name: 'time', widget: 'string', required: false'}
+      - { label: 'Porties', name: 'portions', widget: 'string', required: false'}
       - { label: 'Ingrediënten', name: 'ingredients', widget: 'markdown', required: true }
       - { label: 'Bereidinswijze', name: 'preparation', widget: 'markdown', required: true }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
