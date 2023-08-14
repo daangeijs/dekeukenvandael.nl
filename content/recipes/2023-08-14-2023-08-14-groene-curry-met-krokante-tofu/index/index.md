@@ -24,9 +24,9 @@ Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten, maar niets 
 **Voor 4 personen**
 
 * 400 gram crispy tofu
+* 100 gram (4 eetlepels) [groene curry pasta]({{< ref "2023-08-14-thaise-groene-currypasta" >}})
 * 250 ml dikke kokosmelk - houd 30ml (2 eetlepels) apart als garnering
 * 250 ml dunne kokosmelk
-* 100 gram (4 eetlepels) groene currypasta
 * 4 grote Thaise aubergines - gesneden in stukjes van 1 cm
 * 100 gram kleine Thaise aubergines
 * 100 gram diepvriesdoperwten
@@ -39,12 +39,11 @@ Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten, maar niets 
 
 ## Bereidingswijze
 
-1. Maak eerst de crispy tofu. Zet aan de kant en maak nu de curry.
-2. Doe de dikke kokosmelk in een wok of pan en bak 3-5 minuten, constant roerend, tot de kokosolie begint te scheiden.
-3. Voeg daarna de groene currypasta toe en bak 1-2 minuten.
-4. Zodra de pasta gekookt is, voeg je de dunne kokosmelk toe. Voeg, zodra het geheel kookt, de grote en kleine aubergines toe.
-5. Laat ongeveer 4 minuten sudderen tot de aubergines iets zacht zijn.
-6. Voeg de diepvriesdoperwten toe. Roer door en voeg vervolgens de palmsuiker langs de rand van de wok toe zodat het smelt. Voeg daarna de vissaus, kaffir limoenblaadjes en de helft van de Thaise basilicumblaadjes toe. 
-7. Zet het vuur uit en serveer, gegarneerd met de grote groene chilipepers, grote rode chilipepers, de overgebleven basilicumblaadjes en de resterende dikke kokosmelk.
-
-- - -
+1. Maak eerst de crispy tofu en zet deze aan de kant.
+2. Maak de groene currypasta volgens ons recept.
+3. Doe de dikke kokosmelk in een wok of pan en bak 3-5 minuten, constant roerend, tot de kokosolie begint te scheiden.
+4. Voeg daarna de groene currypasta toe en bak 1-2 minuten.
+5. Zodra de pasta gekookt is, voeg je de dunne kokosmelk toe. Voeg, zodra het geheel kookt, de grote en kleine aubergines toe.
+6. Laat ongeveer 4 minuten sudderen tot de aubergines iets zacht zijn.
+7. Voeg de diepvriesdoperwten toe. Roer door en voeg vervolgens de palmsuiker langs de rand van de wok toe zodat het smelt. Voeg daarna de vissaus, kaffir limoenblaadjes en de helft van de Thaise basilicumblaadjes toe. 
+8. Zet het vuur uit en serveer, gegarneerd met de grote groene chilipepers, grote rode chilipepers, de overgebleven basilicumblaadjes en de resterende dikke kokosmelk.
