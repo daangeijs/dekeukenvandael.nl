@@ -1,6 +1,6 @@
 ---
 title: Krokante tofu
-date: 2023-08-14T18:39:19.020Z
+date: 2023-08-13T18:39:19.020Z
 author:
   - Elleke Munk
 tags:
