@@ -15,7 +15,7 @@ summary: >
   arbeidsintensief, maar is de geïnvesteerde tijd meer dan waard. Eventueel kun
   je het deeg, de custardvulling en de gepocheerde rabarber al een dag
   vantevoren maken.
-portions: "12"
+portions: 12 personen
 ingredients: |
   ***Voor de bodem***
 
