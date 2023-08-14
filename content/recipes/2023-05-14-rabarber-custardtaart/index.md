@@ -15,6 +15,7 @@ summary: >
   arbeidsintensief, maar is de geïnvesteerde tijd meer dan waard. Eventueel kun
   je het deeg, de custardvulling en de gepocheerde rabarber al een dag
   vantevoren maken.
+portions: "12"
 ingredients: |
   ***Voor de bodem***
 
@@ -66,5 +67,3 @@ preparation: >-
   8. Verdeel de custardvulling over de bodem. Bak de taart in 30 minuten gaar. Laat iets afkoelen en verdeel vervolgens de rabarber over de taart.
 ignore: false
 ---
-
-
