@@ -24,9 +24,8 @@ summary: >
   gebruiken. De reden dat wij dit gedaan hebben is om de mostersoep die typische
   rokerige smaak van het spek te geven. Als je niet vegatarisch bent dan is
   gerookte spek een perfect manier om dit alsnog toe te voegen.
+portions: 3 personen
 ingredients: |-
-  **Voor 3 personen**
-
   * 2 theelepel roomboter
   * 1 eetlepel olijfolie
   * 1 ui 
