@@ -28,6 +28,8 @@ summary: >+
   en deed het daarna op volle toeren in mijn keukenmachine.
 
 
+time: 10 minuten
+portions: 100 gram
 ingredients: |-
   - 100 gram ongezouten roomboter
   - 2 eetlepels fijngehakte gedroogde nori-zeewiervellen
