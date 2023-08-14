@@ -15,6 +15,8 @@ summary: >+
   makkelijk vergelijken, aangezien goede pindakazen vooral uit pindas bestaan.
   In dit recept leggen we je de basis uit van een goede pindakaas.
 
+time: 20 minuten
+portions: 350 gram
 ingredients: "* 350 gram pindas"
 preparation: >-
   1. Verwarm de oven voor op 180 graden convectie hetelucht.
