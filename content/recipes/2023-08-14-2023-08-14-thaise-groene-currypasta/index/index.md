@@ -43,7 +43,7 @@ Toen ik op vakantie was in Thailand maakte ik kennis met deze groene curry pasta
 * 1 snufje korianderzaad
 * 1 snufje komijnzaad
 
-Bereidingswijze
+## Bereidingswijze
 
 1. Rooster het komijnzaad en korianderzaad in een wok of pan op laag vuur tot het lekker ruikt.
 2. Maal het komijnzaad en korianderzaad in een vijzel tot het een poeder wordt of zo fijn mogelijk is.
