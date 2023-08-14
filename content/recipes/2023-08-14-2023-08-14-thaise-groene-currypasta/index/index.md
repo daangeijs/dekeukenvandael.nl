@@ -13,7 +13,7 @@ categories:
   - currypasta
   - thais
 cover:
-  image: apc_0024.jpg
+  image: apc_0024-edit.jpg
 summary: Toen ik op vakantie was in Thailand maakte ik kennis met deze groene
   curry pasta. Ik heb het recept na mijn reis goed bewaard en elke keer als ik
   deze curry pasta maak doet het mij weer herinneren aan Thailand. De
