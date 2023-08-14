@@ -5,11 +5,19 @@ author:
   - Elleke Munk
 tags:
   - tofu
+  - doperwten
+  - kokosmelk
 categories:
   - veganistisch
+cover:
+  image: apc_0028.jpg
+summary: Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten,
+  maar niets kan op tegen onze zelfgemaakte groene curry en het is een geweldig
+  gerecht voor een dinertje. Je kunt de saus zo dik en romig maken als je zelf
+  wilt. Deze curry is een van de meest pittige Thaise curries.
 ignore: false
 ---
-Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten, maar niets kan op tegen onze zelfgemaakte groene curry en het is een geweldig gerecht voor een dinertje. Je kunt de saus zo dik en romig maken als je zelf wilt. Deze curry is een van de meest pittige Thaise curries.
+Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten, maar niets kan op tegen deze zelfgemaakte groene curry en het is een geweldig gerecht voor een dinertje. Je kunt de saus zo dik en romig maken als je zelf wilt. Deze curry is een van de meest pittige Thaise curries. 
 
 ## Ingrediënten
 
