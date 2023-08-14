@@ -1,5 +1,5 @@
 ---
-title: Crispy tofu
+title: Krokante tofu
 date: 2023-08-14T18:39:19.020Z
 author:
   - Elleke Munk
@@ -8,10 +8,11 @@ tags:
 categories:
   - veganistisch
   - vegetarisch
-summary: Niet iedereen is fan van tofu. Vaak wordt de consistentie als te zacht
-  ervaren en de smaak saai bevonden. Het mooie van tofu is juist dat het zich
-  perfect leent om smaken helemaal in zich op te nemen. En aan dat zachte kan
-  bij dezen ook iets gedaan worden!
+summary: "Niet iedereen is fan van tofu (ofwel tahoe). Vaak wordt de
+  consistentie als te zacht ervaren en de smaak saai bevonden. Het mooie van
+  tofu is juist dat het zich perfect leent om smaken helemaal in zich op te
+  nemen. Met dit basisrecept kun je nog alle kanten op, dus voeg eventuele
+  kruiden toe na het mengen met de zonnebloemolie. "
 ignore: false
 ---
 Niet iedereen is fan van tofu (ofwel tahoe). Vaak wordt de consistentie als te zacht ervaren en de smaak saai bevonden. Het mooie van tofu is juist dat het zich perfect leent om smaken helemaal in zich op te nemen. Met dit basisrecept kun je nog alle kanten op, dus voeg eventuele kruiden toe na het mengen met de zonnebloemolie. 
