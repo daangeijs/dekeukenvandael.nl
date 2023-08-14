@@ -46,10 +46,6 @@ preparation: >-
 
   7. Doe 110 gram zonnebloempitten in een ruime kom of groot bord.
 
-
-  {{< figure src="94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
-
-
   8. Voor je begint vet je een cakevorm in met olie.
 
   9. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
@@ -71,3 +67,5 @@ preparation: >-
   17. Heb je een deksel haal deze er dan nu af en bak nog 20 minuten op 210°C.
 ignore: false
 ---
+
+{{< figure src="94b1737f-49f6-4436-8574-238410b298c6.jpeg" title="Ingevette bakvorm met daarin de twee stukken deeg" >}}
