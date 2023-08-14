@@ -58,6 +58,7 @@
         {{- partial "anchored_headings.html" .Params.Ingredients | markdownify -}}
         <h2>Bereidingswijze</h2>
         {{- partial "anchored_headings.html" .Params.Preparation | markdownify -}}
+        {{- partial "anchored_headings.html" .Content -}}
         {{- else }}
            {{- partial "anchored_headings.html" .Params.Introduction | markdownify -}}
             {{- partial "anchored_headings.html" .Params.Ingredients | markdownify -}}
