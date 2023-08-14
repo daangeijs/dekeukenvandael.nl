@@ -14,14 +14,14 @@ categories:
   - thais
 cover:
   image: apc_0024-edit.jpg
-summary: Toen ik op vakantie was in Thailand maakte ik kennis met deze groene
+summary: "Toen ik op vakantie was in Thailand maakte ik kennis met deze groene
   curry pasta. Ik heb het recept na mijn reis goed bewaard en elke keer als ik
   deze curry pasta maak doet het mij weer herinneren aan Thailand. De
   ingrediënten kun je meestal vinden bij een goede Toko. Probeer het citroengras
   zo vers mogelijk te kopen, zodat je niet teveel harde houtachtige stukken in
   je curry krijgt. Korianderwortels kun je vervangen door korianderstengels en
   eventueel het blad. Ook kun je nog een paar extra Thaise basilicumblaadjes aan
-  de pasta toevoegen voor extra smaak.
+  de pasta toevoegen voor extra smaak."
 ignore: false
 ---
 Toen ik op vakantie was in Thailand maakte ik kennis met deze groene curry pasta. Ik heb het recept na mijn reis goed bewaard en elke keer als ik deze curry pasta maak doet het mij weer herinneren aan Thailand. De ingrediënten kun je meestal vinden bij een goede Toko. Probeer het citroengras zo vers mogelijk te kopen, zodat je niet teveel harde houtachtige stukken in je curry krijgt. De wortels van koriander hebben een intensere smaak dan hun stengels en bladeren. Als je het lastig vindt om deze te verkrijgen, kun je ze vervangen door de stengels en bladeren te gebruiken.
