@@ -37,7 +37,7 @@
     {{- partial "toc.html" . }}
     {{- end }}
 
-    {{- if .Content }}
+    {{- if .Summary }}
     <div class="post-content">
         {{- if not (.Param "disableAnchoredHeadings") }}
 <!--        <div>-->
@@ -53,8 +53,16 @@
 <!--                <div class="Recipe-Ingredient js-recipeIngredient" data-baseValue="50">Lardon : <span></span>g</div>-->
 <!--            </div>-->
 <!--        </div>-->
-        {{- partial "anchored_headings.html" .Content -}}
-        {{- else }}{{ .Content }}{{ end }}
+        {{- partial "anchored_headings.html" .Summary | markdownify -}}
+        <h2>Ingrediënten</h2>
+        {{- partial "anchored_headings.html" .Params.Ingredients | markdownify -}}
+        <h2>Bereidingswijze</h2>
+        {{- partial "anchored_headings.html" .Params.Preparation | markdownify -}}
+        {{- else }}
+           {{- partial "anchored_headings.html" .Params.Introduction | markdownify -}}
+            {{- partial "anchored_headings.html" .Params.Ingredients | markdownify -}}
+        {{- partial "anchored_headings.html" .Params.Preparation | markdownify -}}
+        {{ end }}
     </div>
     {{- end }}
 
