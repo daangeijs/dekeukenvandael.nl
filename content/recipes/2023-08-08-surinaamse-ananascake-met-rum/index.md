@@ -12,7 +12,8 @@ categories:
   - cake
 cover:
   image: cover.jpg
-summary: "Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en
+summary: >
+  Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en
   voor je het weet, is het overrijp. Dit overkwam mij laatst met een ananas.
   Juicy, zoet en op het randje van té rijp, maar wegdoen vond ik zonde. Ik wilde
   er iets lekkers van maken! Echter, de sappigheid van ananas kan soms een
@@ -21,7 +22,7 @@ summary: "Het overkomt ons allemaal wel eens: je hebt fruit in huis gehaald en
   blijft heerlijk luchtig. De toevoeging van rum en kruidige specerijen geven
   het geheel een exotisch en zomers tintje. Dus mocht je, net als ik, een ananas
   hebben liggen die snakt naar een tweede leven, probeer dan deze smaakvolle
-  traktatie!"
+  traktatie!
 ingredients: |-
   * 1 verse ananas
   * 150 gram ongezouten (biologische) roomboter - verdelen in 50 en 100 gram

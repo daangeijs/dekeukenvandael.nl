@@ -18,8 +18,7 @@ summary: >-
   gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit
   is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies
   goed voor de bakvorm die wij gebruiken. 
-
-
+  
   Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en prima blijft smaken. Perfect voor tijdens een werkweek. 
 time: "Voorbereiding: 6 uur en 15 minuten, Bakken: 1 uur"
 portions: 24 plakken brood

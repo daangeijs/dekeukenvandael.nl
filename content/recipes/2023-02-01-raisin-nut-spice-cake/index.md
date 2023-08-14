@@ -21,9 +21,6 @@ summary: >+
   perfecte traktatie voor een kille herfstdag. Of je er nu van geniet met een
   kopje koffie of thee, of het deelt met vrienden en familie, deze kruidenkoek
   maakt mensen blij!
-
-
-
 ingredients: |-
   - 200 g plantaardige margarine
   - 275 g bruine suiker
