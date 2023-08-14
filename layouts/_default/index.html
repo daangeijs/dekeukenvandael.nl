@@ -17,7 +17,7 @@
         {{ if .Description }}
         <p>{{ .Description | plainify | htmlUnescape }}</p>
         {{ else }}
-        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        <p>{{ .Summary | markdownify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
         {{ end }}
     </section>
         <button class="button-23" role="button">naar het recept!</button>
