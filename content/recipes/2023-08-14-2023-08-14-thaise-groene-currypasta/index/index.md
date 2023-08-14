@@ -30,19 +30,20 @@ Toen ik op vakantie was in Thailand maakte ik kennis met deze groene curry pasta
 
 **(voor +/-150 gram pasta)**
 
-* 1 eetl. dun gesneden citroengras
-* 1 eetl. Dun gesneden galangal (laoswortel)
-* 1 eetl. Knoflook
-* 1 tl. Gehakte korianderwortels
-* 1 tl. Gehakte gele kurkumawortel
-* 1 gehakt kaffir limoenblad
-* 1 tl. Gehakte sjalot
-* 1 tl. Gehakte verse groene rawit peper
-* 1 eetl. Gehakte verse grote groene chili
-* 1 snufje zout
-* 1 tl. Garnalenpasta
-* 1 snufje korianderzaad
-* 1 snufje komijnzaad
+- 1 theelepel korianderzaadjes - geroosterd tot ze bruin zijn
+- 1/2 theelepel komijnzaadjes - geroosterd tot ze bruin zijn
+- 1/2 theelepel zwarte peperkorrels
+- 1/2 theelepel zout
+- 5g (1 theelepel) ginza - schil verwijderd, gehakt
+- 15g (3 eetlepels) citroengras - alleen het onderste 1/3 deel, gehakt
+- 5g (1 theelepel) kaffir limoenschil - gehakt
+- 20g (2 eetlepels) korianderwortel - gehakt
+- 10g (2 eetlepels) sjalotten - gehakt
+- 5g (1 eetlepel) knoflook - geperst
+- 5g (1 theelepel) garnalenpasta
+- 5g (1 theelepel) kurkuma - schil verwijderd, gehakt
+- 20 kleine, groene pepertjes
+- 30g Thaise basilicumblaadjes
 
 ## Bereidingswijze
 
