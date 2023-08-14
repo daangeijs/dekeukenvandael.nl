@@ -30,7 +30,7 @@ Kant-en-klare versies zijn nu algemeen verkrijgbaar in supermarkten, maar niets 
 
 ## Bereidingswijze
 
-1. Doe de dikke kokosmelk in een wok en bak 3-5 minuten, constant roerend, tot de kokosolie begint te scheiden.
+1. Doe de dikke kokosmelk in een wok of pan en bak 3-5 minuten, constant roerend, tot de kokosolie begint te scheiden.
 2. Voeg daarna de groene currypasta toe en bak 1-2 minuten.
 3. Zodra de pasta gekookt is, voeg je de kip toe en kook je tot de buitenkant van de kip wit wordt.
 4. Voeg vervolgens de dunne kokosmelk toe en voeg, zodra het kookt, de grote en kleine aubergines toe.
