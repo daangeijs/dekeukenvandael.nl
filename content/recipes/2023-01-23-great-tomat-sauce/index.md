@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Rijke tomatenpuree
 date: 2023-01-23T12:48:00+01:00
 tags:
@@ -35,5 +34,4 @@ preparation: >-
 
   5. Zet het vuur uit en laat de saus iets afkoelen voordat je hem gebruikt of in een luchtdichte verpakking in de koelkast bewaart.
 ignore: false
-description: Simple description
 ---
