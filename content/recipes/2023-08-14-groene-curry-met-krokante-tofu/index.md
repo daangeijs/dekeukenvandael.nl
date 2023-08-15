@@ -9,6 +9,7 @@ tags:
   - kokosmelk
 categories:
   - veganistisch
+  - thais
 cover:
   image: apc_0028.jpg
 summary: >+
@@ -20,7 +21,7 @@ summary: >+
 time: ""
 portions: 2 personen
 ingredients: >-
-  * 400 gram crispy tofu
+  * 400 gram [crispy tofu]({{< ref "2023-08-14-crispy-tofu" >}})
 
   * 100 gram (4 eetlepels) [groene curry pasta]({{< ref "2023-08-14-thaise-groene-currypasta" >}})
 
