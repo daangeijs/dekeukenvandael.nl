@@ -6,7 +6,7 @@ author:
 tags:
   - rabarber
 categories:
-  - Taart
+  - taart
 cover:
   image: cover.jpeg
 summary: >
