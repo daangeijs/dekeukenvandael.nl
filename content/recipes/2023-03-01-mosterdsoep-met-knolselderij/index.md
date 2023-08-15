@@ -9,7 +9,7 @@ tags:
   - dragon
 categories:
   - koken
-  - vegatarisch
+  - vegetarisch
   - soep
 cover:
   image: https://makkelijkafvallen.nl/wp-content/uploads/knolselderij-soep.jpg
