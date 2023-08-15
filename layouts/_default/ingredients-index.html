@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="ingredients-index">
+    <!-- Loop through all tags, sorted alphabetically -->
+    {{ range sort $.Site.Taxonomies.tags.ByCount "Name" }}
+        <h2 class="tag-name">{{ humanize .Name }}</h2>
+
+        <!-- Loop through all content with the current tag -->
+        {{ range .Pages }}
+            <div class="tag-post">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+{{ end }}
+{{/* end main */}}
