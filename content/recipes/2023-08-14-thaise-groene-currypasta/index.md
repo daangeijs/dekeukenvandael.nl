@@ -22,9 +22,8 @@ summary: Toen ik op vakantie was in Thailand maakte ik kennis met deze groene
   je curry krijgt. De wortels van koriander hebben een intensere smaak dan hun
   stengels en bladeren. Als je het lastig vindt om deze te verkrijgen, kun je ze
   vervangen door de stengels en bladeren te gebruiken.
+portions: +- 150 gram
 ingredients: |-
-  **(voor +/-150 gram pasta)**
-
   - 1 theelepel  korianderzaadjes
   - 1/2 theelepel komijnzaadjes
   - 1/2 theelepel zwarte peperkorrels
