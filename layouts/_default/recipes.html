@@ -20,15 +20,17 @@
 </header>
 {{- end }}
 
+
 {{- if .Content }}
+
 <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
 </div>
 {{- end }}
-
-
+<div class="page-box">
+    <div>
 {{- $pages := .Pages }}
 {{- if .IsHome }}
 {{/* get all regular pages instead of pages in a section */}}
@@ -67,7 +69,7 @@
     {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
     {{- end }}
 </a>
-
+</div>
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
@@ -80,6 +82,7 @@
         {{- end }}
     </nav>
 </footer>
+    </div>
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}

@@ -77,3 +77,8 @@
 .post-content {
     margin-top: 30px;
 }
+
+.page-box{
+    display: flex;
+    flex-direction: column;
+}
