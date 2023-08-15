@@ -9,7 +9,7 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 
 [build.environment]
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.92.2"
+  HUGO_VERSION = "0.116.1"
 
 [[headers]]
   for = "/*.html"
