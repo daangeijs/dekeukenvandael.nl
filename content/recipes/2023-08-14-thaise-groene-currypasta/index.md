@@ -25,8 +25,8 @@ summary: Toen ik op vakantie was in Thailand maakte ik kennis met deze groene
 ingredients: |-
   **(voor +/-150 gram pasta)**
 
-  - 1 theelepel korianderzaadjes - geroosterd tot ze bruin zijn
-  - 1/2 theelepel komijnzaadjes - geroosterd tot ze bruin zijn
+  - 1 theelepel  korianderzaadjes
+  - 1/2 theelepel komijnzaadjes
   - 1/2 theelepel zwarte peperkorrels
   - 1/2 theelepel zout
   - 5g (1 theelepel) galangal (laos) - schil verwijderd, gehakt
@@ -48,4 +48,3 @@ preparation: >-
   3. Bewaar in de koelkast. Wat je overhoudt kun je eventueel in de vriezer bewaren.  Tip is om het in te vriezen in een ijsblokjesvorm, zodat je een vaste hoeveelheid per keer eruit kunt halen!
 ignore: false
 ---
-
