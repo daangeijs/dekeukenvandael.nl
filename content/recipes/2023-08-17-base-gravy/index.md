@@ -60,19 +60,16 @@ ingredients: |+
   - 2 tl komijnzaad
   - 1 kaneelstok
 
-preparation: >+
-  1. Combineer uien, rode paprika, chili, wortel en olie in een 5L pan en kook.
+preparation: >-
+  1. Voeg de ingrediënten van de basis saus toe en laat het 1 uur koken.
 
-  2. Voeg de overige ingrediënten van de basis saus toe en laat het 1 uur koken.
+  2. Bereid ondertussen de Akhni Stock: Combineer alle ingrediënten van de stock in een aparte pan en kook dit voor 15 minuten.
 
-  3. Bereid ondertussen de Akhni Stock: Combineer alle ingrediënten van de stock in een aparte pan en kook dit voor 15 minuten.
+  3. Voeg de bereide Akhni Stock toe aan de basis saus.
 
-  4. Voeg de bereide Akhni Stock toe aan de basis saus.
+  4. Gebruik een staafmixer om de saus te pureren tot een gladde massa.
 
-  5. Gebruik een blender om de saus te pureren tot een gladde massa.
-
-  6. Kook de saus opnieuw voor 1 uur, tot deze een melk-consistentie heeft bereikt.
-
+  5. Kook de saus opnieuw voor 1 uur, tot deze een melkachtige consistentie heeft bereikt.
 ignore: false
 ---
 Hier de orginele video:
