@@ -1,17 +1,29 @@
 ---
-title: Base Gravy
+title: Indiaase basis saus
 date: 2023-08-17T17:59:33.449Z
+tags:
+  - gecondenseerde melk
+  - wortel
+  - ui
+  - rode linzen
+  - ghee
+categories:
+  - Indiaas
+  - vegetarisch
+  - ingredient
 summary: >+
-  Al's Ki is een populaire YouTube-kanaal dat zich richt op Brits-Indiase
-  gerechten. Hier is een directe vertaling van een van hun video's waarin een
-  basis saus wordt gemaakt. Na het bereiden van zo'n grote hoeveelheid gebruiken
-  we een cupcake bakvorm om de basis saus in pucks in te vriezen en daarna in
-  een zak te bewaren. Dit maakt het erg gemakkelijk om de basis saus te
-  gebruiken, aangezien je slechts 1 of 2 pucks nodig hebt.
+  Al's Kitchen is een leuk YouTube-kanaal dat zich richt op Brits-Indiase
+  gerechten. Dit is een directe vertaling van een van hun video's waarin een
+  basis saus wordt gemaakt die je aan een curry kan toevoegen. Na het bereiden
+  van zo'n grote hoeveelheid gebruiken we een cupcake bakvorm om de basis saus
+  in pucks in te vriezen en daarna in een zak te bewaren. Dit maakt het erg
+  gemakkelijk om de basis saus te gebruiken, aangezien je vaak slecht 1 of 2
+  pucks nodig hebt.
 
+time: "Voorbereiden: 30 min, Koken: 2 uur"
+portions: ""
 ingredients: |+
-  ## Ingrediënten:
-
+  ** Basis saus **
   - 1 kilo witte uien, gehalveerd
   - Halve rode paprika, gesneden
   - 1 bird’s eye chili, gesneden
@@ -35,7 +47,7 @@ ingredients: |+
   - 40 g verse koriander
   - 1-2 tl ghee
 
-  ## Akhni Stock:
+  ** Akhni Stock **
 
   - 700 ml water
   - 7 groene kardemom
@@ -48,10 +60,7 @@ ingredients: |+
   - 2 tl komijnzaad
   - 1 kaneelstok
 
-preparation: >-
-  ## Instructies:
-
-
+preparation: >+
   1. Combineer uien, rode paprika, chili, wortel en olie in een 5L pan en kook.
 
   2. Voeg de overige ingrediënten van de basis saus toe en laat het 1 uur koken.
@@ -64,7 +73,7 @@ preparation: >-
 
   6. Kook de saus opnieuw voor 1 uur, tot deze een melk-consistentie heeft bereikt.
 
-
-  Tip: Vries overtollige saus in pucks in voor later gebruik.
 ignore: false
 ---
+Hier de orginele video:
+{{- youtube LOn9wkjLpCc -}}
