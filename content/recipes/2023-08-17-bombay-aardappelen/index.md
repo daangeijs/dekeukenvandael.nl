@@ -10,7 +10,7 @@ tags:
   - komijn
   - venkelzaad
 categories:
-  - Indiaas
+  - indiaas
   - vegetarisch
   - bijgerecht
 summary: Dit is een fantastisch bijgerecht dat perfect samengaat met rijst en
