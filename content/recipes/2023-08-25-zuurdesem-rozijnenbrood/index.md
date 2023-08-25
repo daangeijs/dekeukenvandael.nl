@@ -42,7 +42,7 @@ preparation: >-
 
   7. Laat nogmaals 3 uur rijzen.
 
-  8. Vet een blik of vorm riant in me olijfolie Gebruik een vorm ongeveer 1.7 liter die af te sluiten is. Twijfel je over de inhoud, vul dan je vorm met water en giet deze vervolgens in een maatbeker. Zo weet je snel wat de inhoud van je vorm is. Zelf heb ik een 1/6 gastronormbak gebruikt van 100mm.
+  8. Vet een blik of vorm riant in me olijfolie. Gebruik een vorm van ongeveer 1.7 liter die af te dekken is met een deksel. Twijfel je over de inhoud, vul dan je vorm met water en giet deze vervolgens in een maatbeker. Zo weet je snel wat de inhoud van je vorm is. Zelf heb ik een 1/6 gastronormbak gebruikt van 100mm.
 
   9. Giet de rozijnen af en knijp ze goed uit. Meng ze voorzichtig door het deeg met dezelfde beweging als stap 6. Ik vang meestal het water op en bewaar dit in de koelkast. Het is namelijk enorm lekker gezoet water dat ik gebruik om bij een stoof of curry toe te voegen.
 
