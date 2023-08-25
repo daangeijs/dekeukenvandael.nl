@@ -10,7 +10,7 @@ categories:
   - indiaas
   - hoofdgerecht
 cover:
-  image: apc_0030-edit.jpg
+  image: apc_0030-edit.png
 summary: "Toen ik laatst wat overgebleven rode bieten in mijn koelkast ontdekte,
   voelde ik de uitdaging om er een curry van te maken. Het resultaat? Een erg
   lekkere maar vooral mooie roodkleurige veganistische maaltijd die in een
