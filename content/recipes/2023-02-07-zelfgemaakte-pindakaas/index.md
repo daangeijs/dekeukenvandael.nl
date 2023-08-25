@@ -7,7 +7,7 @@ author:
 tags:
   - pindakaas
 cover:
-  image: https://www.eefkooktzo.nl/wp-content/uploads/2021/05/Pindakaas.jpg
+  image: apc_0019-edit.jpg
 summary: >+
   Wij houden ontzettend van pindakaas en maken deze het liefst zelf. Eigenlijk
   kwam dit doordat het ons opviel dat pindakaas in de supermarkt eigenlijk vrij
