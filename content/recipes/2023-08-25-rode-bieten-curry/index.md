@@ -23,8 +23,10 @@ ingredients: >-
 
   * 25 gram knoflook (ongeveer 5 tot 6 tenen)
 
-  * 16 gram scherpe peper (1 adjumapeper)
+  * 16 gram scherpe peper 
 
+    * scherp: Habanero of Adjuma
+    * mild: Spaanse peper)
   * 100 gram ui
 
   * 25 gram geschilde gember
