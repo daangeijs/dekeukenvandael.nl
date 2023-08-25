@@ -61,3 +61,4 @@ preparation: >-
   16. Stort het brood nu uit de vorm, lukt dat moeilijk zorg dan eerst dat je met een spatel de zijkanten een beetje loswrikt.
 ignore: false
 ---
+[zonnebloempittenbrood]({{< relref "2023-08-09-zuurdesem-zonnebloempittenbrood" >}})
