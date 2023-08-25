@@ -24,7 +24,7 @@ ingredients: |-
   * 90 gram tarwe zuurdesem
   * 6.5 gram zout
   * 264 gram water
-  * 33 gram gedroogde rozijnen
+  * 66 gram gedroogde rozijnen
   * Olijfolie
 preparation: >-
   1. Doe het bloem, zout, desem in een kom. Zorg dat je het zout en desem van
@@ -36,7 +36,7 @@ preparation: >-
 
   4. Dek de kom af en laat het deeg 3 uur rijzen bij kamertemperatuur (20°C).
 
-  5. Pak een kommetje en wel de 33 gram gedroogde rozijnen in voldoende water.
+  5. Pak een kommetje en wel de 66 gram gedroogde rozijnen in voldoende water.
 
   6. Gebruik een lepel om het deeg te vouwen. Probeer dit door een scheppende beweging te maken. 
 
@@ -44,7 +44,7 @@ preparation: >-
 
   8. Vet een blik of vorm riant in me olijfolie Gebruik een vorm ongeveer 1.7 liter die af te sluiten is. Twijfel je over de inhoud, vul dan je vorm met water en giet deze vervolgens in een maatbeker. Zo weet je snel wat de inhoud van je vorm is. Zelf heb ik een 1/6 gastronormbak gebruikt van 100mm.
 
-  9. Giet de rozijnen af en knijp ze goed uit. Meng ze voorzichtig door het deeg met dezelfde beweging als stap 6. 
+  9. Giet de rozijnen af en knijp ze goed uit. Meng ze voorzichtig door het deeg met dezelfde beweging als stap 6. Ik vang meestal het water op en bewaar dit in de koelkast. Het is namelijk enorm lekker gezoet water dat ik gebruik om bij een stoof of curry toe te voegen.
 
   10. Stort het deeg in de vorm en zet in de koelkast voor 8 uur.
 
