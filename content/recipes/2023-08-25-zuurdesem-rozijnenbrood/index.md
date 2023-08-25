@@ -10,21 +10,29 @@ categories:
   - brood
 cover:
   image: img_8451-edit.jpg
-summary: Tijdens een experiment met het zonnebloempittenbrood, besloot ik alleen
-  bloem te gebruiken en behield dezelfde verhoudingen. Al snel merkte ik dat het
-  deeg erg nat was en wellicht te ver was doorgerezen. Bij het uitstorten leek
-  het bijna op pannenkoekenbeslag. Desondanks was het eindresultaat verrassend
-  lekker. De desem bracht een zure en zoete toon aan het brood, wat me
-  inspireerde om rozijnen toe te voegen. Een fantastische keuze!
+summary: Tijdens een experiment met het [zonnebloempittenbrood]({{< ref
+  "2023-08-09-zuurdesem-zonnebloempittenbrood" >}}), besloot ik alleen bloem te
+  gebruiken en behield dezelfde verhoudingen. Al snel merkte ik dat het deeg erg
+  nat was en wellicht te ver was doorgerezen. Bij het uitstorten leek het bijna
+  op pannenkoekenbeslag. Desondanks was het eindresultaat verrassend lekker. De
+  desem bracht een zure en zoete toon aan het brood, wat me inspireerde om
+  rozijnen toe te voegen. Een fantastische keuze!
 time: "Voorbereiding: 10 minuten, Rijzen: 6 uur, Bakken: 45 minuten"
 portions: 10 sneetjes
-ingredients: |-
+ingredients: >-
   * 300 gram tarwebloem
+
   * 90 gram tarwe zuurdesem
+
   * 6.5 gram zout
+
   * 264 gram water
+
   * 66 gram gedroogde rozijnen
+
   * Olijfolie
+
+  [zonnebloempittenbrood]({{< ref "2023-08-09-zuurdesem-zonnebloempittenbrood" >}})
 preparation: >-
   1. Doe het bloem, zout, desem in een kom. Zorg dat je het zout en desem van
   elkaar gescheiden houdt.
@@ -60,4 +68,4 @@ preparation: >-
   16. Stort het brood nu uit de vorm, lukt dat moeilijk zorg dan eerst dat je met een spatel de zijkanten een beetje loswrikt.
 ignore: false
 ---
-[zonnebloempittenbrood]({{< relref "2023-08-09-zuurdesem-zonnebloempittenbrood" >}})
+[zonnebloempittenbrood]({{< ref "2023-08-09-zuurdesem-zonnebloempittenbrood" >}})
