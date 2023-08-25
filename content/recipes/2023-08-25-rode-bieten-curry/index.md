@@ -1,6 +1,6 @@
 ---
 title: Rode Bieten Curry
-date: 2023-08-26T19:48:52.920Z
+date: 2023-08-25T20:38:10.751Z
 author:
   - Daan Geijs
 tags:
