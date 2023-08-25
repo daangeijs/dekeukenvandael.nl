@@ -25,8 +25,8 @@ ingredients: >-
 
   * 16 gram scherpe peper 
 
-    * scherp: Habanero of Adjuma
-    * mild: Spaanse peper
+    * scherp: 1 Habanero of Adjuma
+    * mild: 1 Spaanse peper
   * 100 gram ui
 
   * 25 gram geschilde gember
