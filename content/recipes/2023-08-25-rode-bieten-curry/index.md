@@ -1,6 +1,6 @@
 ---
 title: Rode Bieten Curry
-date: 2023-08-25T20:38:10.751Z
+date: 2023-08-25T21:04:38.345Z
 author:
   - Daan Geijs
 tags:
@@ -10,7 +10,7 @@ categories:
   - indiaas
   - hoofdgerecht
 cover:
-  image: apc_0030-edit.png
+  image: apc_0030-edit.jpg
 summary: "Toen ik laatst wat overgebleven rode bieten in mijn koelkast ontdekte,
   voelde ik de uitdaging om er een curry van te maken. Het resultaat? Een erg
   lekkere maar vooral mooie roodkleurige veganistische maaltijd die in een
