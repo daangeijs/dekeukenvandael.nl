@@ -63,5 +63,5 @@ ignore: false
 ---
 Onthoud, presentatie is alles! Voordat je begint te eten, zorg ervoor dat je gerecht er zo lekker mogelijk uitziet. Voeg wat extra koriander toe bovenop en garneer met een milde rode peper. Je kunt zelfs een klein schijfje citroen toevoegen voor een extra touch. Voor meer gedetailleerde instructies kijk dan de originele video hier:
 
-{{< youtube NFNcUviyGlM >}}
+{{< youtube Gkb6TWTu5l8 >}}
 
