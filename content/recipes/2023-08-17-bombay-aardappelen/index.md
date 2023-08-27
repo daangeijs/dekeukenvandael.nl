@@ -48,19 +48,19 @@ preparation: >-
   rest van de kruiden. Verdun ook de tomatenpuree met wat water en zet deze
   appart.
 
-  2. Verhit een middelgrote pan op middelhoog vuur en voeg de kokosolie en boter/ghee toe.
+  2. Verhit een middelgrote pan op middelhoog vuur en voeg de olie en boter/ghee toe.
 
-  3. Voeg de fijn gesneden knoflook toe aan de pan en bak deze ongeveer een minuut om de smaak te verzachten. Gaat het te hard, gebruik dan wat water om te koelen.
+  3. Voeg de fijn gesneden knoflook toe aan de pan en bak deze ongeveer een minuut om de smaak te verzachten.
 
-  4. Voeg het zwarte mosterdzaad, gele mosterdzaad en curryblaadjes toe aan de pan. Bak de kruiden ongeveer 30-40 seconden tot ze een heerlijke geur afgeven. Ook hier kun je water toevoegen als het te hard gaat.
+  4. Voeg het zwarte mosterdzaad, gele mosterdzaad en curryblaadjes toe aan de pan. Bak de kruiden ongeveer 30-40 seconden tot ze een heerlijke geur afgeven en de mosterzaadjes beginnen te springen. Gaat het te hard, gebruik dan wat water om te koelen.
+
+  5. Voeg de verdunde tomatenpuree toe aan de pan.
 
   5. Voeg nu het komijnzaad, kurkumapoeder, chilipoeder, venkelzaad, madras kerriepoeder, zout en suiker toe. 
 
-  5. Voeg de verdunde tomatenpuree toe aan de pan. Je hebt nu een mooi intense masala basis.
+  6. Voeg de voorgekookte aardappelen toe aan de pan en meng ze goed met de saus. Verlaag het vuur naar een lagere stand en roer de aardappelen goed door.
 
-  6. Voeg de voorgekookte aardappelen toe aan de pan en meng ze goed met de masala basis. Verlaag het vuur naar een lagere stand en roer de aardappelen goed door.
-
-  7. Laat de aardappelen enkele minuten in de masala koken, zodat ze de smaken goed kunnen opnemen.
+  7. Laat de aardappelen enkele minuten in de saus koken, zodat ze de smaken goed kunnen opnemen.
 
   8. Garneer de Bombay Aardappelen met fijn gesneden koriander en een milde rode peper ter decoratie.
 ignore: false
