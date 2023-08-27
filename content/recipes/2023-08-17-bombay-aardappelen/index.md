@@ -1,6 +1,6 @@
 ---
 title: Bombay aardappelen
-date: 2023-08-17T19:04:22.292Z
+date: 2023-07-17T19:04:00.000Z
 author:
   - Daan Geijs
 tags:
