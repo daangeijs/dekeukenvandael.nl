@@ -26,14 +26,14 @@ ingredients: |-
   Masala: 
   - 1 eetlepel boter of ghee
   - 1 eetlepel kokosolie (kan worden vervangen door plantaardige olie)
+  - 1 theelepel gele mosterdzaad
+  - 1/2 theelepel zwarte mosterdzaad
+  - klein handje curryblaadjes
   - 1 1/2 theelepel komijnzaad
   - 1 theelepel kurkumapoeder
   - 1 theelepel chilipoeder (pas aan naar smaak)
-  - 1 theelepel gele mosterdzaad
-  - 1/2 theelepel zwarte mosterdzaad
   - 1/2 theelepel venkelzaad
   - 1 theelepel milde Madras kerriepoeder
-  - Een klein handje curryblaadjes
   - 1 theelepel zout
   - 1/2 theelepel suiker
   - 2 grote teentjes knoflook, fijn gesneden
