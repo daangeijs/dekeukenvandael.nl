@@ -5,7 +5,6 @@ author:
   - Daan Geijs
 tags:
   - aardappelen
-  - ghee
   - tomatenpuree
   - komijn
   - venkelzaad
