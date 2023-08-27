@@ -25,7 +25,7 @@ summary: >+
 
 time: "Voorbereiden: 45 min, Koken: 2 uur"
 portions: ""
-ingredients: |+
+ingredients: |-
   ** Basis saus **
   - 1 kilo witte uien, gehalveerd
   - Halve rode paprika, gesneden
@@ -62,6 +62,10 @@ ingredients: |+
   - 2 tl korianderzaad
   - 2 tl komijnzaad
   - 1 kaneelstok
+  
+    {{< figure src="APC_0041.jpg" title="Zelf vries ik de basissaus in door ze in een cupcake vorm te doen. Elke 'puck' zoals ik ze noem, weegt 100 gram en zijn makkelijk in een diepvrieszak in de vriezer op te bergen. Je zult zien dat ik in een andere recepten vaak naar deze 'pucks' verwijs. " >}}
+
+
 
 preparation: >-
   1. Voeg de ingrediënten van de basis saus toe aan een grote pan en zet het
@@ -78,3 +82,4 @@ ignore: false
 ---
 Hier de orginele video:
 {{< youtube LOn9wkjLpCc >}}
+
