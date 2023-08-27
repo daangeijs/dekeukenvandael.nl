@@ -1,6 +1,8 @@
 ---
 title: Indiaase basis saus
 date: 2023-08-17T17:59:33.449Z
+author:
+  - Daan Geijs
 tags:
   - gecondenseerde melk
   - wortel
@@ -11,6 +13,8 @@ categories:
   - Indiaas
   - vegetarisch
   - ingredient
+cover:
+  image: apc_0037-edit.jpg
 summary: >+
   Al's Kitchen is een leuk YouTube-kanaal dat zich richt op Brits-Indiase
   gerechten. Dit is een directe vertaling van een van hun video's waarin een
@@ -66,7 +70,7 @@ preparation: >-
 
   2. Bereid ondertussen de Akhni Stock: Combineer alle ingrediënten van de stock in een aparte pan en kook dit voor 15 minuten.
 
-  3. Voeg de bereide Akhni Stock toe door het via een zeef aan de basis saus te gieten.
+  3. Voeg de bereide Akhni Stock toe door het via een zeef in de basis saus te gieten.
 
   4. Gebruik een staafmixer om de saus te pureren tot een gladde massa.
 
