@@ -70,7 +70,7 @@ preparation: >-
 
   4. Gebruik een staafmixer om de saus te pureren tot een gladde massa.
 
-  5. Kook de saus opnieuw voor 1 uur, tot deze een melkachtige consistentie heeft bereikt.
+  5. Kook de saus opnieuw voor 1 uur met de deksel erop, zorg ervoor dat je een melkachtige consistentie hebt bereikt op het einde. Je kan eventueel nog wat water toevoegen als de saus te dik is.
 ignore: false
 ---
 Hier de orginele video:
