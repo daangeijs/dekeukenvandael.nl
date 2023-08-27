@@ -11,6 +11,8 @@ categories:
   - indiaas
   - vegetarisch
   - hoofdgerecht
+cover:
+  image: apc_0032.jpg
 summary: Ik heb mijn collega's dit recept ooit beloofd, toen ik ze spontaan
   aanbood om bij mij te blijven eten. Een vegatarisch gerecht is altijd veilig,
   zodat je weet dat de meeste mensen er van kunnen genieten. Echter, mijn
