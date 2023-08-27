@@ -8,7 +8,6 @@ tags:
   - wortel
   - ui
   - rode linzen
-  - ghee
 categories:
   - Indiaas
   - vegetarisch
