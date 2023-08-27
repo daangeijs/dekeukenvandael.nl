@@ -26,7 +26,7 @@ time: 25 minuten
 portions: 2 personen
 ingredients: |-
   Masala: 
-  - 3 vastkokende aardappelen (450 gram)
+  - 3 vastkokende aardappelen (450 gram), gesneden in stukken. 
   - 1 eetlepel boter of ghee
   - 1 eetlepel kokosolie (kan worden vervangen door plantaardige olie)
   - 2 grote teentjes knoflook, fijn gesneden
@@ -43,10 +43,10 @@ ingredients: |-
   - 1 eetlepel tomatenpuree gemengd met water
   - Ter decoratie: een milde rode peper en koriander (fijn gesneden)
 preparation: >-
-  1. Kook de aardappelen voor 15 minuten, prik erin om te kijken of ze gaar
-  zijn. Zet in de tussentijd alle ingrediënten klaar per stap. Maak een bakje
-  met daarin het mosterzaad en de curryblaadjes en maak een bakje voor de rest
-  van de kruiden.
+  1. Kook de aardappelen in 10 a 15 minuten gaar, prik erin om te kijken of ze
+  gaar zijn. Zet in de tussentijd alle ingrediënten klaar per stap. Maak een
+  bakje met daarin het mosterzaad en de curryblaadjes en maak een bakje voor de
+  rest van de kruiden.
 
   2. Verhit een middelgrote pan op middelhoog vuur en voeg de kokosolie en boter/ghee toe.
 
