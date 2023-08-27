@@ -9,9 +9,9 @@ tags:
   - ui
   - rode linzen
 categories:
-  - Indiaas
+  - indiaas
   - vegetarisch
-  - ingredient
+  - ingrediënt
 cover:
   image: apc_0037-edit.jpg
 summary: >+
