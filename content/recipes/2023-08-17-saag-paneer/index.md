@@ -19,9 +19,11 @@ summary: Ik heb mijn collega's dit recept ooit beloofd, toen ik ze spontaan
 time: 35 minuten
 portions: 2 personen
 ingredients: |-
-  - 200 gram paneer
+  - 200 gram paneer, in blokjes gesneden
   - 1/2 ui, fijngehakt
   - 1 tomaat, in blokjes gesneden
+  - Snufje zout 
+  - 3 tenen knoflook, fijn gesneden
   - 225 gram bevroren spinazie, ontdooid en gepureerd
   - 2 pucks [indiaase basis saus]('linkhier') 
   - 1/2 theelepel chilipoeder
@@ -30,7 +32,7 @@ ingredients: |-
   - 1/2 theelepel milde Madras kerriepoeder
   - 2 eetlepels slagroom
   - Een snufje suiker
-  - Zout naar smaak
+
   - Olie of ghee om te bakken
 preparation: >-
   1. Verhit wat olie in een pan en bak de paneer aan alle kanten goudbruin. Haal
