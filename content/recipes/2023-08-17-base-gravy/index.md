@@ -66,7 +66,7 @@ preparation: >-
 
   2. Bereid ondertussen de Akhni Stock: Combineer alle ingrediënten van de stock in een aparte pan en kook dit voor 15 minuten.
 
-  3. Voeg de bereide Akhni Stock toe aan de basis saus.
+  3. Voeg de bereide Akhni Stock toe door het via een zeef aan de basis saus te gieten.
 
   4. Gebruik een staafmixer om de saus te pureren tot een gladde massa.
 
