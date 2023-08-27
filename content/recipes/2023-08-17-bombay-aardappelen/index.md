@@ -28,7 +28,7 @@ ingredients: |-
   Masala: 
   - 3 vastkokende aardappelen (450 gram), gesneden in stukken. 
   - 1 eetlepel boter of ghee
-  - 1 eetlepel kokosolie (kan worden vervangen door plantaardige olie)
+  - 1 eetlepel zonnebloemolie
   - 2 grote teentjes knoflook, fijn gesneden
   - 1 theelepel gele mosterdzaad
   - 1/2 theelepel zwarte mosterdzaad
