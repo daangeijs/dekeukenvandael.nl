@@ -20,7 +20,7 @@ summary: Dit is een fantastisch bijgerecht dat perfect samengaat met rijst en
   dit recept links laten liggen,  omdat ik constant stond terug te spoelen
   tijdens het koken, daarom nu eindelijk een leesbare versie van dit heerlijke
   gerecht.
-time: 20 minuten
+time: 25 minuten
 portions: 2 personen
 ingredients: |-
   Masala: 
@@ -41,8 +41,10 @@ ingredients: |-
   - 1 eetlepel tomatenpuree gemengd met water
   - Ter decoratie: een milde rode peper en koriander (fijn gesneden)
 preparation: >-
-  1. Kook de aardappelen voor 10 minuten, prik erin om te kijken of ze gaar
-  zijn. 
+  1. Kook de aardappelen voor 15 minuten, prik erin om te kijken of ze gaar
+  zijn. Zet in de tussentijd alle ingrediënten klaar per stap. Maak een bakje
+  met daarin het mosterzaad en de curryblaadjes en maak een bakje voor de rest
+  van de kruiden.
 
   2. Verhit een middelgrote pan op middelhoog vuur en voeg de kokosolie en boter/ghee toe.
 
