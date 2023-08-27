@@ -20,7 +20,7 @@ summary: >+
   gemakkelijk om de basis saus te gebruiken, aangezien je vaak slecht 1 of 2
   pucks nodig hebt.
 
-time: "Voorbereiden: 30 min, Koken: 2 uur"
+time: "Voorbereiden: 45 min, Koken: 2 uur"
 portions: ""
 ingredients: |+
   ** Basis saus **
@@ -61,7 +61,8 @@ ingredients: |+
   - 1 kaneelstok
 
 preparation: >-
-  1. Voeg de ingrediënten van de basis saus toe en laat het 1 uur koken.
+  1. Voeg de ingrediënten van de basis saus toe aan een grote pan en zet het
+  geheel net onder water en laat het 1 uur koken.
 
   2. Bereid ondertussen de Akhni Stock: Combineer alle ingrediënten van de stock in een aparte pan en kook dit voor 15 minuten.
 
