@@ -13,6 +13,8 @@ categories:
   - indiaas
   - vegetarisch
   - bijgerecht
+cover:
+  image: apc_0031.jpg
 summary: Dit is een fantastisch bijgerecht dat perfect samengaat met rijst en
   een smaakvolle curry. Het recept werd mij ooit aangeraden door een professor
   aan mijn universiteit. Sindsdien heb ik het recept zorgvuldig bewaard en het
