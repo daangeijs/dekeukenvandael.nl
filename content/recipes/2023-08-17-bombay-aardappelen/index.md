@@ -46,7 +46,8 @@ preparation: >-
   1. Kook de aardappelen in 10 a 15 minuten gaar, prik erin om te kijken of ze
   gaar zijn. Zet in de tussentijd alle ingrediënten klaar per stap. Maak een
   bakje met daarin het mosterzaad en de curryblaadjes en maak een bakje voor de
-  rest van de kruiden.
+  rest van de kruiden. Verdun ook de tomatenpuree met wat water en zet deze
+  appart.
 
   2. Verhit een middelgrote pan op middelhoog vuur en voeg de kokosolie en boter/ghee toe.
 
@@ -56,7 +57,7 @@ preparation: >-
 
   5. Voeg nu het komijnzaad, kurkumapoeder, chilipoeder, venkelzaad, madras kerriepoeder, zout en suiker toe. 
 
-  5. Meng de tomatenpuree met water en voeg dit toe aan de pan. Je hebt nu een mooi intense masala basis.
+  5. Voeg de verdunde tomatenpuree toe aan de pan. Je hebt nu een mooi intense masala basis.
 
   6. Voeg de voorgekookte aardappelen toe aan de pan en meng ze goed met de masala basis. Verlaag het vuur naar een lagere stand en roer de aardappelen goed door.
 
