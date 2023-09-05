@@ -18,11 +18,6 @@ permalinks:
 
 pluralizelisttitles: "false"
 
-sitemap:
-  changeFreq: "yearly"
-  filename: sitemap.xml
-  priority: -1
-
 params:
   title: Keuken van Dael
   description: "Een kijkje in de keuken van Daan en Elleke"
