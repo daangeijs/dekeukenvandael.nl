@@ -11,11 +11,12 @@ categories:
   - hoofdgerecht
 cover:
   image: apc_0030-edit.jpg
-summary: "Toen ik laatst wat overgebleven rode bieten in mijn koelkast ontdekte,
+summary: Toen ik laatst wat overgebleven rode bieten in mijn koelkast ontdekte,
   voelde ik de uitdaging om er een curry van te maken. Het resultaat? Een erg
   lekkere maar vooral mooie roodkleurige veganistische maaltijd die in een
   handomdraai klaar was. In dit recept serveren we de curry met rijst, maar voel
-  je vrij om het naar wens te combineren met naan of Bombay-aardappelen. "
+  je vrij om het naar wens te combineren met naan of [Bombay aardappelen]({{<
+  ref "2023-08-17-bombay-aardappelen" >}}).
 time: 30 minuten
 portions: 3 personen
 ingredients: >-
