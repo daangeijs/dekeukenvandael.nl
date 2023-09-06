@@ -24,23 +24,22 @@ summary: Dit is een fantastisch bijgerecht dat perfect samengaat met rijst en
 time: 25 minuten
 portions: 2 personen
 ingredients: |-
-  Masala: 
-  - 3 vastkokende aardappelen (450 gram), gesneden in stukken. 
-  - 1 eetlepel boter of ghee
-  - 1 eetlepel zonnebloemolie
-  - 2 grote teentjes knoflook, fijn gesneden
-  - 1 theelepel gele mosterdzaad
-  - 1/2 theelepel zwarte mosterdzaad
-  - klein handje curryblaadjes
-  - 1 1/2 theelepel komijnzaad
-  - 1 theelepel kurkumapoeder
-  - 1 theelepel chilipoeder
-  - 1/2 theelepel venkelzaad
-  - 1 theelepel milde Madras kerriepoeder
-  - 1 theelepel zout
-  - 1/2 theelepel suiker
-  - 1 eetlepel tomatenpuree gemengd met water
-  - Ter decoratie: een milde rode peper en koriander (fijn gesneden)
+  * 3 vastkokende aardappelen (450 gram), gesneden in stukken. 
+  * 1 eetlepel boter of ghee
+  * 1 eetlepel zonnebloemolie
+  * 2 grote teentjes knoflook, fijn gesneden
+  * 1 theelepel gele mosterdzaad
+  * 1/2 theelepel zwarte mosterdzaad
+  * klein handje curryblaadjes
+  * 1 1/2 theelepel komijnzaad
+  * 1 theelepel kurkumapoeder
+  * 1 theelepel chilipoeder
+  * 1/2 theelepel venkelzaad
+  * 1 theelepel milde Madras kerriepoeder
+  * 1 theelepel zout
+  * 1/2 theelepel suiker
+  * 1 eetlepel tomatenpuree gemengd met water
+  * Ter decoratie: een milde rode peper en koriander (fijn gesneden)
 preparation: >-
   1. Kook de aardappelen in 10 a 15 minuten gaar, prik erin om te kijken of ze
   gaar zijn. Zet in de tussentijd alle ingrediënten klaar per stap. Maak een
