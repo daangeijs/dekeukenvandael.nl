@@ -19,7 +19,7 @@ summary: Deze curry is super voor als je bijvoorbeeld nog moet sporten. Door de
   het gevoel hebt dat je een volwaardige maaltijd hebt gegeten. Ook is het
   lekker als lunch in de middag als je wat overhoud. Wil je nog wat extraas dan
   kan je er voor kiezen om er naan brood bij te eten, extra rijst of deze
-  heerlijke [Bombay Potatoes]({< ref 2023-08-17-bombay-aardappelen>})
+  heerlijke [Bombay aardappelen]({{< ref "2023-08-17-bombay-aardappelen" >}}).
 time: 45 minuten
 portions: 2 personen
 ingredients: |-
