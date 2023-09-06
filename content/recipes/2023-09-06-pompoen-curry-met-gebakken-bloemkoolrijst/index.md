@@ -25,37 +25,37 @@ portions: 2 personen
 ingredients: |-
   **Pompoen curry**
 
-  1 klein handje gedroogde curry bladeren
-  1 Kaneelstokje van 5cm
-  1 steranijs
-  350 gram pompoen, in dobbelstenen van ca 3cm doorsnede
-  200 gram kikkererwten
-  1 ui, fijngehakt
-  2 grote tomaten, fijngehakt
-  1 groene chili, fijngehakt
-  1/2 eetlepel gember, geraspt
-  1/2 eetlepel knoflook, geraspt
-  3 eetlepels zonnebloemolie
-  1/2 theelepel zout
-  250ml heet water
-  180 ml kokosmelk
-  Handvol koriander
-
-  2 theelepels Kashmiri chilipoeder
-  1.5 theelepel garam masala
-  1/2 theelepel komijnpoeder
-  1.5 theelepel korianderpoeder
-  1/4 theelepel kurkuma
-  1/2 theelepel venkelpoeder
-  1 eetlepel kasuri methi (gedroogde fenegriekbladeren, kun je eruit laten)
-  1 theelepel amchur poeder (of vervangen door tamarindpasta)
-  1 theelepel bruine suiker
+  * 1 klein handje gedroogde curry bladeren
+  * 1 Kaneelstokje van 5cm
+  * 1 steranijs
+  * 350 gram pompoen, in dobbelstenen van ca 3cm doorsnede
+  * 200 gram kikkererwten
+  * 1 ui, fijngehakt
+  * 2 grote tomaten, fijngehakt
+  * 1 groene chili, fijngehakt
+  * 1/2 eetlepel gember, geraspt
+  * 1/2 eetlepel knoflook, geraspt
+  * 3 eetlepels zonnebloemolie
+  * 1/2 theelepel zout
+  * 250ml heet water
+  * 180 ml kokosmelk
+  * Handvol koriander
+  * 2 theelepels Kashmiri chilipoeder
+  * 1.5 theelepel garam masala
+  * 1/2 theelepel komijnpoeder
+  * 1.5 theelepel korianderpoeder
+  * 1/4 theelepel kurkuma
+  * 1/2 theelepel venkelpoeder
+  * 1 eetlepel kasuri methi (gedroogde fenegriekbladeren, kun je eruit laten)
+  * 1 theelepel amchur poeder (of vervangen door tamarindpasta)
+  * 1 theelepel bruine suiker
 
   **Bloemkoolrijst**
-  1 halve bloemkool
-  1/2 theelepel komijn
-  1/2 theelepel gemalen komijn
-  2 eetlepels zonnebloemolie 
+
+  * 1 halve bloemkool
+  * 1/2 theelepel komijn
+  * 1/2 theelepel gemalen komijn
+  * 2 eetlepels zonnebloemolie
 preparation: >-
   1. Verwarm de olie en voeg de curry bladeren, kaneelstok en steranijs toe.
   Wanneer dit begint te pruttelen, voeg de ui en groene chilipeper toe. Roer om
