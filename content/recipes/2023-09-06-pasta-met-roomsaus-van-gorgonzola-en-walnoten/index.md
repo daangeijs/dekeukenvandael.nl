@@ -16,19 +16,19 @@ cover:
 summary: "Een lekkere pasta "
 time: "40"
 portions: 2 personen
-ingredients: |+
+ingredients: |-
   Roomsaus
-  - slagroom
-  - 2 theelepel kappertjes
-  - handvol geroosterde walnoten
-  - handje bloemkool en brocco stukjes rauw
-  - gorgonzola
-  - snufje zout
-  - 1 sjalot
-  - 1 knoflook teen
-  - balsamico 2 eetlepels
-  - witte wijn
 
+  * 150ml slagroom
+  * 2 theelepel kappertjes
+  * handvol geroosterde walnoten
+  * handje bloemkool en brocco stukjes rauw
+  * 100 gram gorgonzola
+  * snufje zout
+  * 1 sjalot
+  * 1 knoflook teen
+  * balsamico 2 eetlepels
+  * witte wijn
 preparation: >-
   Roomsaus:
 
@@ -45,6 +45,11 @@ preparation: >-
 
   6. Voeg nu nog 20ml witte wijn toe en breng op smaak met zwarte peper en zout. 
 
-  7. Voeg als laatste de gekookte pasta toe en de geroosterde brocoli. Meng nog even goed en serveer het dan direct.
+  7. Voeg als laatste de gekookte pasta toe en de geroosterde/gekookte brocoli. Meng nog even goed en serveer het dan direct.
 ignore: false
 ---
+* wellicht de broco roosteren in de oven eerst. Misschien Besprenkelen met walnoten olie daarna, lol lekker jum.
+* Wellicht anders de broco in bouillon koken. 
+* Witte wijn hoeveelheden zijn echt grove schatting. In eerst stap gewoon echt dikke plens om af te blussen, op het einde paar keer een scheut erbij om op smaak te brengen.
+* Gorgonzola en slagroom heb ik afgewogen.
+* Van de gorgonzola roomsaus kan een lekkere dip gemaakt worden. Wellicht dan sardientjes erbij, iets meer zout of parmegiano. Hij was nu een beetje slagromig, oftewel beetje flauw. Textuur was fantastisch dus super leuke dip met geroosterd brood.
