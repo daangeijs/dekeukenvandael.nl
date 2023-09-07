@@ -9,20 +9,16 @@ tags:
   - bloemkool
 categories:
   - indiaas
-  - vegetarisch
+  - veganistisch
   - hoofdgerecht
 cover:
   image: apc_0050-edit.jpg
-summary: >-
-  Deze curry is super voor als je bijvoorbeeld nog moet sporten. Door de
+summary: Deze curry is super voor als je bijvoorbeeld nog moet sporten. Door de
   bloemkoolrijst en weinige vetten heb je niet zo'n zware maag, terwijl je wel
   het gevoel hebt dat je een volwaardige maaltijd hebt gegeten. Ook is het
   lekker als lunch in de middag als je wat overhoudt. Wil je nog wat extraas dan
   kan je er voor kiezen om er naan bij te eten, extra rijst of deze heerlijke
   [Bombay aardappelen]({{< ref "2023-08-17-bombay-aardappelen" >}}).
-
-
-  Als je het gerecht veganistisch wilt maken, kun je de ghee voor de bloemkoolrijst weglaten.
 time: 45 minuten
 portions: 2 personen
 ingredients: |-
@@ -59,7 +55,6 @@ ingredients: |-
   * 1/2 theelepel komijnzaad
   * 1/2 theelepel gemalen komijn
   * 2 eetlepels zonnebloemolie
-  * 1/2 eetlepel ghee
 preparation: >-
   1. Verwarm de olie op middel tot hoog vuur en voeg de curry bladeren,
   kaneelstok en steranijs toe. Wanneer dit begint te pruttelen, voeg de ui en
@@ -77,7 +72,7 @@ preparation: >-
 
   7. Kook de curry totdat deze een dikke consistentie heeft. Haal de deksel van de pan en kook nog even door indien de curry nog te dun is.
 
-  8. Verwarm een pan met daarin een halve eetlepel ghee en eetlepel zonnebloemolie. Bak op hoog vuur de vermalen bloemkool voor 1 minuut. 
+  8. Verwarm een pan met daarin een twee eetlepels zonnebloemolie. Bak op hoog vuur de vermalen bloemkool voor 1 minuut. 
 
   9. Voeg het komijnzaad, halve theelepel gemalen komijn en een snuf zout toe en roer dit goed door de bloemkool en zet het vuur uit.
 
