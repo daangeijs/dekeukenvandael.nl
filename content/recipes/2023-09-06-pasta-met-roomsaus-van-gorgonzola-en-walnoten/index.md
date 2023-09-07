@@ -17,39 +17,40 @@ summary: "Een lekkere pasta "
 time: "40"
 portions: 2 personen
 ingredients: |-
-  Roomsaus
-
-  * 150ml slagroom
-  * 2 theelepel kappertjes
-  * handvol geroosterde walnoten
-  * handje bloemkool en brocco stukjes rauw
+  * 150 gram slagroom
+  * 3 theelepels kappertjes
+  * 90 gram geroosterde walnoten
   * 100 gram gorgonzola
-  * snufje zout
+  * 3 eetlepels olijfolie
   * 1 sjalot
-  * 1 knoflook teen
-  * balsamico 2 eetlepels
-  * witte wijn
+  * 1 teen knoflook
+  * 24 gram balsamico
+  * 1 mespunt gerookt paprika poeder
+  * 50 gram witte wijn
 preparation: >-
   Roomsaus:
 
 
-  1. Rooster de walnoten in een warme pan zonder olie tot ze beginnen te geuren. 
+  1. Begin door alvast 1 liter water te koken
 
-  2. Voeg in een keukenmachine toe de gorgonzola, slagroom, kappertjes, stukjes bloemkool/brocco, zout, en geroosterde walnoten en blend tot een mooie luchtige pasta.
+  2. Rooster de walnoten in een warme pan zonder olie tot ze beginnen te geuren. 
 
-  3. Fruit de ui in de olie 2 minuten en voeg dan de fijn gesneden knoflook toe voor nogmaals 2 minuten
+  3. Kook de brocolli roosjes samen met de theelepel bouillon voor 7 minuten. Giet daarna af maar bewaar het kookvocht. Ga in de tussentijd door met de volgende stappen.
 
-  4. Voeg twee eetlepels balsamico toe en laat het inkoken tot het vast begint te koeken. Blus dit dan af met 50ml witte wijn en laat dit ook vrij geheel verdampen.
+  4. Kook 1.5 liter water voor de pasta.
 
-  5. Voeg nu de roomsaus toe en laat deze mooi vloeibaar worden, door hem goed te blijven doorroeren. Doet dit op laag vuur. 
+  5. Voeg in een keukenmachine toe de gorgonzola, slagroom, kappertjes, zout, en geroosterde walnoten en blend tot een mooie luchtige pasta.
 
-  6. Voeg nu nog 20ml witte wijn toe en breng op smaak met zwarte peper en zout. 
+  6. Fruit de ui in de olie 2 minuten en voeg dan de fijn gesneden knoflook toe voor nogmaals 2 minuten
 
-  7. Voeg als laatste de gekookte pasta toe en de geroosterde/gekookte brocoli. Meng nog even goed en serveer het dan direct.
+  7. Voeg twee eetlepels balsamico toe en laat het inkoken tot het vast begint te koeken. Blus dit dan af met 50ml witte wijn en laat dit ook vrij geheel verdampen.
+
+  8. Kook de pasta gaar volgens de gebruiksaanwijzing. 
+
+  9. Voeg nu de roomsaus toe aan het mengsel van ui, wijn en balsamico en laat deze mooi vloeibaar worden, door hem goed te blijven doorroeren. Doet dit op laag vuur. Als de saus te dik wordt gebruikt dan het bewaarde kookvocht om de saus te verdunnen.
+
+  10. Voeg nu nog 20ml witte wijn toe en breng op smaak met flink wat zwarte peper. 
+
+  11. Voeg als laatste de gekookte pasta toe en de geroosterde/gekookte brocoli. Meng nog even goed en serveer het dan direct.
 ignore: false
 ---
-* wellicht de broco roosteren in de oven eerst. Misschien Besprenkelen met walnoten olie daarna, lol lekker jum.
-* Wellicht anders de broco in bouillon koken. 
-* Witte wijn hoeveelheden zijn echt grove schatting. In eerst stap gewoon echt dikke plens om af te blussen, op het einde paar keer een scheut erbij om op smaak te brengen.
-* Gorgonzola en slagroom heb ik afgewogen.
-* Van de gorgonzola roomsaus kan een lekkere dip gemaakt worden. Wellicht dan sardientjes erbij, iets meer zout of parmegiano. Hij was nu een beetje slagromig, oftewel beetje flauw. Textuur was fantastisch dus super leuke dip met geroosterd brood.
