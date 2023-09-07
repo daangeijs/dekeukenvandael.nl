@@ -7,6 +7,7 @@ author:
 tags:
   - gorgonzola
   - walnoten
+  - broccoli
 categories:
   - vegetarisch
   - hoofdgerecht
