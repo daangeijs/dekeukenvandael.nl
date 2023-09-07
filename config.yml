@@ -71,7 +71,7 @@ params:
     iconHeight: 150px
     iconWidth: 400px
 
-paginate: 16
+paginate: 16*8
 
 menu:
   main:
