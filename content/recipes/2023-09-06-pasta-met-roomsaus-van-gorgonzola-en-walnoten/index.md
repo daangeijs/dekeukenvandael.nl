@@ -8,13 +8,18 @@ tags:
   - gorgonzola
   - walnoten
 categories:
-  - vegatarisch
+  - vegetarisch
   - hoofdgerecht
   - pasta
 cover:
   image: apc_0048-edit.jpg
-summary: "Een lekkere pasta "
-time: "40"
+summary: "Een lekkere pasta waar de gorgonzola samensmelt met geroosterde
+  walnoten en kappertjes tot een romig saus. Het roosteren van de walnoten haalt
+  hun smaak op, en de wijn, balsamico en gerookte paprika poeder zorgen voor een
+  hartige en diepe smaak. Om al deze zware smaken een beetje tegen gas te geven
+  voegen we lekker veel broccoli toe. Deze pasta is ideaal voor een doordeweekse
+  avond, maar hopelijk toch net iets anders dan normaal. "
+time: 25 minuten
 portions: 2 personen
 ingredients: |-
   * 150 gram slagroom
