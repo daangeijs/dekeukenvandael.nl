@@ -9,16 +9,20 @@ tags:
   - bloemkool
 categories:
   - indiaas
-  - veganistisch
+  - vegetarisch
   - hoofdgerecht
 cover:
   image: apc_0050-edit.jpg
-summary: Deze curry is super voor als je bijvoorbeeld nog moet sporten. Door de
+summary: >-
+  Deze curry is super voor als je bijvoorbeeld nog moet sporten. Door de
   bloemkoolrijst en weinige vetten heb je niet zo'n zware maag, terwijl je wel
   het gevoel hebt dat je een volwaardige maaltijd hebt gegeten. Ook is het
   lekker als lunch in de middag als je wat overhoudt. Wil je nog wat extraas dan
   kan je er voor kiezen om er naan bij te eten, extra rijst of deze heerlijke
   [Bombay aardappelen]({{< ref "2023-08-17-bombay-aardappelen" >}}).
+
+
+  Als je het gerecht veganistisch wilt maken, kun je de ghee voor de bloemkoolrijst weglaten.
 time: 45 minuten
 portions: 2 personen
 ingredients: |-
