@@ -22,7 +22,7 @@ ingredients: |-
   * 90 gram geroosterde walnoten
   * 100 gram gorgonzola
   * 3 eetlepels olijfolie
-  * 1 sjalot
+  * 1 sjalot (50 gram)
   * 1 teen knoflook
   * 24 gram balsamico
   * 1 mespunt gerookt paprika poeder
