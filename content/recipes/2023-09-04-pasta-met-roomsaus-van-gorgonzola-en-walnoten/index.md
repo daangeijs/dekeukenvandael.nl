@@ -43,7 +43,7 @@ preparation: >-
     7. Voeg de balsamico toe en laat het inkoken tot het aankoekt op de bodem van de pan. Blus daarna af met 50ml witte wijn en laat dit bijna helemaal verdampen.
     8. Kook ondertussen de pasta gaar volgens de gebruiksaanwijzing op de verpakking.
     9. Meng nu de roomsaus met het ui-knoflook-wijnmengsel in de pan en warm dit op laag vuur op. Roer goed door. Als de saus te dik wordt, voeg dan wat van het bewaarde kookvocht van de broccoli toe om te verdunnen.
-    10. Voeg nog 20ml witte wijn toe aan de saus en breng op smaak met flink wat zwarte peper.
+    10. Voeg nog 20ml witte wijn en een mespuntje gerookt paprikapoeder toe aan de saus en breng op smaak met flink wat zwarte peper.
     11. Meng als laatste de gekookte pasta en de broccoli door de saus. Roer goed door en serveer direct. 
 ignore: false
 ---
