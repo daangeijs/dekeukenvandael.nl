@@ -28,9 +28,6 @@ ingredients: |-
   * 1 mespunt gerookt paprika poeder
   * 50 gram witte wijn
 preparation: >-
-  Roomsaus:
-
-
   1. Begin door alvast 1 liter water te koken
 
   2. Rooster de walnoten in een warme pan zonder olie tot ze beginnen te geuren. 
