@@ -1,5 +1,5 @@
 ---
-title: Balsamico roomsaus voor rood vlees
+title: Balsamico roomsaus
 date: 2023-01-26T11:08:00+01:00
 author:
   - Daan Geijs
@@ -17,9 +17,9 @@ summary: Deze saus is een van mijn persoonlijke favorieten aller tijden en een
   bord zou geven met alleen deze saus, zal ik een gelukkig man zijn. Serieus, ik
   kan liters van dit spul drinken. Deze saus is de perfecte balans tussen zoet
   en hartig, waarbij de balsamicoazijn en suiker voor een vleugje zoetheid
-  zorgen en de wilde bouillon voor een rijke, diepe smaak. De zware room voegt
-  een romigheid toe en geeft de saus de donkerbruine chocoladekleur en dat
-  brengt alles samen.
+  zorgen en de wilde bouillon voor een rijke, diepe smaak. De room voegt een
+  romigheid toe en geeft de saus de donkerbruine chocoladekleur en dat brengt
+  alles samen.
 ingredients: |-
   - 100 ml rode balsamicoazijn
   - 2 eetlepels kristalsuiker
