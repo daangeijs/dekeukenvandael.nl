@@ -19,7 +19,7 @@ summary: Deze saus is een van mijn persoonlijke favorieten aller tijden en een
   en hartig, waarbij de balsamicoazijn en suiker voor een vleugje zoetheid
   zorgen en de wilde bouillon voor een rijke, diepe smaak. De room voegt een
   romigheid toe en geeft de saus de donkerbruine chocoladekleur en dat brengt
-  alles samen.
+  alles samen. Deze saus is perfect om te serveren bij rood vlees.
 ingredients: |-
   - 100 ml rode balsamicoazijn
   - 2 eetlepels kristalsuiker
