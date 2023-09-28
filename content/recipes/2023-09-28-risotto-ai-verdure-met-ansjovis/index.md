@@ -10,7 +10,6 @@ tags:
   - prei
 categories:
   - pasta
-  - ""
 summary: '"Verdure" betekent in het Italiaans "groenten", en dat staat centraal
   in dit gerecht. Deze Risotto ai Verdure is gemaakt met eenvoudige, alledaagse
   groenten die je wellicht al in huis hebt. De combinatie van rokerige
