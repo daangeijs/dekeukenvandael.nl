@@ -16,9 +16,9 @@ ingredients: |-
   * 2/3 tl gerookt paprikapoeder
   * Zwarte peper
   * 40 gram hazelnoten
-  * 3 el misopasta
-  * 2 el witte wijn azijn (of rijstazijn)
-  * 2 el pindakaas
+  * 1.5 el misopasta
+  * 1 el witte wijn azijn (of rijstazijn)
+  * 1 el pindakaas
   * 5 el water
   * 1/3 tl kashmiri chili poeder
   * 1/2 el suiker
