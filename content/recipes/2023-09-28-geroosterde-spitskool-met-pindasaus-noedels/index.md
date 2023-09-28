@@ -30,6 +30,7 @@ ingredients: |-
   * 1/2 rode peper
   * 15 gram geraspte gember (zonder schil)
   * 150 gram noedels
+  * 2﻿ eieren
   * Handje koriander
 preparation: >-
   1. Verwarm de oven voor op 200 °C. Snijd de spitskool in kwarten. Leg deze op
@@ -38,7 +39,7 @@ preparation: >-
   gaar zijn en goudbruin en knapperig aan de randjes. Leg de laatste 10 minuten
   de hazelnoten op de bakplaat erbij.
 
-  2. Kook de noedles volgens de verpakking. 
+  2. Kook de noedles volgens de verpakking. Kook de eieren.
 
   3. Meng de misopasta, azijn, het overige gerookte paprikapoeder, kashmiri chili poeder, suiker en pindakaas met het water en roer tot een gladde saus. Voeg het limoenrasp toe en breng op smaak met het limoensap, begin met 1/2 el.
 
