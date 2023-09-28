@@ -5,9 +5,13 @@ author:
   - Elleke Munk
   - Daan Geijs
 tags:
-  - spitskool; noedels; koriander
+  - spitskool
+  - noedels
+  - koriander
 categories:
   - vegetarisch
+cover:
+  image: apc_0056-edit.jpg
 summary: Noedles en pinda's zijn een gouden combinatie. Met deze spitskool uit
   de oven al helemaal erg lekker.
 portions: 2 personen
