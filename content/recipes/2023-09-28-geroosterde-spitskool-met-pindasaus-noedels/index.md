@@ -39,7 +39,7 @@ preparation: >-
   gaar zijn en goudbruin en knapperig aan de randjes. Leg de laatste 10 minuten
   de hazelnoten op de bakplaat erbij.
 
-  2. Kook de noedles volgens de verpakking. Kook de eieren.
+  2. Kook de noedles volgens de verpakking. Kook de eieren 6 (zacht) of 7 minuten (hard)
 
   3. Meng de misopasta, azijn, het overige gerookte paprikapoeder, kashmiri chili poeder, suiker en pindakaas met het water en roer tot een gladde saus. Voeg het limoenrasp toe en breng op smaak met het limoensap, begin met 1/2 el.
 
