@@ -59,9 +59,7 @@ ingredients: >-
   * Handje koriander
 
 
-
-
-  \*﻿ ben je veganistisch, vervang dit dan met je eigen favoriete topping. Wat dacht je van bijvoorbeeld \[krokante tofu](https://dekeukenvandael.nl/recipes/2023-08-14-crispy-tofu/)
+  \*﻿ ben je veganistisch, vervang dit dan met je eigen favoriete topping. Wat dacht je van bijvoorbeeld \[krokante tofu]({{< ref 2023-08-14-crispy-tofu >}})
 preparation: >-
   1. Verwarm de oven voor op 200 °C. Snijd de spitskool in kwarten. Leg deze op
   een bakplaat met de kern naar boven. Meng in een bakje de sesamolie en 1/3 tl
