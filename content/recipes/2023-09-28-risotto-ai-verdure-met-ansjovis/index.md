@@ -28,11 +28,11 @@ ingredients: |-
   * Twee tenen knoflook, fijngesneden
   * 1 theelepel tomatenpuree
   * 2 ansjovis, fijngesneden
-  * 150 gram risotto
+  * 150 g risotto
   * 100ml witte wijn
   * 500 ml bouillon
   * Hand bevroren doperwten
-  * Knuistje gerookte Parmezaanse kaas
+  * 30 g gerookte Parmezaanse kaas
 preparation: >-
   1. Verhit 2 eetlepels olijfolie in een pan en bak op halfhoog vuur de halve
   ui, halve prei, 1 lente ui en 2/3 wortel.
