@@ -8,6 +8,8 @@ tags:
   - ""
 categories:
   - indiaas
+cover:
+  image: apc_0075-edit.jpg
 summary: "Deze curry met rundvlees leent zich perfect om lekker lang te laten
   pruttelen op een laag vuurtje. Door het langzaam te koken, krijgen de
   specerijen de tijd om hun complexe smaken vrij te geven en samen te smelten,
