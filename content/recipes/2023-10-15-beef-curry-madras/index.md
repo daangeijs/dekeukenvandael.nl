@@ -9,7 +9,7 @@ tags:
 categories:
   - indiaas
 summary: Hier komt de introdcutie.
-time: "Voorbereiding: 30 minuten, Stoven: 3 uur"
+time: "Voorbereiding: 35 minuten, Stoven: 3 uur"
 portions: 4 personen
 ingredients: |-
   - Olie om te bakken
@@ -25,7 +25,7 @@ ingredients: |-
   - 1 blik tomaten, gepureerd.
   - 2 theelepels tomatenpuree
   - 1 blik kokosmelk (440 gram)
-  - 1 kilogram magere runderblokjes (2 centimeter vierkant)
+  - 800 gram runderlap (2 centimeter blokjes)
   - 1 theelepel zout
   - 1 theelepel suiker
   - 2 eetlepels Griekse yoghurt (10% vet)
