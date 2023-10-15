@@ -8,26 +8,31 @@ tags:
   - kruidnagel
 categories:
   - koek
-summary: lekker voor met sinterklaas of kerst
+summary: Wat krijg je als onze chocoladekruidnoot en ontbijtkoek een kind zouden
+  krijgen? Nou, dan krijg je Magenbrot. Mijn Zwitserse collega bracht mij
+  hiervan op de hoogte en begreep niet waarom wij Nederlanders deze lekkernij
+  nog niet omarmd hadden. Nu ik het zelf gemaakt heb, weet ik het ook niet, want
+  dit spul is goddelijk!
 time: 30 minuten
 portions: "100 stuks "
-ingredients: |
-  - 500 g Ruchmehl (ruw meel)
-  - Geen ruchmehl -> 380 gram tarwebloem, 120 gram tarwemeel.
-  - 1 eetlepel bakpoeder
-  - 2 theelepels kaneel
-  - 2 eetlepels cacao-/chocoladepoeder
-  - 1.5 theelepel kruidnagelpoeder
-  - 2.5 gr zout (1/2 theelepel)
-  - 350 gr suiker
-  - 300 gr water
+ingredients: |-
+  * 380 g tarwebloem
+  * 120 g tarwemeel.
+  * 1 eetlepel bakpoeder
+  * 2 theelepels kaneel
+  * 2 eetlepels cacaopoeder
+  * 1.5 theelepel kruidnagelpoeder
+  * 2.5 g zout (1/2 theelepel)
+  * 350 g suiker
+  * 300 g water
 
-  Glazuur:
-  - 100 g chocolade (50g 70.5%, 50g 33.6%)
-  - 20 g boter
-  - 70 g water
-  - 2 eetlepels cacao-/chocoladepoeder
-  - 160 g poedersuiker
+  **Glazuur**
+
+  * 100 g chocolade (50g 70.5%, 50g 33.6%)
+  * 20 g boter
+  * 70 g water
+  * 2 eetlepels cacaopoeder
+  * 160 g poedersuiker
 preparation: >-
   1. Verwarm de oven voor op 180 graden.
 
