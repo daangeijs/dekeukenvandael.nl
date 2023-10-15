@@ -1,5 +1,5 @@
 ---
-title: Beef curry madras
+title: Curry madras met rundvlees
 date: 2023-10-15T09:53:24.287Z
 author:
   - Daan Geijs
@@ -8,7 +8,12 @@ tags:
   - ""
 categories:
   - indiaas
-summary: Hier komt de introdcutie.
+summary: "Deze curry met rundvlees leent zich perfect om lekker lang te laten
+  pruttelen op een laag vuurtje. Door het langzaam te koken, krijgen de
+  specerijen de tijd om hun complexe smaken vrij te geven en samen te smelten,
+  wat resulteert in een curry waar je van wilt blijven opscheppen. De geur van
+  deze curry is fantastisch wat ervoor zorgt dat je de hele dag er al plezier
+  van hebt als de curry op het vuur staat. "
 time: "Voorbereiding: 35 minuten, Stoven: 3 uur"
 portions: 4 personen
 ingredients: |-
@@ -52,7 +57,7 @@ preparation: >-
 
   9. Zodra het mengsel aan de kook is gebracht, voeg je de runderblokjes toe, roer goed om ervoor te zorgen dat het vlees goed is bedekt met de masala-basis. Dek de pan af met een deksel.
 
-  10. Zet het vuur laag en laat de curry ongeveer 2 uur en 30 minuten koken. De saus moet iets inkoken en het vlees moet mals worden.
+  10. Zet het vuur laag en laat de curry ongeveer 2 uur en 40 minuten koken. De saus moet iets inkoken en het vlees moet mals worden.
 
   11. Na 2 uur en 40 minuten voeg je het zout, de suiker, de natuurlijke Griekse yoghurt en de enkele room toe aan de curry. Roer goed en laat de curry nog 20 minuten onbedekt koken of tot de saus naar wens is ingedikt.
 
