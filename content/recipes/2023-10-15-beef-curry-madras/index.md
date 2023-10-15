@@ -27,12 +27,12 @@ ingredients: |-
   - 1 theelepel kurkuma
   - 1 eetlepel garam masala
   - 1 eetlepel mild Madras currypoeder
+  - 1 theelepel zout
+  - 1 theelepel suiker
   - 1 blik tomaten, gepureerd.
   - 2 theelepels tomatenpuree
   - 1 blik kokosmelk (440 gram)
   - 800 gram runderlap (2 centimeter blokjes)
-  - 1 theelepel zout
-  - 1 theelepel suiker
   - 2 eetlepels Griekse yoghurt (10% vet)
   - 2 eetlepels kookroom of slagroom
   - 1 bosje verse koriander voor garnering
@@ -43,7 +43,7 @@ preparation: >-
   keukenmachine en pureer tot een gladde pasta. Gebruik hiervoor wat water om
   het beter te pureren.
 
-  2. Voeg in een bakje de volgende kruiden toe: gele mosterdzaadjes, chilipoeder, kurkuma, garam masala en Madras currypoeder.
+  2. Voeg in een bakje de volgende kruiden toe: gele mosterdzaadjes, chilipoeder, kurkuma, garam masala, Madras currypoeder, zout en de suiker.
 
   3. Verhit voldoende olie om de bodem van pan te bedekken op middelhoog vuur. Voeg de fijn gesneden uien toe en bak tot ze goudbruin zijn, dit zou ongeveer 5 minuten moeten duren.
 
@@ -59,10 +59,10 @@ preparation: >-
 
   10. Zet het vuur laag en laat de curry ongeveer 2 uur en 40 minuten koken. De saus moet iets inkoken en het vlees moet mals worden.
 
-  11. Na 2 uur en 40 minuten voeg je het zout, de suiker, de natuurlijke Griekse yoghurt en de enkele room toe aan de curry. Roer goed en laat de curry nog 20 minuten onbedekt koken of tot de saus naar wens is ingedikt.
+  11. Na 2 uur en 40 minuten voeg je de Griekse yoghurt en de kookroom toe aan de curry. Roer goed en laat de curry nog 20 minuten onbedekt koken of tot de saus voldoende is ingedikt.
 
   12. Voeg tegen het einde van de kooktijd de helft van de gehakte verse koriander toe.
 
-  13. Zodra de curry perfect is gekookt, transfer naar een serveerschaal. Garneer met de resterende verse koriander, en indien gewenst, extra fijn gesneden gember en rode peper.
+  13. Zodra de curry klaar is, serveer het in een mooie serveerschaal. Garneer met de resterende verse koriander, en indien gewenst, extra fijn gesneden gember en rode peper.
 ignore: false
 ---
