@@ -13,28 +13,31 @@ summary: Een lekkere schotel
 time: 30 minuten
 portions: 3 personen
 ingredients: |-
-  -   4 aardappels, geschild en in stukken gesneden
-  -   400 gram spruiten
-  -   270 gram paddenstoelen
-  -   1 eetlepel olie
-  -   250 ml slagroom
-  -   3 eieren
-  -   2 handen geraspte kaas
-  -   1/2 eetlepel dragon
-  -   1/2 theelepel poedersuiker
-  -   4 eetlepels Griekse yoghurt
-  -   2 eetlepels paneermeel
-  -   1/2 theelepel knoflookpoeder
-  -   1 theelepel gerookte paprikapoeder
-  -   1/2 theelepel zeezout
-  -   1/2 theelepel gemalen komijn
-  -   1/2 theelepel uienpoeder
-  -   1/2 theelepel kaneel
-  -   1/2 theelepel zwarte peper
-  -   1/2 theelepel chilivlokken
-  -   1/2 theelepel gemalen koriander
-  -   1/2 theelepel gedroogde oregano
-  -   1/2 theelepel gedroogde tijm
+  * 4 aardappels, geschild en in stukken gesneden
+  * 400 g spruiten, schoongemaakt.
+  * 270 g paddenstoelen
+  * 1 eetlepel olie
+  * 250 ml slagroom
+  * 3 eieren
+  * 80 g geraspte kaas
+  * 1/2 eetlepel dragon
+  * 1/2 theelepel poedersuiker
+  * 4 eetlepels Griekse yoghurt
+  * 2 eetlepels paneermeel
+  * 1/2 theelepel knoflookpoeder
+
+  **Shoarma kruiden**
+
+  * 1 theelepel gerookte paprikapoeder
+  * 1/2 theelepel zeezout
+  * 1/2 theelepel gemalen komijn
+  * 1/2 theelepel uienpoeder
+  * 1/2 theelepel kaneel
+  * 1/2 theelepel zwarte peper
+  * 1/2 theelepel chilivlokken
+  * 1/2 theelepel gemalen koriander
+  * 1/2 theelepel gedroogde oregano
+  * 1/2 theelepel gedroogde tijm
 preparation: >-
   1.  Verwarm de oven voor op 200°C.
 
