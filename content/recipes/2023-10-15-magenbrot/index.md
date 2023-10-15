@@ -13,20 +13,21 @@ time: 30 minuten
 portions: "100 stuks "
 ingredients: |
   - 500 g Ruchmehl (ruw meel)
+  - Geen ruchmehl -> 380 gram tarwebloem, 120 gram tarwemeel.
   - 1 eetlepel bakpoeder
   - 2 theelepels kaneel
   - 2 eetlepels cacao-/chocoladepoeder
-  - 1 theelepel kruidnagelpoeder
-  - 2 snufjes zout
+  - 1.5 theelepel kruidnagelpoeder
+  - 2.5 gram zout (1/2 theelepel)
   - 350 g suiker
-  - 3 dl water
+  - 300 gram water
 
   Glazuur:
   - 100 g kookchocolade (zwart)
   - 20 g boter
-  - 1 dl water
+  - 70 gram water
   - 2 eetlepels cacao-/chocoladepoeder
-  - 250 g poedersuiker
+  - 160 g poedersuiker
 preparation: >-
   1. Verwarm de oven voor op 180 graden.
 
@@ -38,7 +39,7 @@ preparation: >-
 
   5. Bak 20 minuten, laat afkoelen en snij dan in stukjes van 2 x 4 cm.
 
-  6. Glazuur: Smelt de chocolade met boter en water op matig vuur in een pan, haal van het vuur, voeg cacaopoeder en suiker toe en roer tot het glad is.
+  6. Voor het glazuur smelt de chocolade met boter au-bain-marie. Wanneer gesmolten voeg het cacaopoeder en suiker toe. Meng nu het water en klop met een garde totdat het glazuur een mooie consistentie heeft en het mooi glad is.
 
   7. Doe het Magenbrot in een grote kom, giet het glazuur erover en meng tot alle stukjes gelijkmatig zijn geglazuurd.
 
