@@ -18,14 +18,14 @@ ingredients: |
   - 2 theelepels kaneel
   - 2 eetlepels cacao-/chocoladepoeder
   - 1.5 theelepel kruidnagelpoeder
-  - 2.5 gram zout (1/2 theelepel)
-  - 350 g suiker
-  - 300 gram water
+  - 2.5 gr zout (1/2 theelepel)
+  - 350 gr suiker
+  - 300 gr water
 
   Glazuur:
-  - 100 g kookchocolade (zwart)
+  - 100 g chocolade (50g 70.5%, 50g 33.6%)
   - 20 g boter
-  - 70 gram water
+  - 70 g water
   - 2 eetlepels cacao-/chocoladepoeder
   - 160 g poedersuiker
 preparation: >-
