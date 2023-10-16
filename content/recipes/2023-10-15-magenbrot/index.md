@@ -16,8 +16,8 @@ summary: Wat krijg je als onze chocoladekruidnoot en ontbijtkoek een kind zouden
 time: 30 minuten
 portions: "100 stuks "
 ingredients: |-
-  * 380 g tarwebloem
-  * 120 g tarwemeel.
+  * 380 g tarwemeel
+  * 120 g grof tarwemeel.
   * 1 eetlepel bakpoeder
   * 2 theelepels kaneel
   * 2 eetlepels cacaopoeder
