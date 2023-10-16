@@ -3,6 +3,7 @@ title: Magenbrot
 date: 2023-10-15T10:12:19.212Z
 author:
   - Daan Geijs
+  - Linda Studer
 tags:
   - chocola
   - kruidnagel
@@ -11,10 +12,10 @@ categories:
 cover:
   image: apc_0078-edit.jpg
 summary: Wat krijg je als onze chocoladekruidnoot en ontbijtkoek een kind zouden
-  krijgen? Nou, dan krijg je Magenbrot. Mijn Zwitserse collega bracht mij
+  krijgen? Nou, dan krijg je Magenbrot. Mijn Zwitserse collega Linda bracht mij
   hiervan op de hoogte en begreep niet waarom wij Nederlanders deze lekkernij
-  nog niet omarmd hadden. Nu ik het zelf gemaakt heb, weet ik het ook niet, want
-  dit spul is goddelijk!
+  nog niet omarmd hadden. Nu ik ze zelf met Linda gemaakt heb, weet ik het ook
+  niet, want dit spul is goddelijk!
 time: 30 minuten
 portions: "100 stuks "
 ingredients: |-
