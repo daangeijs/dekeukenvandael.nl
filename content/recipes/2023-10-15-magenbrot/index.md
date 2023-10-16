@@ -10,7 +10,7 @@ tags:
 categories:
   - koek
 cover:
-  image: apc_0078-edit.jpg
+  image: apc_0078-edit-2.jpg
 summary: Wat krijg je als onze chocoladekruidnoot en ontbijtkoek een kind zouden
   krijgen? Nou, dan krijg je Magenbrot. Mijn Zwitserse collega Linda bracht mij
   hiervan op de hoogte en begreep niet waarom wij Nederlanders deze lekkernij
