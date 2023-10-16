@@ -8,6 +8,8 @@ tags:
   - kruidnagel
 categories:
   - koek
+cover:
+  image: apc_0078-edit.jpg
 summary: Wat krijg je als onze chocoladekruidnoot en ontbijtkoek een kind zouden
   krijgen? Nou, dan krijg je Magenbrot. Mijn Zwitserse collega bracht mij
   hiervan op de hoogte en begreep niet waarom wij Nederlanders deze lekkernij
