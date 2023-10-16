@@ -45,7 +45,7 @@ preparation: >-
 
   4. Strijk dit deeg (ongeveer 1,5 á 2,0 cm dik) uit op een rechthoekige bakplaat bekleed met bakpapier.
 
-  5. Bak 20 minuten, laat afkoelen en snij dan in stukjes van 2 x 4 cm.
+  5. Bak 20 minuten, laat afkoelen en snij dan in stukjes van 4 x 4 cm.
 
   6. Voor het glazuur smelt de chocolade met boter au-bain-marie. Wanneer gesmolten voeg het cacaopoeder en suiker toe. Meng nu het water en klop met een garde totdat het glazuur een mooie consistentie heeft en het mooi glad is.
 
