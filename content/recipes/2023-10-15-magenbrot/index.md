@@ -38,11 +38,11 @@ ingredients: |-
 preparation: >-
   1. Verwarm de oven voor op 180 graden.
 
-  2. Meng in een kom het ruwe meel, bakpoeder en kruiden.
+  2. Meng in een kom het meel, bakpoeder, cacaopoeder, de kruiden en het zout.
 
-  3. Voeg suiker en water toe en verwerk tot een deeg.
+  3. Voeg vervolgens het suiker en water toe en verwerk tot een deeg.
 
-  4. Strijk dit deeg (ongeveer 1,5 cm dik) uit op een rechthoekige bakplaat bekleed met bakpapier.
+  4. Strijk dit deeg (ongeveer 1,5 á 2,0 cm dik) uit op een rechthoekige bakplaat bekleed met bakpapier.
 
   5. Bak 20 minuten, laat afkoelen en snij dan in stukjes van 2 x 4 cm.
 
@@ -50,6 +50,6 @@ preparation: >-
 
   7. Doe het Magenbrot in een grote kom, giet het glazuur erover en meng tot alle stukjes gelijkmatig zijn geglazuurd.
 
-  8. Leg op een rooster en laat drogen.
+  8. Leg op een rooster en laat drogen. Het kan meer dan 12 uur duren voordat ze echt mooi droog zijn.
 ignore: false
 ---
