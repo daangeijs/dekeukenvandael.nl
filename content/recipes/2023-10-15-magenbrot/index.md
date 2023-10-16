@@ -5,7 +5,7 @@ author:
   - Daan Geijs
   - Linda Studer
 tags:
-  - chocola
+  - chocolade
   - kruidnagel
 categories:
   - koek
