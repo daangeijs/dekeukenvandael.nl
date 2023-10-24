@@ -1,5 +1,5 @@
 ---
-title: Gerookte zalmburger met spinaziepesto, zoete aardappel en sriracha mayonaise
+title: Gerookte zalmburger met zoete aardappel en sriracha mayonaise
 date: 2023-10-24T19:09:24.334Z
 author:
   - Daan Geijs
