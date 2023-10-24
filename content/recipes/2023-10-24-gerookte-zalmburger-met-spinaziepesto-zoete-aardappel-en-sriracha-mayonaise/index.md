@@ -13,7 +13,7 @@ cover:
   image: apc_0082-edit-edit-edit.jpg
 summary: Een zomers gerecht voor in het najaar. Ik denk dat hij zo lekker is in
   de herfst door de gerookte zalmburger. Het geeft een gevoel alsof je lekker
-  warm bij de vuurkorf staat. Heb je geen rookoven, vergeet die dan en gebruik
+  warm bij een vuurkorf staat. Heb je geen rookoven, vergeet die dan en gebruik
   gewoon een pan. Net zo lekker en vooral geen reden om dit recept niet te
   maken.
 time: 40 minuten
