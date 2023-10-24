@@ -10,7 +10,7 @@ tags:
 categories:
   - vis
 cover:
-  image: apc_0082-edit.jpg
+  image: apc_0082-edit-edit.jpg
 summary: Een zomers gerecht voor in het najaar. Ik denk dat hij zo lekker is in
   de herfst door de gerookte zalmburger. Het geeft een gevoel alsof je lekker
   warm bij de vuurkorf staat. Heb je geen rookoven, vergeet die dan en gebruik
