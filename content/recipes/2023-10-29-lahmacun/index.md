@@ -12,9 +12,14 @@ categories:
   - turks
 cover:
   image: apc_0089-edit.jpg
-summary: Lekkere turkse pizza's
-time: 30 min
-portions: 8 pizza's
+summary: Wij heb vaak een een lahmacun gegeten, maar hadden het nog nooit zelf
+  gemaakt. Dit een recept wat voorlopig goed voor ons goed werkt. Je hoeft het
+  deeg weinig aandacht te geven en daarom kun je goed focussen op het gehakt en
+  de toppings. Wij eten hem vrij simpel met komkommer, sla, tomaat en feta. Vaak
+  maken wij er nog een knoflook sausje bij, want ja, op deze manier heb wij hem
+  leren kennen.
+time: "Voorbereiden: 40 minuten, Bakken: 5 minuten per lahmacun."
+portions: 8 stuks
 ingredients: >
   *Voor het deeg*
 
