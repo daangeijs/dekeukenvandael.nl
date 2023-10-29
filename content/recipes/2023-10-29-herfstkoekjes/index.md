@@ -18,7 +18,7 @@ summary: "Mijn collega weet dat ik erg van bakken houd, en zij is vaak degene
   symboliseert, op smaak gebracht met pumpkin spice. Het kleurcontrast staat
   voor de overgang en het moment waarop de herfst op zijn mooist is. Terwijl ik
   dit recept opschrijf, realiseer ik me waarom mijn collega me juist deze
-  koekjesvorm heeft gegeven."
+  koekjesvorm heeft gegeven." 
 time: "Bereiding: 20 minuten, Rusten: 60 minuten, Bakken: 18 minuten."
 portions: 25 koekjes
 ingredients: >-
@@ -51,7 +51,7 @@ ingredients: >-
 
   * 125 gr bloem
 
-  * ½ eetlepel [pumpkin spice]({{ < ref "2023-10-29-pumpkin-spice" > }}) of koekkruiden.
+  * ½ eetlepel [pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" >}}) of koekkruiden.
 preparation: >-
   1. Bereid de twee degen voor in twee aparte kommen. Je kunt dit mooi tegelijk
   doen. Meng voor het lichte deeg de boter, witte basterdsuiker, zout en de
