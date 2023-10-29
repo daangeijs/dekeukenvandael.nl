@@ -10,6 +10,8 @@ tags:
   - ""
 categories:
   - turks
+cover:
+  image: apc_0089-edit.jpg
 summary: Lekkere turkse pizza's
 time: 30 min
 portions: 8 pizza's
