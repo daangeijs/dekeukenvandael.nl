@@ -9,6 +9,8 @@ tags:
   - ""
 categories:
   - ingredient
+cover:
+  image: apc_0133-edit.jpg
 summary: Pumpkin spice vind ik echt enorm lekker en een aanwist voor in de
   keuken. Niet alleen biedt het een heerlijk alternatief voor speculaas of
   koekkruiden, maar het schittert vooral tijdens de herfst. En het beste? Het
