@@ -22,24 +22,37 @@ summary: "Mijn collega weet dat ik erg van bakken houd, en zij is vaak degene
   koekjesvorm heeft gegeven."
 time: "Bereiding: 20 minuten, Rusten: 60 minuten, Bakken: 18 minuten."
 portions: 25 koekjes
-ingredients: |-
+ingredients: >-
   *Voor het lichte deeg:*
 
+
   * ﻿﻿92,5 gr boter, op kamertemperatuur
+
   * 62,5 gr witte basterdsuiker
+
   * snuf zout
+
   * 12 gram ei, op kamertemperatuur, losgeklopt
+
   * ﻿﻿125 gr bloem
+
   * ½ citroen, rasp,
+
 
   *Voor het donkere deeg:*
 
+
   * ﻿﻿92,5 gr boter, op kamertemperatuur
+
   * 62,5 gr bruine basterdsuiker
+
   * snuf zout
+
   * 12 gram ei, op kamertemperatuur, losgeklopt
+
   * ﻿﻿125 gr bloem
-  * ½ eetlepel pumpkin spice of koekkruiden.
+
+  * ½ eetlepel \[pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" > }}) of koekkruiden.
 preparation: >-
   1. Bereid de twee degen voor in twee aparte kommen. Je kunt dit mooi tegelijk
   doen. Meng voor het lichte deeg de boter, witte basterdsuiker, zout en de
