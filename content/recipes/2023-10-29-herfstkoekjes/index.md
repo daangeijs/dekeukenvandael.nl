@@ -8,7 +8,7 @@ tags:
 categories:
   - koek
 cover:
-  image: apc_0085-edit.jpg
+  image: apc_0085-edit-2.jpg
 summary: "Mijn collega Khrystyna weet dat ik erg van bakken houd, en zij is vaak
   degene die mijn baksels mag proeven. Onlangs kreeg ik van haar een koekjesvorm
   uit Canada cadeau, in de vorm van het blad van hun geliefde esdoorn. Deze
