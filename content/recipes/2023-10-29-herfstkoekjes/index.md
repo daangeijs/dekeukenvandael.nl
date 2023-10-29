@@ -5,7 +5,6 @@ author:
   - Daan Geijs
 tags:
   - pumpkin spice
-  - ""
 categories:
   - koek
 cover:
@@ -52,7 +51,7 @@ ingredients: >-
 
   * ﻿﻿125 gr bloem
 
-  * ½ eetlepel \[pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" > }}) of koekkruiden.
+  * ½ eetlepel [pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" > }}) of koekkruiden.
 preparation: >-
   1. Bereid de twee degen voor in twee aparte kommen. Je kunt dit mooi tegelijk
   doen. Meng voor het lichte deeg de boter, witte basterdsuiker, zout en de
