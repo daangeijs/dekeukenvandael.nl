@@ -9,9 +9,9 @@ categories:
   - koek
 cover:
   image: apc_0085-edit.jpg
-summary: "Mijn collega weet dat ik erg van bakken houd, en zij is vaak degene
-  die mijn baksels mag proeven. Onlangs kreeg ik van haar een koekjesvorm uit
-  Canada cadeau, in de vorm van het blad van hun geliefde esdoorn. Deze
+summary: "Mijn collega Khrystyna weet dat ik erg van bakken houd, en zij is vaak
+  degene die mijn baksels mag proeven. Onlangs kreeg ik van haar een koekjesvorm
+  uit Canada cadeau, in de vorm van het blad van hun geliefde esdoorn. Deze
   prachtige vorm gaf me meteen het idee om er een herfstkoekje van te maken. Ik
   heb het in twee kleuren gebakken: een deeg op smaak gebracht met citroen, dat
   het frisse van de zomer symboliseert, en een ander deeg dat de herfst
