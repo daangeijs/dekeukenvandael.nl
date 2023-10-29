@@ -8,15 +8,18 @@ tags:
   - ""
 categories:
   - koek
-summary: Mijn collega weet dat ik erg van bakken houd en zij is ook vaak de gene
-  die mijn baksel mag testen. Laast kreeg ik van haar een koekjesvorm uit Canada
-  in de vorm van de bekende esdoorn. Deze prachtige vorm gaf mij direct het idee
-  om er een herfst koekje van te maken. Ik heb het in twee kleuren gebakken. Een
-  deeg op smaak gebracht met citroen en symboliseert het frisse van de zomer en
-  een ander deeg symboliseert de herst op smaak gebracht met pumpkin spice. Het
-  kleurverschil symboliseert de overgang en de tijd wanneer de herfst op zijn
-  mooist is! Nu ik dit recept schrijf besef ik mij dat ik nu weet waarom mijn
-  collega deze koekjes vorm heeft gegegeven.
+cover:
+  image: apc_0085-edit.jpg
+summary: "Mijn collega weet dat ik erg van bakken houd, en zij is vaak degene
+  die mijn baksels mag proeven. Onlangs kreeg ik van haar een koekjesvorm uit
+  Canada cadeau, in de vorm van het blad van hun geliefde esdoorn. Deze
+  prachtige vorm gaf me meteen het idee om er een herfstkoekje van te maken. Ik
+  heb het in twee kleuren gebakken: een deeg op smaak gebracht met citroen, dat
+  het frisse van de zomer symboliseert, en een ander deeg dat de herfst
+  symboliseert, op smaak gebracht met pumpkin spice. Het kleurcontrast staat
+  voor de overgang en het moment waarop de herfst op zijn mooist is. Terwijl ik
+  dit recept opschrijf, realiseer ik me waarom mijn collega me juist deze
+  koekjesvorm heeft gegeven."
 time: "Bereiding: 20 minuten, Rusten: 60 minuten, Bakken: 18 minuten."
 portions: 25 koekjes
 ingredients: |-
