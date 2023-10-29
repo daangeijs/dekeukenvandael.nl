@@ -11,7 +11,7 @@ tags:
 categories:
   - turks
 cover:
-  image: apc_0089-edit.jpg
+  image: apc_0089-edit-edit.jpg
 summary: Wij heb vaak een een lahmacun gegeten, maar hadden het nog nooit zelf
   gemaakt. Dit een recept wat voorlopig goed voor ons goed werkt. Je hoeft het
   deeg weinig aandacht te geven en daarom kun je goed focussen op het gehakt en
