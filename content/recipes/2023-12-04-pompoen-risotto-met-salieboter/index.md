@@ -1,5 +1,5 @@
 ---
-title: Pompoen risotto met salieboter
+title: Pompoenrisotto met salieboter
 date: 2023-12-04T18:34:49.019Z
 author:
   - Daan Geijs
