@@ -45,7 +45,7 @@ ingredients: >-
   * Verse salieblaadjes
 
 
-  \* Zelf gebruikte ik in plaats van kaneel zelfgemaakte [pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" >}}).
+  \* Zelf gebruikten wij in plaats van kaneel zelfgemaakte [pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" >}}).
 preparation: >-
   1. Verwarm de oven voor op 200 graden Celsius. Bekleed een bakplaat met
   bakpapier.
