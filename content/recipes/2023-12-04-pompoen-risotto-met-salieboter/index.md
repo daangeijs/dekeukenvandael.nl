@@ -19,21 +19,33 @@ summary: Onlangs hebben wij een snelkookpan aangeschaft, dus hoog tijd om
   opgeschreven, zodat wij hem vaker kunnen maken.
 time: "Voorbereiden: 10 minuten, Kook en baktijd: 20 minuten"
 portions: 3 personen
-ingredients: |-
+ingredients: >-
   * 1 kleine Hokkaido pompoen
+
   * Olijfolie
+
   * 1/2 theelepel kaneel \*
+
   * 1/2 theelepel chilivlokken
-  * 60 gram roomboter (voor de risotto)
+
+  * 15 gram roomboter (voor de risotto)
+
   * 1 ui, fijngesneden
+
   * 250 gram risottorijst
+
   * 100 gram witte wijn
+
   * 800 ml bouillon
+
   * 50 gram Parmezaanse kaas, geraspt
-  * Extra roomboter (voor de salieboter)
+
+  * 60 gram roomboter (voor de salieboter)
+
   * Verse salieblaadjes
 
-  \* Zelf gebruikte ik in plaats van kaneel zelfgemaakte pumpkin spice.
+
+  \* Zelf gebruikte ik in plaats van kaneel zelfgemaakte [pumpkin spice]({{< ref "2023-10-29-pumpkin-spice" >}}).
 preparation: >-
   1. Verwarm de oven voor op 200 graden Celsius. Bekleed een bakplaat met
   bakpapier.
