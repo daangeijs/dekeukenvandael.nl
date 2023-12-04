@@ -22,9 +22,8 @@ portions: 3 personen
 ingredients: |-
   * 1 kleine Hokkaido pompoen
   * Olijfolie
-  * 1/2 theelepel kaneel
+  * 1/2 theelepel kaneel \*
   * 1/2 theelepel chilivlokken
-  * Zout
   * 60 gram roomboter (voor de risotto)
   * 1 ui, fijngesneden
   * 250 gram risottorijst
@@ -33,12 +32,15 @@ ingredients: |-
   * 50 gram Parmezaanse kaas, geraspt
   * Extra roomboter (voor de salieboter)
   * Verse salieblaadjes
+
+  \* Zelf gebruikte ik in plaats van kaneel zelfgemaakte pumpkin spice.
 preparation: >-
-  1. Verwarm de oven voor op 200 graden. Bekleed een bakplaat met bakpapier.
+  1. Verwarm de oven voor op 200 graden Celsius. Bekleed een bakplaat met
+  bakpapier.
 
-  2. Was en halveer de pompoen. Verwijder de zaden en snij in blokjes van 1 cm. Leg de pompoen op de bakplaat en besprenkel met olijfolie, kaneel, chilivlokken en zout. Grill de pompoen 15-20 minuten in de oven tot deze zacht is.
+  2. Was en halveer de pompoen. Verwijder de zaden en snij in blokjes van 1 cm. Leg de pompoen op de bakplaat en besprenkel met olijfolie, kaneel en chilivlokken. Grill de pompoen 15-20 minuten in de oven tot deze zacht is. Het is niet nodig om de pompoen te schillen. 
 
-  3. Verwarm de snelkookpan op het vuur en voeg 15 gram roomboter toe. Fruit de ui zachtjes, voeg de risottorijst toe en bak tot glazig. Blus af met witte wijn en roer goed. Zorg dat alle wijn verdampt is. 
+  3. Verwarm de snelkookpan op laag vuur en voeg 15 gram roomboter toe. Fruit de ui zachtjes, voeg de risottorijst toe en bak tot glazig. Blus af met witte wijn en roer goed. Zorg dat alle wijn verdampt is. 
 
   4. Zet de pan lager, voeg kokende bouillon toe, sluit de pan en kook 7 minuten op hoge druk. Laat daarna de druk afnemen, roer de risotto door en voeg Parmezaanse kaas toe. Pas de consistentie aan met bouillon indien nodig. 
 
