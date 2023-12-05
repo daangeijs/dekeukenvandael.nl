@@ -7,7 +7,14 @@ tags:
   - stemgember
 categories:
   - koek
-summary: Lekkere warme gemberkoekjes
+cover:
+  image: apc_0091-edit.jpg
+summary: "Lekker hoeft niet altijd complex te zijn. Neem bijvoorbeeld deze
+  lekkere gemberkoekjes. Een simpel deeg waaraan ik enkel wat gemberpoeder en
+  stemgember aan toevoegde. Het resultaat was voor mij perfect. Een krokant
+  koekje met de warme smaak van gember. Perfect voor bij de thee of koffie! Wil
+  je een nog krokanter koekje? Gebruik dan Zeeuwse bloem in plaats van normale
+  bloem. "
 time: "Voorbereiding: 15 minuten, Rusten: 1 uur, Bakken: 18 minuten"
 portions: 30 - 40 koekjes
 ingredients: |-
