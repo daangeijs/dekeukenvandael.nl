@@ -5,12 +5,11 @@ author:
   - Daan Geijs
   - Elleke Munk
 tags:
-  - pompen
+  - pompoen
   - salie
   - risotto
-  - ""
 categories:
-  - italiaans
+  - pasta
 cover:
   image: apc_0093-edit.jpg
 summary: Onlangs hebben wij een snelkookpan aangeschaft, dus hoog tijd om
