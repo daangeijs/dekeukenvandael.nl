@@ -1,6 +1,8 @@
 ---
 title: Chipas
 date: 2023-12-28T15:10:30.934Z
+author:
+  - Daan Geijs
 tags:
   - kaas
 categories:
