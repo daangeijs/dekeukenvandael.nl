@@ -17,26 +17,18 @@ summary: "Kleine bolletjes brood, gevuld en soms bedekt met kaas. De Argentijnse
   simpel te maken. "
 time: "Voorbereiden: 20 minuten, Bakken: 30 minuten"
 portions: 40-50 chipas
-ingredients: >-
+ingredients: |-
   * 500 g tapiocameel \*
-
   * 500 g geraspte kaas \**
-
   * 200 g boter
-
   * 3 eieren
-
   * Peper
-
   * Rasp van 1 sinaasappel
-
   * Melk of water (indien nodig)
-
 
   \* Te vinden in de Toko
 
-
-  \*\*  Zelf heb ik 400 g belegen Gouda en 100 g Gruyère gebruikt. Maak een mix die jij lekker vindt. 
+  \*\*  Zelf heb ik 400 g belegen Gouda en 100 g Gruyère gebruikt.
 preparation: >
   1. Begin met het mengen van de tapiocameel, peper, sinaasappelrasp en kaas in
   een grote kom.
