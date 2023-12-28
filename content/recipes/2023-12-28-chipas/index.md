@@ -22,7 +22,7 @@ ingredients: |-
   * 500 g geraspte kaas \**
   * 200 g boter
   * 3 eieren
-  * Peper
+  * Zwarte peper
   * Rasp van 1 sinaasappel
   * Melk of water (indien nodig)
 
@@ -30,8 +30,8 @@ ingredients: |-
 
   \*\*  Zelf heb ik 400 g belegen Gouda en 100 g Gruyère gebruikt.
 preparation: >
-  1. Begin met het mengen van de tapiocameel, peper, sinaasappelrasp en kaas in
-  een grote kom.
+  1. Begin met het mengen van de tapiocameel, een paar slagen peper,
+  sinaasappelrasp en kaas in een grote kom.
 
 
   2. Voeg de zachte boter samen met de eieren toe aan het droge mengsel. Kneed goed door elkaar. Voeg indien nodig beetje bij beetje melk of water toe om een zacht, kneedbaar deeg te vormen.
