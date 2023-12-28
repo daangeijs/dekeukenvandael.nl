@@ -7,6 +7,8 @@ tags:
   - kaas
 categories:
   - snack
+cover:
+  image: shutterstock_201425405-e1553877485416-916x458.jpg
 summary: "Kleine bolletjes brood, gevuld en soms bedekt met kaas. De Argentijnse
   chipas klinken als de droom van iedere kaasliefhebber en dat zijn ze ook. Ik
   kwam deze voor het eerst tegen op een feestje waar mijn Argentijnse collega
