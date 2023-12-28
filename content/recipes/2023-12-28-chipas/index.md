@@ -40,7 +40,7 @@ preparation: >
   3. Schep met een eetlepel balletjes deeg en rol ze in je handen tot kleine balletjes.
 
 
-  4. Plaats de balletjes op een bakplaat en bak ze in een voorverwarmde oven op 200°C. Let op de balletjes zullen wat uitvloeien dus zorg voor genoeg ruimt. Bak ze 25 tot 30 minuten tot ze goudbruin beginnen te kleuren.
+  4. Plaats de balletjes op een met bakpapier beklede bakplaat en bak ze in een voorverwarmde oven op 200°C. Let op de balletjes zullen wat uitvloeien dus zorg voor genoeg ruimt. Bak ze 25 tot 30 minuten tot ze goudbruin beginnen te kleuren.
 ignore: false
 ---
 ### Tips
