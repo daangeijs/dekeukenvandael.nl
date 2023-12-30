@@ -12,9 +12,9 @@ cover:
   image: apc_0096-edit.jpg
 summary: Een perfecte snack die je al een dag van tevoren kunt maken. In mijn
   geval was dat voor mijn oudejaarsfeestje. Het is een lichte kruidige snack en
-  lekker voor tussendoor, zeker tussen de oliebollen. Ik moest ze alleen wel
-  snel afsluiten en verpakken, niet zozeer vanwege het uitdrogen, maar omdat ik
-  anders te veel van tevoren al zou opeten.
+  lekker voor tussendoor, zeker tussen de oliebollen door. Ik moest ze alleen
+  wel snel afsluiten en verpakken, niet zozeer vanwege het uitdrogen, maar omdat
+  ik anders te veel van tevoren al zou opeten.
 time: "Voorbereiden 20 minuten, Koken en afkoelen: 50 minuten"
 portions: "30"
 ingredients: |-
