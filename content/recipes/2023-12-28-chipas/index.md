@@ -29,7 +29,7 @@ ingredients: |-
   \* Te vinden in de Toko
 
   \*\*  Zelf heb ik 400 g belegen Gouda en 100 g Gruyère gebruikt.
-preparation: >
+preparation: >-
   1. Begin met het mengen van de tapiocameel, een paar slagen peper,
   sinaasappelrasp en kaas in een grote kom.
 
@@ -40,7 +40,10 @@ preparation: >
   3. Schep met een eetlepel balletjes deeg en rol ze in je handen tot kleine balletjes.
 
 
-  4. Plaats de balletjes op een met bakpapier beklede bakplaat en bak ze in een voorverwarmde oven op 200°C. Let op de balletjes zullen wat uitvloeien dus zorg voor genoeg ruimte. Bak ze 25 tot 30 minuten tot ze goudbruin beginnen te kleuren.
+  4. Plaats de balletjes op een met bakpapier beklede bakplaat en bak ze in een voorverwarmde oven op 200°C. Let op de balletjes zullen wat uitvloeien dus zorg voor genoeg ruimte. 
+
+
+  5. Bak de chipas in totaal 25 tot 30 minuten in de oven. Na ongeveer 15 minuten bakken, klop je een eigeel los. Haal de chipas kort uit de oven en bestrijk ze met het eigeel voor een mooie glans, en bak ze daarna verder tot ze klaar zijn en mooi goudbruin. 
 ignore: false
 ---
 ### Tips
