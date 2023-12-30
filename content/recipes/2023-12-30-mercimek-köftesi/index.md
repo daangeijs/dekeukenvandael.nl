@@ -10,11 +10,15 @@ categories:
   - turks
 cover:
   image: apc_0096-edit.jpg
-summary: intro
+summary: Een perfecte snack die je al een dag van tevoren kunt maken. In mijn
+  geval was dat voor mijn oudejaarsfeestje. Het is een lichte kruidige snack en
+  lekker voor tussendoor, zeker tussen de oliebollen. Ik moest ze alleen wel
+  snel afsluiten en verpakken, niet zozeer vanwege het uitdrogen, maar omdat ik
+  anders te veel van tevoren al zou opeten.
 time: "Voorbereiden 20 minuten, Koken en afkoelen: 50 minuten"
-portions: "20"
+portions: "30"
 ingredients: |-
-  * 260 gram rode linzen (260
+  * 260 gram rode linzen
   * 200 gram bulgur (fijn)
   * 1 witte ui (230 g)
   * 100 ml olijfolie
@@ -52,3 +56,4 @@ preparation: >-
   10. Serveer de koftes op een bedje van verse sla .
 ignore: false
 ---
+Zorg als je de koftes niet direct serveert dat je ze goed afsluit zodat ze niet uitdrogen. Zelf doe ik een heel klein beetje water op de bodem van mijn bak en leg daar bakpapier op.
