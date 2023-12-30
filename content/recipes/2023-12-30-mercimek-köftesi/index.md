@@ -14,8 +14,8 @@ portions: "30"
 ingredients: |-
   * 1 cup rode linzen
   * 1,5 cup bulgur (fijn of medium)
-  * 1 ui
-  * 5 groene uien
+  * 1 witte ui
+  * 5 lente ui
   * 1 bosje peterselie (50 g)
   * 5 eetlepels olijfolie
   * 1 eetlepel chilipasta
@@ -25,7 +25,6 @@ ingredients: |-
   * 1 theelepel chilivlokken
   * 2 theelepels zout
   * ½ citroen (sap)
-  * 2 kopjes water
 preparation: >-
   1. Begin met het grondig wassen van de rode linzen. Doe de gewassen linzen in
   een pan en voeg twee kopjes water toe. Breng het geheel aan de kook en laat
