@@ -47,5 +47,6 @@ ignore: false
 
 Kaaskeuze: Experimenteer met verschillende soorten kaas voor variatie in smaak.
 
+Kruiden: In dit recept gebruik ik sinaasappelschil, iets wat ik niet vaak ben tegengekomen in andere recepten. Ik heb het toch toegevoegd omdat ik het een verrassend en leuk element vind. Je kunt variëren door bijvoorbeeld oregano, anijszaadjes of komijnzaadjes te proberen.
 
 Bakken: De chipas zijn het lekkerst als ze vers zijn. Wil je ze van te voren al afbakken, dan kun je ze prima opnieuw verwarmen, vlak voor wanneer je ze gaat serveren.
