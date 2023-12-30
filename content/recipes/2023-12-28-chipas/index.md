@@ -9,11 +9,11 @@ categories:
   - snack
 cover:
   image: apc_0098-edit.jpg
-summary: "Kleine bolletjes brood, gevuld en soms bedekt met kaas. De Argentijnse
-  chipas klinken als de droom van iedere kaasliefhebber en dat zijn ze ook. Ik
-  kwam deze voor het eerst tegen op een feestje waar mijn Argentijnse collega
-  deze had meegenomen. Na eerst de halve schaal leeg te hebben gegeten heb ik
-  haar maar gevraagd hoe ik ze zelf kon maken. Tot mijn verbazing zijn ze enorm
+summary: "Kleine bolletjes brood, gevuld en soms bedekt met kaas. Deze chipas
+  klinken als de droom van iedere kaasliefhebber en dat zijn ze ook. Ik kwam
+  deze voor het eerst tegen op een feestje waar mijn Argentijnse collega deze
+  had meegenomen. Na eerst de halve schaal leeg te hebben gegeten heb ik haar
+  maar gevraagd hoe ik ze zelf kon maken. Tot mijn verbazing zijn ze enorm
   simpel te maken. "
 time: "Voorbereiden: 20 minuten, Bakken: 30 minuten"
 portions: 40-50 chipas
