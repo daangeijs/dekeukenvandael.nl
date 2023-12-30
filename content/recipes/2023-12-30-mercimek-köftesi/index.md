@@ -9,7 +9,7 @@ tags:
 categories:
   - turks
 summary: intro
-time: "Voorbereiden 30 minuten, Koken en afkoelen: 30 minuten"
+time: "Voorbereiden 10 minuten, Koken en afkoelen: 50 minuten"
 portions: "30"
 ingredients: |-
   * 260 gram rode linzen (260
@@ -28,7 +28,8 @@ ingredients: |-
 preparation: >-
   1. Begin met het grondig wassen van de rode linzen. Doe de gewassen linzen in
   een pan en voeg 420 ml  water toe. Breng het geheel aan de kook en laat
-  sudderen tot de linzen zacht zijn. Zet daarna het vuur uit.
+  sudderen voor ongeveer 12 minuten tot de linzen zacht zijn. Zet daarna het
+  vuur uit.
 
   2. Voeg de bulgur toe aan de zachte linzen. Meng dit goed door elkaar. Dek de pan af en laat het mengsel ongeveer 30 minuten staan, zodat de bulgur kan wellen.
 
