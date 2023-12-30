@@ -22,7 +22,7 @@ ingredients: |-
   * 200 gram bulgur (fijn)
   * 1 witte ui (230 g)
   * 100 ml olijfolie
-  * 5 lente ui
+  * 5 lente uien
   * 1 bosje peterselie (40 g)
   * 1 eetlepel chilipasta (35 g)
   * 1 eetlepel tomatenpuree (35 g)
