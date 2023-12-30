@@ -8,6 +8,8 @@ tags:
   - bulgur
 categories:
   - turks
+cover:
+  image: apc_0096-edit.jpg
 summary: intro
 time: "Voorbereiden 20 minuten, Koken en afkoelen: 50 minuten"
 portions: "20"
