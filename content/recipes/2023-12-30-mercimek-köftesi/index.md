@@ -12,8 +12,8 @@ summary: intro
 time: "Voorbereiden 30 minuten, Koken en afkoelen: 30 minuten"
 portions: "30"
 ingredients: |-
-  * 1 cup rode linzen
-  * 1,5 cup bulgur (fijn of medium)
+  * 260 gram rode linzen (260
+  * 200 gram bulgur (fijn)
   * 1 witte ui
   * 5 lente ui
   * 1 bosje peterselie (50 g)
@@ -27,7 +27,7 @@ ingredients: |-
   * ½ citroen (sap)
 preparation: >-
   1. Begin met het grondig wassen van de rode linzen. Doe de gewassen linzen in
-  een pan en voeg twee kopjes water toe. Breng het geheel aan de kook en laat
+  een pan en voeg 420 ml  water toe. Breng het geheel aan de kook en laat
   sudderen tot de linzen zacht zijn. Zet daarna het vuur uit.
 
   2. Voeg de bulgur toe aan de zachte linzen. Meng dit goed door elkaar. Dek de pan af en laat het mengsel ongeveer 30 minuten staan, zodat de bulgur kan wellen.
