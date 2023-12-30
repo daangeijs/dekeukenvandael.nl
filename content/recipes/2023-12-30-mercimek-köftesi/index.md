@@ -39,7 +39,7 @@ preparation: >-
 
   2. Voeg de bulgur toe aan de zachte linzen. Meng dit goed door elkaar. Dek de pan af en laat het mengsel ongeveer 30 minuten staan, zodat de bulgur kan wellen.
 
-  3. Snijd de ui fijn. Verhit wat olijfolie in een aparte pan en bak de ui tot deze zacht en doorschijnend is.
+  3. Snijd de ui fijn. Verhit de olijfolie in een aparte pan en bak de ui tot deze zacht en doorschijnend is.
 
   4. Voeg nu de tomatenpasta en chilipasta toe aan de gebakken ui. Laat dit mengsel enkele minuten samen bakken zodat de smaken goed kunnen mengen.
 
@@ -49,11 +49,13 @@ preparation: >-
 
   7. Pers het sap van een halve citroen uit en voeg dit toe aan het mengsel voor een frisse toets.
 
-  8. Hak de groene uien en peterselie fijn en voeg deze toe aan het mengsel. Meng dit voorzichtig door.
+  8. Snijdt de lente ui en peterselie heel fijn en voeg deze toe aan het mengsel en meng het goed door.
 
-  9. Vorm met zorg kleine, langwerpige koftes uit het mengsel. Probeer de koftes gelijkmatig te vormen voor een consistente presentatie. Als de koftes moeilijk te vormen zijn, dan kun je een heel klein beetje water toevoegen om het geheel wat plakkerig te maken. 
+  9. Vorm met kleine, langwerpige koftes uit het mengsel. Doe dit door ze met je handen te kneden. Als de koftes moeilijk te vormen zijn, dan kun je een heel klein beetje water toevoegen aan het mengsel om het geheel wat plakkerig te maken. 
 
   10. Serveer de koftes op een bedje van verse sla .
 ignore: false
 ---
+#### Tip
+
 Zorg als je de koftes niet direct serveert dat je ze goed afsluit zodat ze niet uitdrogen. Zelf doe ik een heel klein beetje water op de bodem van mijn bak en leg daar bakpapier op.
