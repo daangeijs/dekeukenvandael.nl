@@ -9,17 +9,17 @@ tags:
 categories:
   - turks
 summary: intro
-time: "Voorbereiden 10 minuten, Koken en afkoelen: 50 minuten"
-portions: "30"
+time: "Voorbereiden 20 minuten, Koken en afkoelen: 50 minuten"
+portions: "20"
 ingredients: |-
   * 260 gram rode linzen (260
   * 200 gram bulgur (fijn)
-  * 1 witte ui
+  * 1 witte ui (230 g)
+  * 100 ml olijfolie
   * 5 lente ui
-  * 1 bosje peterselie (50 g)
-  * 5 eetlepels olijfolie
-  * 1 eetlepel chilipasta
-  * 1 eetlepel tomatenpuree
+  * 1 bosje peterselie (40 g)
+  * 1 eetlepel chilipasta (35 g)
+  * 1 eetlepel tomatenpuree (35 g)
   * 1 theelepel komijn
   * 1 theelepel zwarte peper
   * 1 theelepel chilivlokken
@@ -45,8 +45,8 @@ preparation: >-
 
   8. Hak de groene uien en peterselie fijn en voeg deze toe aan het mengsel. Meng dit voorzichtig door.
 
-  9. Vorm met zorg kleine, langwerpige koftes uit het mengsel. Probeer de koftes gelijkmatig te vormen voor een consistente presentatie.
+  9. Vorm met zorg kleine, langwerpige koftes uit het mengsel. Probeer de koftes gelijkmatig te vormen voor een consistente presentatie. Als de koftes moeilijk te vormen zijn, dan kun je een heel klein beetje water toevoegen om het geheel wat plakkerig te maken. 
 
-  10. Serveer de koftes op een bedje van verse sla voor een aantrekkelijke presentatie.
+  10. Serveer de koftes op een bedje van verse sla .
 ignore: false
 ---
