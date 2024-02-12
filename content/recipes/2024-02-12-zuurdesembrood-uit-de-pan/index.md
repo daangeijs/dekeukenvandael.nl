@@ -22,19 +22,20 @@ summary: Niets is lekkerder dan je eigen brood maken met een zuurdesemstarter.
 time: "Voorrijzen: 2 uur, Rijzen: 2 uur, Koelkast: 12 uur, Afbakken: 40 minuten"
 portions: 1 brood
 ingredients: |-
-  * 200 gram grof volkoren
-  * 200 gram bloem
-  * 270 gram water
+  * 200 gram tarwemeel
+  * 200 gram tarwebloem
+  * 270 gram water (35 graden Celsius)
   * 20 gram lijnzaad
   * 20 gram zonnebloempitten
-  * 120 gram starter
+  * 120 gram zuurdesemstarter
   * 7,2 gram zout
 preparation: >-
-  
+  1. Voeg alle ingrediënten, behalve het zout, samen in een grote kom en kneed
+  kort tot alles goed gemengd is. Laat het mengsel daarna ongeveer 2 uur rusten
+  op kamertemperatuur om het desem actiever te maken en de hydratatie van het
+  deeg te verbeteren.
 
-  1. Voeg alle ingrediënten, behalve het zout, samen in een grote kom en kneed kort tot alles goed gemengd is. Laat het mengsel daarna ongeveer 2 uur rusten op kamertemperatuur om het desem actiever te maken en de hydratatie van het deeg te verbeteren.
-
-  2. Kneed het deeg totdat je er een dun vliesje van kunt trekken zonder dat het scheurt, wat aangeeft dat het gluten netwerk goed ontwikkeld is. Het deeg kan plakkerig zijn; dit is normaal. Bol het deeg op na het kneden.
+  2. Voeg het zout toe en kneed het deeg totdat je er een dun vliesje van kunt trekken zonder dat het scheurt, wat aangeeft dat het gluten netwerk goed ontwikkeld is. Het deeg kan plakkerig zijn; dit is normaal. Bol het deeg op na het kneden.
 
   3. Laat het deeg 1 uur rusten op kamertemperatuur. Bol het deeg op na deze rustperiode en laat het nog eens 1 uur rusten.
 
