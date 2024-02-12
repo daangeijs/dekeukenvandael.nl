@@ -12,7 +12,7 @@ summary: Niets is lekkerder dan je eigen brood maken met een zuurdesemstarter.
   deksel. Hierdoor blijft het brood vochtig wanneer het uitzet tijdens de eerste
   20 minuten en krijgt het de kans om goed uit te zetten doordat het deeg zacht
   blijft.
-time: "Rijzen: 4 uur, Koelkast: 12 uur, Afbakken: 40 minuten"
+time: "Rijzen: 2 uur, Koelkast: 12 uur, Afbakken: 40 minuten"
 portions: 1 brood
 ingredients: |-
   * 200 gram grof volkoren
