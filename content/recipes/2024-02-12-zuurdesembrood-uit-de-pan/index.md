@@ -1,17 +1,24 @@
 ---
 title: Zuurdesembrood uit de pan
 date: 2024-02-12T09:05:58.606Z
+author:
+  - Daan Geijs
+  - Elleke Munk
 tags:
   - bloem
   - pompoenpitten
 categories:
   - brood
+cover:
+  image: apc_0101-edit.jpg
 summary: Niets is lekkerder dan je eigen brood maken met een zuurdesemstarter.
-  Het is wel vaak zoeken naar een recept wat voor jou werkt. Zelf boeken wij het
-  meeste succes door het brood af te bakken in een gietijzeren pan met sluitende
-  deksel. Hierdoor blijft het brood vochtig wanneer het uitzet tijdens de eerste
-  20 minuten en krijgt het de kans om goed uit te zetten doordat het deeg zacht
-  blijft.
+  Het is wel vaak zoeken naar een recept wat voor jou het beste werkt. Zelf
+  boeken wij het meeste succes door het brood af te bakken in een gietijzeren
+  pan met sluitende deksel. Hierdoor blijft het brood vochtig wanneer het uitzet
+  tijdens de eerste 20 minuten en krijgt het de kans om goed uit te zetten
+  doordat het deeg zacht blijft. Het succes van een goed brood is lastig toe te
+  kennen aan één specifieke factor, het is dus daarom veel doen. Het goede
+  nieuws is wel; ongeacht de uitkomst het brood smaakt altijd goed!
 time: "Voorrijzen: 2 uur, Rijzen: 2 uur, Koelkast: 12 uur, Afbakken: 40 minuten"
 portions: 1 brood
 ingredients: |-
