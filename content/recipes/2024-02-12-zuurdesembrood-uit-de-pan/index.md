@@ -24,7 +24,7 @@ portions: 1 brood
 ingredients: |-
   * 200 gram tarwemeel
   * 200 gram tarwebloem
-  * 270 gram water (35 graden Celsius)
+  * 255 gram water (35 graden Celsius)
   * 20 gram lijnzaad
   * 20 gram zonnebloempitten
   * 120 gram zuurdesemstarter
