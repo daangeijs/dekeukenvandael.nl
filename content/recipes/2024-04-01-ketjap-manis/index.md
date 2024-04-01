@@ -29,7 +29,7 @@ preparation: >-
 
   3. Breng het rustig aan de kook en zet het vuur laag zodra het begint te schuimen. Laat het langzaam inkoken en roer het regelmatig goed door. 
 
-  4. Laat de saus indikken tot hij de gewenste dikte heeft. Je kan dit testen door een met een lepel een beetje van de saus in een streep op je snijplank te trekken. Als die niet uitloopt is hij mooi van dikte. 
+  4. Laat de saus indikken tot hij de gewenste dikte heeft. Je kan dit testen door een met een lepel een streep van de saus te trekken op je snijplank. Als die niet uitloopt is hij mooi van dikte. 
 
   5. Laat het licht afkoelen en zeef dan dan de ketjap. Hij is nu klaar voor gebruik, of je kan hem in een schone glazen fles bewaren.
 ignore: false
