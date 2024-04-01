@@ -8,7 +8,7 @@ tags:
   - nootmuskaat
   - ""
 categories:
-  - ingredient
+  - ingrediënt
 cover:
   image: apc_0133-edit.jpg
 summary: Pumpkin spice vind ik echt enorm lekker en een aanwist voor in de
