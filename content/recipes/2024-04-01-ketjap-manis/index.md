@@ -3,6 +3,7 @@ title: Ketjap Manis
 date: 2024-04-01T20:03:23.332Z
 author:
   - Elleke Munk
+  - Daan Geijs
 tags:
   - sojasaus
 categories:
