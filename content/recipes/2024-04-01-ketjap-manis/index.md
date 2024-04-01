@@ -6,6 +6,7 @@ author:
   - Daan Geijs
 tags:
   - sojasaus
+  - palmsuiker
 categories:
   - ingrediënt
 cover:
