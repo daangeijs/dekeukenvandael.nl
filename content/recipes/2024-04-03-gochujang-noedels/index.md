@@ -10,6 +10,8 @@ tags:
   - ""
 categories:
   - noedels
+cover:
+  image: apc_0116-edit.jpg
 summary: Dit recept begon met een broccoli en een blik in het boek Art & Science
   of Foodpairing. We waren benieuwd welke smaken mooi hier bij zouden passen. Zo
   viel onze blik op gochujang. Een Koreaanse saus, die ergens tussen sriracha
