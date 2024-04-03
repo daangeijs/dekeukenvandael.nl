@@ -1,5 +1,5 @@
 ---
-title: Gochujang Noedels
+title: Gochujang noedels
 date: 2024-04-03T18:50:59.319Z
 author:
   - Daan Geijs
