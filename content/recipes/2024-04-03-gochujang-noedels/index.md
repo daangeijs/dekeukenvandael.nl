@@ -29,6 +29,7 @@ ingredients: |-
   * 1 rode ui, in stukken gesneden
   * 4 teentjes knoflook, fijngesneden
   * 4 eetlepels zonnebloemolie
+  * 4﻿ eetlepels tahin
   * 2 eieren
 
   **Voor de Gochujang saus:**
