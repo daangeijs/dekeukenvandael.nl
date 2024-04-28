@@ -23,12 +23,12 @@ portions: 2 personen
 ingredients: |-
   **Voor de noedels en groenten:**
 
-  * 150 gram noedels
+  * 4 eetlepels zonnebloemolie
   * 1/3 wortel, geschild en in stukjes gesneden
   * 1 broccoli, in kleine roosjes en stukjes steel gesneden
   * 1 rode ui, in stukken gesneden
   * 4 teentjes knoflook, fijngesneden
-  * 4 eetlepels zonnebloemolie
+  * 150 gram noedels
   * 4﻿ eetlepels tahin
   * 2 eieren
 
