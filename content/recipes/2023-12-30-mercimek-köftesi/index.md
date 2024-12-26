@@ -24,13 +24,15 @@ ingredients: |-
   * 200 ml olijfolie
   * 5 lente uien
   * 1 bosje peterselie (40 g)
-  * 1 eetlepel chilipasta (35 g)
+  * 1 eetlepel Turkse peperpasta* (35 g)
   * 1 eetlepel tomatenpuree (35 g)
   * 1 theelepel komijn
   * 1 theelepel zwarte peper
   * 1 theelepel chilivlokken
   * 2 theelepels zout
   * ½ citroen (sap)
+
+    \* heb je geen peperpasta dan kun je deze ook vervangen door harissa
 preparation: >-
   1. Begin met het grondig wassen van de rode linzen. Doe de gewassen linzen in
   een pan en voeg 420 ml  water toe. Breng het geheel aan de kook en laat
