@@ -21,7 +21,7 @@ ingredients: |-
   * 260 gram rode linzen
   * 200 gram bulgur (fijn)
   * 1 witte ui (230 g)
-  * 100 ml olijfolie
+  * 200 ml olijfolie
   * 5 lente uien
   * 1 bosje peterselie (40 g)
   * 1 eetlepel chilipasta (35 g)
