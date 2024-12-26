@@ -11,7 +11,7 @@ tags:
 summary: "Ideaal voor kerst als bijgerecht bij wild of een stoof. "
 portions: "8"
 ingredients: |
-  * 750gram aardappelen
+  * 750 gram aardappelen
   * 600 gram aardperen
   * 200 gram macadamia's
   * 180 ml slagroom
