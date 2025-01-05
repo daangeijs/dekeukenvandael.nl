@@ -2,8 +2,8 @@
 title: Macadamia-aardpeer-aardappel puree
 date: 2024-12-26T09:53:57.033Z
 author:
-  - Elleke
-  - Daan
+  - Elleke Munk
+  - Daan Geijs
 tags:
   - aardpeer
   - macadamia
