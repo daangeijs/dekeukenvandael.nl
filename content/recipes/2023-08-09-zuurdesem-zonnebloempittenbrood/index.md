@@ -18,7 +18,7 @@ summary: >-
   gemaakt. Wij hebben het aangepast zodat het meer in onze routine past en dit
   is waar wij op uit zijn gekomen. Het gewicht van het totale deeg is precies
   goed voor de bakvorm die wij gebruiken. 
-  
+
   Normaal stop ik nooit een versgebakken zuurdesem in een afgesloten zak, maar het fijne van dit brood is dat het afgesloten in een zak ontzettend lang vers blijft en prima blijft smaken. Perfect voor tijdens een werkweek. 
 time: "Voorbereiding: 6 uur en 15 minuten, Bakken: 1 uur"
 portions: 24 plakken brood
@@ -28,18 +28,18 @@ ingredients: |-
   * 180 gram tarwe zuurdesem
   * 13 gram zout
   * 528 gram water
-  * 66 gram zonnebloempitten
+  * 88 gram zonnebloempitten
 preparation: >-
-  1. Doe het meel, bloem, zout, desem en 66 gram zonnebloempitten in een kom.
+  1. Doe het meel, bloem, zout, desem en 88 gram zonnebloempitten in een kom.
   Zorg dat je het zout en desem van elkaar gescheiden houdt.
 
   2. Giet 400 ml water erbij en vermeng alles met je handen tot een modderachtige massa, je kan hier ook prima een staande mixer voor gebruiken.
 
-  3. Giet beetje bij beetje 128 ml water erbij terwijl je het door de massa mengt (inwassen).
+  3. Giet beetje bij beetje de rest van het water erbij terwijl je het door de massa mengt (inwassen).
 
   4. Dek de kom af en laat het deeg 3 uur rijzen bij kamertemperatuur (20°C).
 
-  5. Vouw het deeg met een vochtige hand, door het te roeren of te vouwen.
+  5. Vouw het deeg met een vochtige hand om.
 
   6. Laat nogmaals 3 uur rijzen.
 
@@ -53,7 +53,7 @@ preparation: >-
 
   9. Neem het deeg uit de kom en verdeel in twee stukken op een nat werkblad.
 
-  10. Met natte handen probeer het deeg in een bol te vormen. Dit hoeft niet perfect te zijn.
+  10. Vouw met natte handen het deeg van zij de zijkanten naar binnen en vervolgens vanaf de bovenkant naar beneden, zodat je een slappe rechthoekige vorm krijgt. Dit hoeft niet perfect te zijn.
 
   11. Pak het stuk deeg met je vingertoppen op en leg het snel in de zonnebloempitten. Pak nu weer het deegstuk op met je vingertoppen em draai het snel om. De zonnebloempitten zullen nu aan de bovenkant van het deeg zitten.
 
