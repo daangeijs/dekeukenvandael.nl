@@ -24,7 +24,7 @@ ingredients: |-
   * 30 gram durum tarwemeel
   *﻿ 70 gram durum tarwebloem 
 preparation: >+
-  1. Meng in een schaal het bloem en het ei. 
+  1. Meng in een schaal het bloem, meel en ei.
 
   2. Kneed het kort door en maak er een bal van.
 
