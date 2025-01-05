@@ -21,7 +21,8 @@ time: 10 minuten
 portions: 150 gram
 ingredients: |-
   * 1 ei
-  * 100 gram tipo 00 (bloem)
+  * 30 gram durum tarwemeel
+  *﻿ 70 gram durum tarwebloem 
 preparation: >+
   1. Meng in een schaal het bloem en het ei. 
 
@@ -41,3 +42,4 @@ preparation: >+
 
 ignore: false
 ---
+T﻿ip: je kan je deeg ook in bolletjes van ongeveer 40 gram snijden om het zo wat sneller uit te rollen en makkelijker door je machine heen te krijgen.
