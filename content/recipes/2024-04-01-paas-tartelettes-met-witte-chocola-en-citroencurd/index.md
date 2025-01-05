@@ -13,7 +13,7 @@ summary: Op tweede Paasdag was er nog wat citroencurd over. Wellicht was ik nog
   idee om tartelletes in de vorm van een ei te maken. Ik weet niet of dat
   helemaal is gelukt, maar ze waren wel erg lekker! Ik heb het recept in
   chronologische volgorde opgeschreven, om lekker door te kunnen blijven werken.
-time: "Deeg: 1 uur, Bakken: 25 minuten, Opspuiten: 5 minuten"
+time: "Curd: 30 minuten, Deeg: 1 uur, Bakken: 25 minuten, Opspuiten: 5 minuten"
 portions: 12 stuks
 ingredients: |-
   **Deeg:** 
@@ -25,8 +25,7 @@ ingredients: |-
   * 75 gram koude boter
   * 15 gram geklopt ei
 
-   **Kokos-amandel crème:**
-
+    **Kokos-amandel crème:**
   * 40 gram amandelmeel
   * 40 gram boter, kamertemperatuur
   * 40 gram poedersuiker
@@ -41,68 +40,87 @@ ingredients: |-
   * 15 gram honing
 
   **Citroencurd:**
+
+  * 2 citroenen (voor ongeveer 130 ml sap)
+  * 200 gram fijne kristalsuiker
+  * 125 gram boter
+  * 2 eieren
 preparation: >-
+  **Curd:**
+
+
+  1. Rasp de citroenen en pers ze uit. Zeef het sap om velletjes en pitjes te verwijderen.  
+
+  2. Doe de citroenrasp, suiker en boter in een hittebestendige kom en verhit deze au bain-marie. Zet op middelhoog vuur. Laat de ingrediënten smelten en roer rustig door tot een gladde massa.  
+
+  3. Als alle boter is gesmolten, voeg je het citroensap toe. Roer dit door het mengsel met een garde. Voeg hierna ook de eieren toe terwijl je blijft roeren. Het is nu een kwestie van geduld. Houd af en toe in de gaten of er nog genoeg water in je steelpan zit.  
+
+  4. Blijf rustig roeren terwijl de lemon curd steeds dikker wordt. Als de lemon curd de dikte van yoghurt heeft, is hij goed. Ter indicatie: dit duurde bij mij ongeveer 20 minuten.  
+
+  5. Giet de lemon curd in een schaal om af te koelen. Terwijl hij afkoelt, dikt hij nog verder in tot de uiteindelijke, juiste dikte.  
+
+
   **Deeg:**
 
 
-  1. Doe de bloem, poedersuiker, het amandelmeel en zout in een kom.
+  6. Doe de bloem, poedersuiker, het amandelmeel en zout in een kom.  
 
-  2. Verwarm de oven alvast voor tot 150 graden Celsius.
+  7. Verwarm de oven alvast voor tot 150 graden Celsius.  
 
-  3. Kluts alvast een ei in een kommetje
+  8. Kluts alvast een ei in een kommetje.  
 
-  4. Weeg 75 gram koude boter af en voeg deze in kleine stukjes toe aan de kom.
+  9. Weeg 75 gram koude boter af en voeg deze in kleine stukjes toe aan de kom.  
 
-  5. Weeg alvast 40 gram af voor de crème en zet deze weg op kamertemperatuur.
+  10. Weeg alvast 40 gram boter af voor de crème en zet deze weg op kamertemperatuur.  
 
-  6. Kneed de alles in de kom samen zolang er een kruimelig deeg ontstaat.
+  11. Kneed alles in de kom samen totdat er een kruimelig deeg ontstaat.  
 
-  7. Voeg nu 15 gram geklutst ei toe en kneed alles tot een samenhangende deegbal. Als het geheel te droog of te nat aanvoelt kun je dit reguleren door een heel klein beetje bloem erbij te doen om het droger te maken, of een paar druppels ei om het deeg wat soepeer te maken.
+  12. Voeg nu 15 gram geklutst ei toe en kneed alles tot een samenhangende deegbal. Als het geheel te droog of te nat aanvoelt, kun je dit reguleren door een heel klein beetje bloem erbij te doen om het droger te maken, of een paar druppels ei om het deeg soepeler te maken.  
 
-  8. Verpak de deegbal in plasticfolie en leg hem een uur te rusten in de koelkast.
+  13. Verpak de deegbal in plasticfolie en laat hem een uur rusten in de koelkast.  
 
-  9. Zet het overgebleven ei in de koelkast, die hebben we later nodig voor on ze creme.
+  14. Zet het overgebleven ei in de koelkast, dat hebben we later nodig voor onze crème.  
 
 
   **Crème:**
 
 
-  10. Strooi het amandelmeel op een bakplaat en rooster deze 10 minuten op 150 graden Celsius.
+  15. Strooi het amandelmeel op een bakplaat en rooster deze 10 minuten op 150 graden Celsius.  
 
-  11. Voeg de inmiddels zachte boter toe aan een kom en roer deze glad tot een zachte massa.
+  16. Voeg de inmiddels zachte boter toe aan een kom en roer deze glad tot een zachte massa.  
 
-  12. Voeg de poedersuiker, het amandeelmeel en de gemalen kokos toe en roer tot een gladde massa. 
+  17. Voeg de poedersuiker, het amandelmeel en de gemalen kokos toe en roer tot een gladde massa.  
 
-  13. Klop als laatste het ei en maizena erdoor met een garde.
+  18. Klop als laatste het ei en maizena erdoor met een garde.  
 
-  14. Vul een kleine sputzak met een middelgroot mondje met de creme en zet deze weg.
+  19. Vul een kleine spuitzak met een middelgroot mondje met de crème en zet deze weg.  
 
 
   **Ganache:**
 
 
-  15. Hak de chocola in kleine stukjes en smelt deze au-bain-marie
+  20. Hak de chocolade in kleine stukjes en smelt deze au bain-marie.  
 
-  16. Breng de slagroom aan de kook samen met de honing
+  21. Breng de slagroom aan de kook samen met de honing.  
 
-  17. Giet de slagroom over de witte chocolade en roer met een pannenlikker rustig tot alles goed gemengd is. 
+  22. Giet de slagroom over de witte chocolade en roer met een pannenlikker rustig tot alles goed gemengd is.  
 
-  18. Mix met een staafmixer de ganache nog voor een mooi glanzend effect. 
+  23. Mix met een staafmixer de ganache nog voor een mooi glanzend effect.  
 
 
   **Fonceren van het deeg:**
 
 
-  19. Verdeel het deeg in twee gelijke stukken, gebruik hiervoor de weegschaal. 
+  24. Verdeel het deeg in twee gelijke stukken, gebruik hiervoor de weegschaal.  
 
-  20. Leg 1 deel in de koelkast.
+  25. Leg 1 deel in de koelkast.  
 
-  21. Bestrooi het blad met bloem en rol het deeg uit en steek er 6 ringen uit. Gebruik een mes om het overgebleven deeg weg te snijden en gebruik een deegschraper om de ringen van het blad af te tillen. Probeer ze niet teveel in elkaar te drukken hierbij. Probeer ook niet teveel bloem te gebruiken.
+  26. Bestrooi het werkblad met bloem en rol het deeg uit. Steek er 6 ringen uit. Gebruik een mes om het overgebleven deeg weg te snijden en een deegschraper om de ringen van het blad af te tillen. Probeer ze niet teveel in elkaar te drukken hierbij. Gebruik ook niet teveel bloem.  
 
-  22. Leg de uitgestoken ringen in de vorm en druk rustig het deeg tegen de randen en snijdt de bovenkant netjes af met een scherp mes.
+  27. Leg de uitgestoken ringen in de vorm en druk rustig het deeg tegen de randen. Snijd de bovenkant netjes af met een scherp mes.  
 
-  23. Zet alles op een plaat met bakpapier en prik er met een vork gaatjes in.
+  28. Zet alles op een plaat met bakpapier en prik er met een vork gaatjes in.  
 
-  24. Vul na 30 minuten te hebben gekoeld de vormpjes met een dun bodempje creme.
+  29. Vul na 30 minuten koelen de vormpjes met een dun bodempje crème.  
 ignore: false
 ---
