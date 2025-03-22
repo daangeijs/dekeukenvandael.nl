@@ -7,6 +7,8 @@ tags:
   - matcha
 categories:
   - koeken
+cover:
+  image: img_5338-edit-2.jpg
 summary: "In Japan waren de meeste zoete dingen met matcha vaak onze favoriet.
   Aan het einde van onze reis wilde ik daarom graag wat matcha meenemen zodat ik
   thuis er ook mee aan de slag kon. Ergens vond ik het wel zonde om hele
