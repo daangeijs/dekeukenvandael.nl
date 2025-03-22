@@ -6,7 +6,7 @@ author:
 tags:
   - matcha
 categories:
-  - koeken
+  - koek
 cover:
   image: img_5338-edit-2.jpg
 summary: "In Japan waren de meeste zoete dingen met matcha vaak onze favoriet.
