@@ -21,8 +21,8 @@ time: 10 minuten
 portions: 150 gram
 ingredients: |-
   * 1 ei
-  * 30 gram durum tarwemeel
-  *﻿ 70 gram durum tarwebloem 
+  * 30 gram durum tarwemeel﻿ 
+  * 70 gram durum tarwebloem 
 preparation: >+
   1. Meng in een schaal het bloem, meel en ei.
 
