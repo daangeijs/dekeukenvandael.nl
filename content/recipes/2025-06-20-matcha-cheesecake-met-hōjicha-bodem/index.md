@@ -12,29 +12,43 @@ summary: "*Zijdezachte gebakken cheesecake met Japanse matcha en een geroosterde
   hōjicha-infusie in een knapperige digestive bodem*"
 time: 3:00
 portions: "12"
-ingredients: |-
-  ### Bodem
+ingredients: >-
+  ### **Bodem**
 
-  * 100 g ongezouten boter
-  * 180 g digestive biscuits
-  * 25 g kristalsuiker
-  * 3–5 g zeer fijn gemalen hōjicha-poeder\
-    (maal losse hōjicha tot poeder met een handmatige koffiemolen of theemolen)
 
-  ### Cheesecakevulling
+  * **135 g** ongezouten boter
 
-  * 12 g matchapoeder
-  * 200 g kristalsuiker
-  * 675 g roomkaas, op kamertemperatuur
-  * 320 g slagroom (min. 35% vet)
-  * 16 g maïzena
-  * 30 g eidooiers (ongeveer 2 stuks)
-  * 100 g heel ei (ongeveer 2 eieren)
+  * **240 g** digestive biscuits
 
-  ### Matcha Swirls
+  * **35 g** kristalsuiker
 
-  * 1 eetlepel van de cheesecakevulling
-  * ¼ theelepel matchapoeder (gezeefd)
+  * **5–7 g** zeer fijn gemalen hōjicha-poeder\
+    *(maal losse hōjicha tot poeder met een handmatige koffiemolen of theemolen)*
+
+  ### **Cheesecakevulling**
+
+
+  * **16 g** matchapoeder
+
+  * **265 g** kristalsuiker
+
+  * **900 g** roomkaas, op kamertemperatuur
+
+  * **425 g** slagroom (min. 35% vet)
+
+  * **20 g** maïzena
+
+  * **40 g** eidooiers (ongeveer 3 stuks)
+
+  * **135 g** heel ei (ongeveer 2½ grote eieren)
+
+
+  ### **Matcha Swirls**
+
+
+  * **1½ eetlepel** van de cheesecakevulling
+
+  * **⅓ theelepel** matchapoeder (gezeefd)
 preparation: >-
   ### Stap 1 – Voorbereiding
 
