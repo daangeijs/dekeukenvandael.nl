@@ -8,6 +8,8 @@ tags:
   - thee
 categories:
   - taart
+cover:
+  image: fac84d2b-ac18-43ee-a136-85a847e6085e_1_102_o.jpg
 summary: "*Zijdezachte gebakken cheesecake met Japanse matcha en een geroosterde
   hōjicha-infusie in een knapperige digestive bodem*"
 time: 3:00
@@ -16,39 +18,39 @@ ingredients: >-
   ### **Bodem**
 
 
-  * **135 g** ongezouten boter
+  * 135 g ongezouten boter
 
-  * **240 g** digestive biscuits
+  * 240 g digestive biscuits
 
-  * **35 g** kristalsuiker
+  * 35 gkristalsuiker
 
-  * **5–7 g** zeer fijn gemalen hōjicha-poeder\
+  * 7 g zeer fijn gemalen hōjicha-poeder\
     *(maal losse hōjicha tot poeder met een handmatige koffiemolen of theemolen)*
 
   ### **Cheesecakevulling**
 
 
-  * **16 g** matchapoeder
+  * 16 g matchapoeder
 
-  * **265 g** kristalsuiker
+  * 265 g kristalsuiker
 
-  * **900 g** roomkaas, op kamertemperatuur
+  * 900 g roomkaas, op kamertemperatuur
 
-  * **425 g** slagroom (min. 35% vet)
+  * 425 g slagroom (min. 35% vet)
 
-  * **20 g** maïzena
+  * 20 g maïzena
 
-  * **40 g** eidooiers (ongeveer 3 stuks)
+  * 40 g eidooiers (ongeveer 3 stuks)
 
-  * **135 g** heel ei (ongeveer 2½ grote eieren)
+  * 135 g heel ei (ongeveer 2½ grote eieren)
 
 
   ### **Matcha Swirls**
 
 
-  * **1½ eetlepel** van de cheesecakevulling
+  * 2 eetlepels van de cheesecakevulling
 
-  * **⅓ theelepel** matchapoeder (gezeefd)
+  * 1/2 theelepel matchapoeder (gezeefd)
 preparation: >-
   ### Stap 1 – Voorbereiding
 
@@ -67,23 +69,17 @@ preparation: >-
 
   2. Voeg 3–5 gram zeer fijn gemalen hōjicha-poeder toe aan de boter.
 
-  3. Laat de boter 5 tot 8 minuten trekken op laag vuur. Roer af en toe door.
+  3.  Smelt de boter en zorg ervoor dat deze niet warmer wordt dan 90 °C . Je kunt de thee toevoegen wanneer er een laagje gesmolten boter in de pan zit. Wanneer de boter 90 °C is zet dan het vuur uit. Laat de boter 5 tot 8 minuten trekken.
 
-  4. Zeef de boter om eventueel achtergebleven stukjes te verwijderen.
+  4. Doe de digestive biscuits in een ziplock-zak en plet ze grof met een deegroller. Laat wat kruimstructuur over.
 
-  5. Doe de digestive biscuits in een ziplock-zak en plet ze grof met een deegroller. Laat wat kruimstructuur over.
+  5. Meng de koekkruimels met de suiker in een kom.
 
-  6. Meng de koekkruimels met de suiker in een kom.
+  6. Voeg de hōjicha-boter toe en meng tot het geheel op nat zand lijkt.
 
-  7. Voeg de hōjicha-boter toe en meng tot het geheel op nat zand lijkt.
+  7. Druk het mengsel stevig uit over de bodem van de springvorm met de achterkant van een lepel of maatbeker.
 
-  8. Druk het mengsel stevig uit over de bodem van de springvorm met de achterkant van een lepel of maatbeker.
-
-  9. Optioneel: bak de bodem 8 minuten op 171 °C voor een krokanter resultaat. Laat volledig afkoelen.
-
-  10. Wikkel de buitenkant van de springvorm in 2 à 3 lagen aluminiumfolie of gebruik een ovenzak om waterlekkage te voorkomen.
-
-  11. Leg een dunne doek of theedoek op de bakplaat en plaats de vorm erop.
+  8. Bak de bodem 8 minuten op 171 °C. 
 
 
   ### Stap 3 – Cheesecakevulling
@@ -103,19 +99,15 @@ preparation: >-
 
   7. Spatel het mengsel door met een rubberen spatel om zeker te zijn dat alles goed gemengd is.
 
+  8. Neem 2 eetlepels van het cheesecakebeslag apart in een klein kommetje.
 
-  ### Stap 4 – Matcha Swirl
+  9. Meng met een halve theelepel gezeefde matchapoeder tot een glad mengsel. 
 
+  10. Doe dit mengsel in een klein spuitzakje of ziplock-zakje en knip een klein puntje af.
 
-  1. Neem 1 eetlepel van het cheesecakebeslag apart in een klein kommetje.
+  11. Giet het cheesecakebeslag in de springvorm.
 
-  2. Meng met ¼ theelepel gezeefde matchapoeder tot een glad mengsel.
-
-  3. Doe dit mengsel in een klein spuitzakje of ziplock-zakje en knip een klein puntje af.
-
-  4. Giet het cheesecakebeslag in de springvorm.
-
-  5. Spuit patronen op de bovenkant en trek met een satéprikker van buiten naar binnen om een marble-effect te maken.
+  12. Spuit cirkels op de bovenkant en trek met een satéprikker van binnen naar buiten om een marble-effect te maken.
 
 
   ### Stap 5 – Bakken
@@ -123,7 +115,7 @@ preparation: >-
 
   1. Plaats de bakplaat met de cheesecake voorzichtig in de oven.
 
-  2. Giet heet water in de bakplaat tot een hoogte van ongeveer een kwart tot een derde van de springvorm.
+  2. Z﻿et een bak met kokend water naast de bakvorm of gebruik de stoomfunctie van de oven.
 
   3. Bak de cheesecake 70 minuten op 162 °C tot deze stevig is, maar nog licht wiebelt in het midden.
 
