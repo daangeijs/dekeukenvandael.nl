@@ -10,11 +10,13 @@ categories:
   - taart
 cover:
   image: fac84d2b-ac18-43ee-a136-85a847e6085e_1_102_o.jpg
-summary: "W﻿ij mochten een taart maken voor een bruiloft. Na het succes van de
-  matcha koekjes leek het mij leuk om dit keer er een taart mee te bakken. Het
-  was lastig kiezen aangezien ik ook enorm van hojicha houd. Ik heb daarom beide
-  thee soorten gecombineerd om er een cheesecake vol groene thee van te maken.
-  Met liefde gebakken voor een prachtig stel. "
+summary: Wij mochten een taart maken voor een bruiloft, dit was op een prachtige
+  locatie in een kas, midden in het groen. Een groene taart leek mij daarom mooi
+  bij het geheel passen. Na het succes van de [matcha
+  koekjes](https://dekeukenvandael.nl/recipes/2025-03-20-matcha-koeken/) kwam ik
+  dan al snel terecht bij een matcha cheesecake. Om de thee smaak te versterken
+  heb ik de bodem met hojicha gemaakt, een geroosterde groene thee. Met veel
+  liefde gebakken voor een prachtig stel.
 time: 3:00
 portions: "12"
 ingredients: >-
