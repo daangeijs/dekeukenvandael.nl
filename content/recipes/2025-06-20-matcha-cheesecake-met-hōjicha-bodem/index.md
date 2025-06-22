@@ -10,8 +10,11 @@ categories:
   - taart
 cover:
   image: fac84d2b-ac18-43ee-a136-85a847e6085e_1_102_o.jpg
-summary: "*Zijdezachte gebakken cheesecake met Japanse matcha en een geroosterde
-  hōjicha-infusie in een knapperige digestive bodem*"
+summary: "W﻿ij mochten een taart maken voor een bruiloft. Na het succes van de
+  matcha koekjes leek het mij leuk om dit keer er een taart mee te bakken. Het
+  was lastig kiezen aangezien ik ook enorm van hojicha houd. Ik heb daarom beide
+  thee soorten gecombineerd om er een cheesecake vol groene thee van te maken.
+  Met liefde gebakken voor een prachtig stel. "
 time: 3:00
 portions: "12"
 ingredients: >-
