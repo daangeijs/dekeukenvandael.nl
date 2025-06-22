@@ -1,6 +1,6 @@
 ---
 title: Matcha Cheesecake met Hōjicha-bodem
-date: 2025-06-20T12:44:19.727Z
+date: 2025-06-21T12:44:19.727Z
 author:
   - Daan Geijs
 tags:
@@ -15,7 +15,7 @@ summary: Wij mochten een taart maken voor een bruiloft, dit was op een prachtige
   bij het geheel passen. Na het succes van de [matcha
   koekjes](https://dekeukenvandael.nl/recipes/2025-03-20-matcha-koeken/) kwam ik
   dan al snel terecht bij een matcha cheesecake. Om de thee smaak te versterken
-  heb ik de bodem met hojicha gemaakt, een geroosterde groene thee. Met veel
+  heb ik de bodem met hōjicha gemaakt, een geroosterde groene thee. Met veel
   liefde gebakken voor een prachtig stel.
 time: 3:00
 portions: "12"
