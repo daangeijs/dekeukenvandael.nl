@@ -27,7 +27,7 @@ ingredients: >-
 
   * 240 g digestive biscuits
 
-  * 35 gkristalsuiker
+  * 35 g kristalsuiker
 
   * 7 g zeer fijn gemalen hōjicha-poeder\
     *(maal losse hōjicha tot poeder met een handmatige koffiemolen of theemolen)*
