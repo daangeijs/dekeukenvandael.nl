@@ -1,5 +1,6 @@
 baseURL: https://www.dekeukenvandael.nl
 languageCode: nl-nl
+defaultContentLanguage: nl
 title: 'De Keuken van Dael'
 theme: "PaperModX"
 
@@ -14,7 +15,7 @@ minify:
   minifyOutput: true
 
 permalinks:
-  posts: /recipes/:filename/
+  posts: /recipes/:contentbasename/
 
 pluralizelisttitles: "false"
 
@@ -22,7 +23,7 @@ params:
   title: Keuken van Dael
   description: "Een kijkje in de keuken van Daan en Elleke"
   author: "Daan Geijs"
-  DateFormat: " 2 January, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -56,7 +57,7 @@ params:
       threshold: 0.3
       minMatchCharLength: 2
   editPost:
-    URL: "https://github.com/daangeijs/dekeukenvandael.nl/content"
+    URL: "https://github.com/daangeijs/dekeukenvandael.nl/edit/main/content"
     Text: "Stel een wijziging voor" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -68,10 +69,21 @@ params:
 
   logo:
     icon: "images/static/logo.svg"
+    iconDark: "images/static/logo-dark.svg"
     iconHeight: 150px
     iconWidth: 400px
 
-paginate: 128
+  # categories shown as folder tiles on the homepage, in this order
+  homeCategories:
+    - vegetarisch
+    - indiaas
+    - koek
+    - taart
+    - brood
+    - pasta
+
+pagination:
+  pagerSize: 128
 
 menu:
   main:

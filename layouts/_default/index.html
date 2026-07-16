@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-{{ range ( last 1 ( where .Site.RegularPages "Type" "recipes" ).ByDate ) }}
+{{ range ( last 1 ( where ( where .Site.RegularPages "Type" "recipes" ) ".Params.cover.image" "!=" nil ).ByDate ) }}
 <article class="first-entry">
     {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
     {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
@@ -20,7 +20,7 @@
         <p>{{ .Params.Summary | markdownify }}{{ if .Truncated }}...{{ end }}</p>
         {{ end }}
     </section>
-        <button class="button-23" role="button">naar het recept!</button>
+        <span class="button-23">naar het recept!</span>
     {{- end }}
      {{- if not (.Param "hideMeta") }}
     <footer class="entry-footer">
@@ -34,5 +34,7 @@
 {{- end }}
 {{ .Scratch.Set "recipe-count" 8 }}
 {{ partial "recipe-block.html" . }}
+
+{{ partial "category-block.html" . }}
 
 {{ end }}

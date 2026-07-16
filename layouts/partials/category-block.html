@@ -1,0 +1,33 @@
+<section class="recipe-block">
+    <header class="block-header">
+        <h2>Categorieën</h2>
+        <a class="block-more" href="{{ "categories/" | absURL }}">alle categorieën »</a>
+    </header>
+    <div class="category-grid">
+        {{- range $name := site.Params.homeCategories }}
+        {{- $term := site.GetPage (printf "/categories/%s" ($name | urlize)) }}
+        {{- with $term }}
+        {{- $recipes := where (where .Pages "Type" "recipes") ".Params.cover.image" "!=" nil }}
+        {{- if gt (len $recipes) 0 }}
+        <a class="category-folder" href="{{ .Permalink }}" aria-label="categorie {{ .Title }}">
+            <div class="folder-grid">
+                {{- range first 4 $recipes.ByDate.Reverse }}
+                {{- $cover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
+                {{- if $cover }}
+                {{- $thumb := $cover.Fill "360x360 webp q80" }}
+                <img loading="lazy" src="{{ $thumb.Permalink }}" alt="{{ .Title }}" width="180" height="180">
+                {{- else }}
+                <img loading="lazy" src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" width="180" height="180">
+                {{- end }}
+                {{- end }}
+            </div>
+            <div class="folder-label">
+                <span class="folder-name">{{ .Title }}</span>
+                <span class="folder-count">{{ len $recipes }} recepten</span>
+            </div>
+        </a>
+        {{- end }}
+        {{- end }}
+        {{- end }}
+    </div>
+</section>

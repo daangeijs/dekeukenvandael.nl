@@ -1,0 +1,78 @@
+{{- /* Parse .Params.time into steps: comma-separated segments, each optionally
+       "Label: duration". Durations understood: "X uur", "X min(uten)",
+       "X uur en Y minuten", "H:MM". Unparseable text is shown as-is and
+       excluded from the total. */}}
+{{- $steps := slice }}
+{{- $total := 0 }}
+{{- with .Params.time }}
+{{- range split (printf "%v" .) "," }}
+{{- $seg := trim . " ." }}
+{{- if $seg }}
+{{- $label := "" }}
+{{- $val := $seg }}
+{{- if and (in $seg ":") (not (findRE `^[0-9]+:[0-5][0-9]$` $seg)) }}
+{{- $parts := split $seg ":" }}
+{{- $label = trim (index $parts 0) " " }}
+{{- $val = trim (delimit (after 1 $parts) ":") " " }}
+{{- end }}
+{{- $mins := 0 }}
+{{- $hm := findRESubmatch `^([0-9]+):([0-5][0-9])$` $val }}
+{{- if $hm }}
+{{- $mins = add (mul (int (index (index $hm 0) 1)) 60) (int (index (index $hm 0) 2)) }}
+{{- else }}
+{{- $h := findRESubmatch `([0-9]+)\s*uur` $val }}
+{{- $m := findRESubmatch `([0-9]+)\s*min` $val }}
+{{- if $h }}{{ $mins = add $mins (mul (int (index (index $h 0) 1)) 60) }}{{ end }}
+{{- if $m }}{{ $mins = add $mins (int (index (index $m 0) 1)) }}{{ end }}
+{{- end }}
+{{- $dur := $val }}
+{{- if and (gt $mins 0) (not (in (lower $val) " per ")) }}
+{{- $hh := div $mins 60 }}
+{{- $mm := mod $mins 60 }}
+{{- if and (gt $hh 0) (gt $mm 0) }}{{ $dur = printf "%d uur %d min" $hh $mm }}
+{{- else if gt $hh 0 }}{{ $dur = printf "%d uur" $hh }}
+{{- else }}{{ $dur = printf "%d min" $mm }}{{ end }}
+{{- $total = add $total $mins }}
+{{- end }}
+{{- $steps = $steps | append (dict "label" $label "dur" $dur) }}
+{{- end }}
+{{- end }}
+{{- end }}
+{{- $multi := gt (len $steps) 1 }}
+{{- if or .Params.portions $steps }}
+<div class="recipe-facts">
+    {{- with .Params.portions }}
+    <span class="fact">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+        {{- if findRE `^[0-9]+$` (printf "%v" .) }}{{ . }} porties{{ else }}{{ . }}{{ end -}}
+    </span>
+    {{- end }}
+    {{- if $steps }}
+    <span class="fact fact-total">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+        {{- if $multi }}
+        {{- $hh := div $total 60 }}
+        {{- $mm := mod $total 60 }}
+        {{- if and (gt $hh 0) (gt $mm 0) }}Totaal: {{ $hh }} uur {{ $mm }} min
+        {{- else if gt $hh 0 }}Totaal: {{ $hh }} uur
+        {{- else }}Totaal: {{ $mm }} min{{ end }}
+        {{- else }}
+        {{- $s := index $steps 0 }}
+        {{- with $s.label }}{{ . }}: {{ end }}{{ $s.dur -}}
+        {{- end }}
+    </span>
+    {{- end }}
+</div>
+{{- if $multi }}
+<ol class="time-steps">
+    {{- range $steps }}
+    <li>
+        <span class="step">
+            {{- with .label }}<span class="step-label">{{ . }}</span>{{ end }}
+            <span class="step-dur">{{ .dur }}</span>
+        </span>
+    </li>
+    {{- end }}
+</ol>
+{{- end }}
+{{- end }}

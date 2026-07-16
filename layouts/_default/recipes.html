@@ -1,14 +1,9 @@
 {{- define "main" }}
 
-{{- if (and site.Params.profileMode.enabled .IsHome) }}
-{{- partial "index_profile.html" . }}
-{{- else }} {{/* if not profileMode */}}
-
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
     {{- partial "breadcrumbs.html" . }}
     <h1>
-        {{/* see: https://gohugo.io/variables/taxonomy/#taxonomy-terms-page-variables */}}
         {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
         {{ .Title -}}
     </h1>
@@ -20,55 +15,25 @@
 </header>
 {{- end }}
 
-
 {{- if .Content }}
-
 <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
 </div>
 {{- end }}
-<div class="page-box">
-    <div>
-{{- $pages := .Pages }}
-{{- if .IsHome }}
-{{/* get all regular pages instead of pages in a section */}}
-{{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
-{{- end }}
-{{- $pages = where $pages "Params.hidden" "!=" true }}
 
-{{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
-{{ $paginator := "" }}
-{{ if (.Param "paginate") }}
-{{- $paginator = .Paginate $pages (.Param "paginate") }}
-{{ else }}
-{{- $paginator = .Paginate $pages }}
-{{ end }}
+{{- $pages := where .Pages "Params.hidden" "!=" true }}
+{{- $pages = where $pages ".Params.cover.image" "!=" nil }}
+{{- $paginator := .Paginate $pages }}
 
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-{{- partial "home_info.html" . }}
-{{- end }}
-
-{{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
-
-{{- $class := "post-entry" }}
-
-{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- else if $term }}
-{{- $class = "post-entry tag-entry" }}
-{{- end }}
-
-
-
-<a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-    {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-    {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+<div class="recipe-entry">
+    {{- range $paginator.Pages }}
+    <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+        {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+        {{- partial "list_cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    </a>
     {{- end }}
-</a>
 </div>
 
 {{- if gt $paginator.TotalPages 1 }}
@@ -82,9 +47,6 @@
         {{- end }}
     </nav>
 </footer>
-    </div>
 {{- end }}
-
-{{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}

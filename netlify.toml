@@ -9,7 +9,7 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 
 [build.environment]
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.116.1"
+  HUGO_VERSION = "0.164.0"
 
 [[headers]]
   for = "/*.html"
@@ -17,7 +17,7 @@ command = "hugo -b $DEPLOY_PRIME_URL"
   X-Frame-Options = "DENY"
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "strict-origin-when-cross-origin"
-  X-Content-Type-Options = "no-sniff"
+  X-Content-Type-Options = "nosniff"
 
 [[headers]]
   for = "/*.(jpg|jpeg|png|gif|webp)"

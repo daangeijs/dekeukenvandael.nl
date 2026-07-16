@@ -8,33 +8,38 @@
     --footer-height: 80px;
     --radius: 8px;
     --monospace: "Lucida Console", Monaco, "Consolas", monospace;
+    --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
 
-    --first-post-title: #3c663c;
-    --block-background: rgb(245, 245, 245);
-    --block-header: #000000;
-    --block-header-background: #faf03b;
+    /* warm cream base, leafy green accent (matches the logo) */
+    --theme: rgb(246, 242, 231);
+    --entry: rgb(255, 253, 246);
+    --primary: rgb(44, 42, 34);
+    --primary-dim: rgb(69, 66, 58);
+    --secondary: rgb(110, 106, 92);
+    --tertiary: rgb(162, 156, 140);
+    --tertiary-bg: rgb(227, 221, 203);
+    --content: rgb(55, 52, 43);
+    --code-bg: rgb(239, 233, 218);
+    --border: rgb(228, 221, 202);
 
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --primary-dim: rgb(60, 60, 60);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(158, 158, 158);
-    --tertiary-bg: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --code-bg: white;
-    --border: rgb(238, 238, 238);
-    --link-background-color: #e8e3f7;
+    --accent: #2e7031;
+    --header-bg: #e9edd6;
+    --first-post-title: var(--accent);
+    --block-background: var(--entry);
+    --block-header: var(--primary);
+    --block-header-background: transparent;
+
+    --link-background-color: #e4eed9;
     --link-color: var(--primary);
-    --link-hover-color: #573eaa;
+    --link-hover-color: var(--accent);
     --link-underline-shadow: 0 1px 0 var(--link-color);
-    --link-hover-underline-color: #6549c0;
+    --link-hover-underline-color: var(--accent);
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
     --link-transition: all 0.3s ease;
     --line-yellow: url("data:image/svg+xml;charset=utf-8,%3Csvg preserveAspectRatio='none' width='120' height='6' viewBox='0 0 120 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M119 0.8C60 4 50-0.5 1 1.5' stroke='%23fc0' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
 
     /* for type pages theming */
-    --signature: var(--primary);
+    --signature: var(--accent);
     --signature-bg: var(--secondary);
 }
 @media screen and (max-width: 500px) {
@@ -45,35 +50,29 @@
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --primary-dim: rgb(186, 186, 186);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(123, 124, 124);
-    --tertiary-bg: rgb(65, 66, 68);
+    /* deep warm charcoal, crisp cream text, lime-leaf accent from the logo */
+    --theme: rgb(24, 25, 21);
+    --entry: rgb(35, 37, 30);
+    --primary: rgb(240, 238, 224);
+    --primary-dim: rgb(214, 212, 196);
+    --secondary: rgb(168, 170, 150);
+    --tertiary: rgb(118, 121, 102);
+    --tertiary-bg: rgb(52, 54, 43);
+    --content: rgb(217, 216, 199);
+    --code-bg: rgb(43, 45, 36);
+    --border: rgb(54, 56, 45);
 
+    --accent: #b8d95e;
+    --header-bg: #21231b;
+    --first-post-title: var(--primary);
+    --block-background: var(--entry);
+    --block-header: var(--primary);
+    --block-header-background: transparent;
 
-    --first-post-title: #d9dd40;
-    --block-background: #3d412c;
-    --block-header: #d9dd40;
-    --block-header-background: #3b663b;
-
-    --content: rgb(196, 196, 197);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
-    --link-background-color: #5242746d;
+    --link-background-color: rgba(94, 112, 55, 0.35);
     --link-color: var(--primary);
-    --link-hover-color: #876fd6;
+    --link-hover-color: var(--accent);
     --link-underline-shadow: 0 1px 0 var(--link-color);
-    --link-hover-underline-color: var(--link-hover-color);
+    --link-hover-underline-color: var(--accent);
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
-}
-
-.list-page {
-    background: var(--code-bg);
-}
-
-.dark.list-page {
-    background: var(--theme);
 }
